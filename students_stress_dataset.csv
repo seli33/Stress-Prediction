@@ -1,0 +1,1001 @@
+stress_level,hours_of_sleep,Age,Hours_of_Screen_Time,Physical_Activity,Gender,study_load,exam_session
+High,6.9,18,9.0,Moderate,Female,2.5,No Exam
+Low,5.0,20,5.8,Moderate,Male,7.2,No Exam
+Normal,7.6,20,3.8,Low,Female,6.6,No Exam
+Low,5.8,21,3.7,Low,Male,5.8,No Exam
+High,4.0,20,5.7,High,Male,2.1,Exam
+Normal,8.4,23,8.1,Moderate,Female,3.6,No Exam
+Normal,8.2,19,5.9,Low,Female,3.3,No Exam
+Low,3.5,18,6.4,Moderate,Male,4.7,No Exam
+High,5.7,23,4.0,Low,Male,4.5,Nearing
+Low,5.6,19,8.0,Low,Male,3.0,No Exam
+High,9.0,22,3.7,Moderate,Male,5.7,Exam
+High,6.4,24,5.0,Low,Female,5.5,Exam
+Low,4.3,21,7.3,Low,Male,3.5,No Exam
+Normal,7.8,20,1.9,High,Female,5.6,No Exam
+High,4.7,22,6.3,Low,Female,7.2,Nearing
+High,6.1,20,3.9,Low,Male,7.9,Nearing
+Normal,5.3,23,6.0,High,Female,6.0,Nearing
+Very High,5.7,18,5.3,Moderate,Male,5.9,Exam
+Normal,7.9,18,10.2,Moderate,Female,4.5,No Exam
+Normal,8.8,18,5.2,High,Female,7.1,No Exam
+High,4.6,20,9.7,Low,Male,2.9,Nearing
+High,7.4,22,7.2,Moderate,Female,6.8,No Exam
+Normal,5.4,18,4.4,Moderate,Female,4.4,Nearing
+High,5.4,22,6.7,High,Male,8.0,Exam
+Very High,7.2,20,5.4,Moderate,Female,6.2,Exam
+Normal,5.0,23,6.5,Moderate,Female,4.9,No Exam
+Low,7.2,22,4.6,Low,Male,4.5,No Exam
+Normal,7.6,23,9.4,Low,Male,6.1,No Exam
+High,5.9,20,7.9,Moderate,Female,6.0,No Exam
+High,8.5,20,6.1,Moderate,Female,4.2,Nearing
+High,4.6,21,9.5,Moderate,Female,5.2,Nearing
+Very High,8.5,20,6.1,Low,Male,6.8,Exam
+Low,3.6,20,8.2,Moderate,Female,2.3,No Exam
+Low,10.0,19,6.1,Moderate,Female,6.5,No Exam
+Normal,5.9,18,6.8,High,Female,6.0,No Exam
+Very High,4.8,21,5.8,Moderate,Female,7.4,Exam
+Normal,6.2,24,6.2,High,Female,3.6,Nearing
+Normal,4.9,21,6.3,High,Female,5.0,No Exam
+High,7.1,21,4.7,Moderate,Male,5.4,Nearing
+Normal,8.6,24,5.2,Moderate,Male,6.5,No Exam
+Very High,5.0,19,5.6,High,Female,5.9,Exam
+High,7.4,23,6.5,Moderate,Female,2.5,Nearing
+Very High,4.2,20,5.9,High,Male,5.6,Exam
+High,8.0,18,8.3,Moderate,Male,9.0,Nearing
+Normal,7.1,22,7.7,Moderate,Male,6.2,No Exam
+High,8.1,24,5.6,Low,Female,8.3,Exam
+High,6.3,23,8.8,Low,Female,7.1,Exam
+Low,5.8,24,9.7,High,Female,7.7,No Exam
+High,7.7,20,1.9,Moderate,Female,5.6,Exam
+High,4.5,19,7.9,Moderate,Male,6.0,Exam
+Low,3.9,24,4.6,High,Male,5.5,No Exam
+Normal,6.5,20,7.6,Moderate,Male,5.0,No Exam
+Normal,5.9,20,8.5,Moderate,Male,6.5,No Exam
+Low,7.3,19,4.2,Moderate,Female,4.0,No Exam
+High,8.1,21,2.3,Moderate,Female,8.8,Nearing
+Normal,7.3,21,7.7,Low,Male,3.1,No Exam
+Low,8.0,18,6.3,Low,Male,6.6,No Exam
+High,7.0,18,2.7,Low,Male,7.8,No Exam
+High,7.2,21,11.1,Low,Male,4.6,Nearing
+Normal,6.3,23,7.2,Moderate,Male,2.8,No Exam
+High,7.2,22,7.3,Low,Female,7.3,Exam
+High,6.7,20,8.7,Low,Female,5.4,Nearing
+Normal,7.0,22,4.8,Low,Male,6.6,No Exam
+Normal,6.2,20,6.3,Low,Male,4.8,No Exam
+High,7.7,21,3.4,Moderate,Male,8.5,Nearing
+Low,5.4,18,4.8,High,Female,1.0,No Exam
+Low,6.5,23,6.8,Moderate,Female,5.8,No Exam
+Very High,8.5,18,2.7,Low,Female,7.7,Exam
+Normal,5.1,22,4.7,Low,Male,5.2,No Exam
+Normal,3.3,18,4.1,Low,Female,5.6,No Exam
+Normal,7.0,21,6.3,Moderate,Male,4.1,Nearing
+High,6.1,23,7.1,Low,Female,5.0,Exam
+Low,8.0,22,7.5,Moderate,Female,1.7,No Exam
+Normal,6.3,23,8.0,Low,Female,3.6,No Exam
+Normal,5.6,20,8.7,High,Male,3.4,No Exam
+High,6.4,18,7.2,Low,Male,6.3,Nearing
+Normal,8.1,23,9.8,Low,Female,3.9,No Exam
+Normal,7.4,19,6.2,High,Male,3.9,No Exam
+Normal,3.0,18,5.7,Low,Male,4.2,No Exam
+Normal,6.8,20,7.2,Low,Male,3.5,No Exam
+Normal,6.9,23,5.6,Moderate,Male,5.5,Nearing
+Normal,6.5,22,9.7,Moderate,Male,5.8,No Exam
+Normal,5.6,20,8.3,Moderate,Male,6.7,No Exam
+Normal,8.3,19,7.5,Low,Male,6.3,No Exam
+Normal,8.4,23,6.3,Low,Female,6.1,No Exam
+High,3.2,24,5.2,Low,Male,4.3,Nearing
+High,5.3,24,7.4,Low,Male,4.2,Nearing
+Low,6.3,21,3.7,High,Female,3.3,No Exam
+Low,7.9,18,9.1,Moderate,Female,3.2,No Exam
+Normal,6.6,22,5.6,Low,Female,5.4,No Exam
+Normal,5.5,21,6.6,Moderate,Female,3.6,Nearing
+Very High,7.6,23,4.2,Low,Male,7.9,Exam
+High,6.2,24,7.4,High,Female,4.9,No Exam
+Normal,6.3,24,5.1,Low,Female,8.0,Nearing
+High,6.5,24,7.3,Low,Male,6.1,Exam
+Low,7.4,23,7.5,Moderate,Male,3.4,No Exam
+Very High,6.0,24,4.7,Moderate,Male,4.9,Exam
+Normal,7.5,20,3.8,Moderate,Female,1.7,No Exam
+Low,6.4,23,9.1,Low,Male,5.4,No Exam
+High,4.9,22,5.6,Low,Female,3.6,Nearing
+High,6.4,21,6.4,Low,Male,2.8,Nearing
+High,5.0,22,7.0,Low,Male,8.0,Exam
+High,6.6,19,3.5,High,Female,7.1,Nearing
+Very High,7.7,24,6.9,Low,Male,7.0,Exam
+High,4.9,19,6.2,Low,Male,6.6,Exam
+Normal,7.0,18,4.7,Moderate,Male,2.5,Nearing
+Low,5.3,18,3.7,Low,Male,4.2,No Exam
+Low,6.8,19,7.2,Moderate,Male,4.3,No Exam
+High,7.8,23,8.3,High,Female,1.6,Nearing
+High,3.3,22,6.4,Low,Female,3.9,No Exam
+Normal,4.8,19,3.1,High,Male,3.9,Nearing
+Low,5.9,18,3.9,Moderate,Female,5.3,No Exam
+High,7.0,19,5.1,Low,Female,10.0,Exam
+Low,6.3,23,9.1,Low,Female,5.0,No Exam
+High,6.4,19,5.5,Low,Male,5.3,Nearing
+Normal,9.6,22,5.1,Moderate,Male,4.5,Nearing
+High,4.7,21,2.7,Moderate,Male,6.5,Exam
+Low,8.2,23,4.7,High,Female,2.9,No Exam
+High,6.0,18,3.5,High,Female,8.8,Nearing
+Low,7.3,22,4.0,Moderate,Male,4.8,No Exam
+Very High,9.7,19,6.2,Moderate,Male,4.2,Exam
+Low,7.5,19,5.2,Low,Female,6.9,No Exam
+Normal,7.1,21,9.4,Moderate,Female,3.2,No Exam
+High,8.9,18,8.2,Low,Male,6.4,Nearing
+Low,8.2,18,4.8,Moderate,Female,7.8,No Exam
+Normal,5.3,20,4.2,Low,Female,4.5,No Exam
+High,6.9,18,8.8,Low,Female,9.1,Nearing
+High,3.9,21,9.3,Low,Female,6.3,No Exam
+Normal,5.7,24,1.6,Low,Female,6.3,No Exam
+Normal,7.0,20,6.2,Moderate,Female,7.7,No Exam
+High,5.6,20,5.5,Low,Female,8.3,No Exam
+Normal,6.9,19,7.3,Moderate,Male,5.5,No Exam
+Normal,6.5,19,9.9,Low,Male,6.6,Nearing
+High,7.3,18,5.0,Moderate,Female,7.8,No Exam
+Low,5.9,20,1.9,Low,Female,2.7,No Exam
+Normal,5.1,19,7.2,Low,Female,1.5,No Exam
+Normal,8.7,21,8.8,Moderate,Male,4.9,Nearing
+High,5.8,19,5.4,Low,Male,1.5,Exam
+High,7.5,23,4.6,Low,Female,4.4,Exam
+Normal,8.7,23,5.1,Low,Male,5.6,No Exam
+Low,6.7,19,7.7,Low,Female,4.4,No Exam
+Low,5.2,20,5.1,Moderate,Female,4.7,No Exam
+Normal,6.2,24,6.7,Low,Female,3.0,Nearing
+Normal,8.0,24,6.1,Moderate,Female,6.6,No Exam
+High,6.8,20,5.8,High,Female,2.9,No Exam
+Normal,4.7,22,7.4,Low,Female,1.0,No Exam
+Normal,7.4,24,5.0,High,Female,4.6,No Exam
+High,7.7,23,5.1,Moderate,Male,6.8,Nearing
+High,6.0,21,7.6,Moderate,Female,5.2,Exam
+Low,7.4,20,4.0,Moderate,Male,2.7,No Exam
+Normal,6.9,18,4.2,Moderate,Female,5.2,Nearing
+Low,6.2,23,3.5,Moderate,Female,5.9,No Exam
+High,4.6,21,7.7,Low,Male,5.2,Exam
+High,8.1,21,5.8,Low,Male,4.5,Exam
+Normal,7.6,20,3.4,Low,Female,6.0,No Exam
+Low,7.4,21,7.7,Low,Male,1.5,No Exam
+High,8.8,20,4.9,Low,Female,3.2,Exam
+High,7.9,24,4.3,Low,Female,2.4,Nearing
+High,7.5,19,5.6,Low,Male,7.7,Exam
+Very High,3.2,23,9.0,Moderate,Male,6.4,Exam
+High,8.3,22,5.2,High,Male,5.4,Nearing
+High,6.6,19,7.2,High,Male,2.1,Exam
+High,7.0,23,7.5,Low,Female,6.5,Nearing
+High,7.0,20,6.9,Moderate,Male,7.8,Nearing
+Normal,7.7,23,8.5,High,Male,6.1,No Exam
+Normal,8.2,24,4.6,Low,Male,4.9,No Exam
+High,7.5,20,3.9,Low,Male,6.3,Nearing
+Normal,7.2,19,3.9,High,Male,5.5,No Exam
+Normal,6.8,18,5.7,Moderate,Female,6.9,Nearing
+High,3.0,18,4.1,Low,Female,6.8,Exam
+Normal,6.1,23,6.3,Low,Male,4.6,Nearing
+Normal,5.1,18,6.2,Low,Male,3.7,No Exam
+Low,8.3,20,8.0,High,Female,4.2,No Exam
+High,7.4,21,6.6,Moderate,Male,6.1,No Exam
+Normal,5.8,20,5.2,Low,Female,4.3,No Exam
+High,6.0,21,6.8,Low,Female,3.5,Nearing
+High,5.9,19,3.9,Moderate,Male,5.0,No Exam
+High,5.9,22,5.9,Moderate,Female,7.2,No Exam
+High,4.3,21,6.6,Low,Male,5.3,No Exam
+Normal,4.0,18,6.3,High,Male,4.4,No Exam
+Normal,6.5,20,6.8,Low,Female,5.6,No Exam
+Low,8.1,19,4.7,Low,Female,5.2,No Exam
+Normal,5.7,18,8.3,Moderate,Male,1.1,Nearing
+High,7.0,19,9.6,Low,Female,6.4,Exam
+High,7.6,22,2.8,High,Male,5.8,Exam
+Low,5.0,24,3.6,Moderate,Female,5.0,No Exam
+High,6.5,20,6.1,Moderate,Female,7.1,Exam
+High,5.5,23,5.5,Low,Male,7.4,No Exam
+High,8.9,20,9.8,Low,Male,6.6,Exam
+High,8.8,22,6.4,Low,Male,3.3,Nearing
+Very High,5.0,20,8.8,Moderate,Female,3.4,Exam
+Very High,7.1,23,1.9,Moderate,Male,7.2,Exam
+Normal,8.1,21,7.6,High,Male,1.2,No Exam
+High,7.8,19,4.6,Moderate,Female,4.7,No Exam
+Very High,6.6,23,4.5,High,Female,5.9,Exam
+High,8.5,18,5.5,Moderate,Male,1.5,No Exam
+High,5.1,22,3.2,Low,Male,5.5,Exam
+High,6.0,21,6.9,Low,Male,6.9,Nearing
+Low,5.2,18,6.4,Moderate,Male,2.0,No Exam
+Normal,7.7,18,6.5,Low,Female,8.3,Nearing
+Normal,5.6,22,7.8,Low,Female,3.0,No Exam
+Normal,6.2,21,9.0,Moderate,Male,6.1,No Exam
+High,7.4,24,5.3,High,Male,4.8,No Exam
+High,7.5,18,7.0,Low,Male,5.1,Exam
+High,5.1,18,6.6,Moderate,Female,2.4,No Exam
+Normal,8.1,21,6.8,High,Male,7.5,No Exam
+Normal,7.2,20,6.8,Low,Male,5.7,No Exam
+High,4.9,18,9.2,Low,Female,8.2,Nearing
+Normal,4.5,19,5.1,Low,Female,2.5,No Exam
+Normal,6.5,21,2.9,Moderate,Male,4.6,Nearing
+High,7.8,18,4.6,Moderate,Male,5.4,No Exam
+Low,7.8,22,7.5,High,Female,5.1,No Exam
+Low,7.0,23,6.0,Moderate,Male,6.3,No Exam
+High,6.6,19,5.1,Low,Male,4.6,Nearing
+Normal,7.3,23,3.8,Low,Female,9.2,Nearing
+High,5.2,23,6.4,Moderate,Female,5.1,Nearing
+High,9.0,18,7.3,Low,Female,1.0,Exam
+High,9.0,19,6.6,Low,Male,5.2,No Exam
+High,7.1,19,5.5,Low,Female,7.5,Exam
+High,6.8,20,6.3,Low,Female,3.2,No Exam
+Normal,5.9,23,6.3,Low,Male,3.0,No Exam
+High,7.3,19,6.4,Low,Male,3.3,Exam
+Normal,5.5,20,3.6,Low,Female,2.8,No Exam
+High,3.2,21,6.4,Low,Female,4.0,No Exam
+High,3.0,20,5.1,Moderate,Male,6.8,Nearing
+Low,5.3,22,8.1,High,Male,8.1,No Exam
+High,6.7,24,6.3,Low,Female,1.0,Nearing
+High,7.0,18,7.7,Moderate,Female,4.2,Nearing
+Very High,5.8,21,5.4,Low,Male,5.6,Exam
+Normal,6.7,24,5.5,Moderate,Female,5.4,No Exam
+Normal,6.1,24,9.0,High,Male,8.8,No Exam
+Low,5.0,21,6.9,Moderate,Female,1.0,No Exam
+High,6.4,22,4.6,High,Male,1.0,Nearing
+Normal,7.7,20,7.8,Low,Male,9.1,No Exam
+Low,5.1,18,4.9,Low,Female,6.5,No Exam
+High,5.1,20,6.5,High,Female,3.9,Nearing
+Normal,4.9,19,9.7,Low,Male,5.3,No Exam
+Very High,3.6,20,3.1,Low,Female,5.5,Exam
+High,5.8,21,5.6,Moderate,Female,3.8,No Exam
+Normal,7.6,18,6.8,High,Female,5.3,No Exam
+High,6.8,20,7.5,High,Male,5.7,Nearing
+Normal,6.2,18,3.5,Low,Female,9.0,No Exam
+Low,6.7,18,2.9,High,Female,6.9,No Exam
+High,5.8,19,8.2,Low,Male,8.5,Nearing
+High,3.6,19,4.6,Low,Female,2.3,Nearing
+Normal,7.7,21,4.5,Moderate,Female,4.3,No Exam
+Low,8.1,22,9.1,Low,Male,5.5,No Exam
+High,5.4,24,6.1,Low,Male,1.2,Exam
+Normal,6.3,18,6.2,Moderate,Female,7.4,Nearing
+Normal,6.1,22,5.6,Low,Female,6.3,Nearing
+Normal,7.0,24,3.6,Low,Male,4.3,No Exam
+Low,9.0,24,7.4,Low,Male,4.6,No Exam
+High,8.2,21,6.8,Low,Female,7.5,Nearing
+Normal,5.9,24,6.3,Low,Female,3.4,No Exam
+High,7.3,24,5.8,Moderate,Female,7.6,Nearing
+High,8.4,18,5.4,Moderate,Male,4.5,Nearing
+Normal,7.1,18,7.8,Low,Female,6.5,No Exam
+Normal,6.5,23,5.7,High,Male,5.2,No Exam
+Normal,7.2,22,5.9,Low,Male,9.5,No Exam
+Normal,5.4,20,7.1,Low,Male,3.2,Nearing
+High,5.7,19,6.4,High,Female,3.9,No Exam
+Low,4.9,20,9.3,Low,Female,2.0,No Exam
+Normal,7.0,22,2.5,High,Female,2.8,Nearing
+Normal,6.3,19,6.6,Low,Male,6.4,No Exam
+Normal,5.3,20,4.6,Moderate,Female,8.2,Nearing
+High,6.3,23,4.1,Low,Male,6.7,No Exam
+High,7.2,19,5.1,Low,Male,5.0,Nearing
+High,9.4,18,6.1,Low,Male,3.2,Nearing
+Very High,8.0,20,6.2,Moderate,Male,6.8,Exam
+Normal,3.1,19,3.0,Moderate,Male,3.1,No Exam
+High,6.9,23,4.9,High,Male,2.3,No Exam
+Low,8.6,24,6.6,Low,Female,4.4,No Exam
+High,4.5,19,4.2,Low,Male,1.0,Nearing
+Normal,7.3,19,3.8,Low,Female,2.2,Nearing
+Normal,6.1,23,1.5,Moderate,Male,8.8,No Exam
+Normal,8.2,24,4.7,High,Female,1.9,Nearing
+High,7.1,20,3.7,Low,Female,2.6,Nearing
+Normal,5.2,21,4.0,Moderate,Female,5.1,Nearing
+High,6.2,20,5.5,Low,Female,5.2,No Exam
+Very High,6.3,24,4.8,Moderate,Male,4.5,Exam
+High,6.3,22,3.7,High,Male,1.0,No Exam
+High,8.2,23,1.8,Low,Male,6.7,Exam
+Normal,5.2,20,6.6,Low,Male,4.1,No Exam
+Normal,8.0,19,7.5,High,Female,7.4,No Exam
+Low,6.0,23,5.2,High,Female,3.7,No Exam
+Low,6.8,18,5.5,Moderate,Female,7.0,No Exam
+Normal,6.6,24,6.0,Moderate,Male,7.6,No Exam
+Normal,6.5,20,9.2,Low,Female,4.1,No Exam
+Normal,6.5,23,2.9,Moderate,Male,6.8,No Exam
+High,8.7,20,5.2,High,Female,2.3,Exam
+Low,7.8,23,2.6,Moderate,Female,5.5,No Exam
+Low,6.0,19,6.7,Low,Female,7.4,No Exam
+Low,8.9,18,5.7,Low,Female,6.0,No Exam
+High,6.9,18,6.4,Low,Female,9.8,No Exam
+High,7.0,22,6.3,Low,Male,6.1,Exam
+High,5.2,23,8.0,Low,Female,4.3,Exam
+Low,5.8,20,7.1,Low,Male,10.0,No Exam
+Very High,5.5,18,7.7,Low,Male,8.3,Exam
+Very High,6.6,24,3.9,Low,Male,1.8,Exam
+Very High,7.5,18,8.4,Moderate,Male,3.4,Exam
+High,7.1,21,4.6,Low,Male,2.9,Nearing
+High,8.9,21,4.7,Low,Male,6.3,Nearing
+Normal,5.2,18,6.5,Low,Male,6.1,Nearing
+High,6.7,23,6.6,Low,Male,6.1,Nearing
+Normal,4.6,22,3.9,Moderate,Female,1.7,No Exam
+High,5.1,18,5.7,Low,Female,3.7,Nearing
+High,8.4,19,9.0,Moderate,Male,4.7,Nearing
+Very High,5.8,20,3.1,High,Male,1.4,Exam
+Normal,5.3,22,9.0,Moderate,Male,3.3,No Exam
+High,3.3,19,5.5,Moderate,Female,7.7,No Exam
+Very High,5.3,22,1.3,High,Female,1.9,Exam
+High,6.2,19,3.3,Moderate,Male,7.9,Nearing
+Normal,4.5,20,4.1,Low,Male,7.2,No Exam
+Low,6.1,20,4.8,Low,Female,4.4,No Exam
+High,8.4,21,5.8,High,Female,3.7,Nearing
+Low,5.4,23,1.0,Low,Male,6.7,No Exam
+High,5.1,19,6.4,Low,Male,3.4,Nearing
+High,4.8,21,3.9,Moderate,Male,3.5,No Exam
+Normal,4.8,19,8.8,High,Male,5.0,No Exam
+High,7.3,21,5.5,Low,Female,1.0,Nearing
+Normal,6.6,20,7.9,Moderate,Female,2.1,Nearing
+Low,7.9,22,8.2,Low,Male,4.4,No Exam
+High,9.5,24,8.2,Moderate,Male,6.0,Nearing
+High,3.8,21,4.9,Low,Male,3.4,Exam
+Normal,7.1,19,4.8,Low,Female,4.6,Nearing
+High,4.8,19,5.6,High,Male,1.8,Nearing
+Normal,7.7,24,7.3,Low,Male,6.9,No Exam
+High,6.1,23,5.0,Moderate,Male,5.4,Nearing
+Low,6.5,20,5.8,Low,Female,5.6,No Exam
+High,4.6,19,6.5,Low,Male,6.0,Nearing
+Normal,5.9,18,4.2,Moderate,Female,5.2,No Exam
+Very High,6.6,22,4.1,Low,Male,4.0,Exam
+Normal,8.5,21,5.7,Low,Male,7.3,No Exam
+High,5.3,23,5.9,Low,Male,5.3,Exam
+High,5.7,24,6.9,Moderate,Female,4.7,Nearing
+Normal,7.9,22,7.3,High,Male,5.0,No Exam
+High,5.2,20,3.8,High,Male,4.9,No Exam
+Normal,8.2,23,4.4,Low,Female,4.6,No Exam
+High,6.5,21,4.1,Low,Female,5.9,Nearing
+High,7.0,21,8.8,Low,Female,3.1,Nearing
+Normal,7.1,24,5.8,High,Male,3.3,No Exam
+High,5.6,18,6.0,Low,Female,6.1,Nearing
+High,7.1,24,6.1,High,Male,4.7,Exam
+Normal,5.3,20,4.6,Low,Female,6.9,No Exam
+Normal,5.7,23,9.1,High,Female,5.8,No Exam
+Normal,7.3,23,6.8,High,Female,3.9,No Exam
+Normal,6.9,19,6.1,High,Male,6.2,No Exam
+High,6.4,18,3.8,Low,Male,7.4,No Exam
+Normal,4.6,18,3.7,Low,Male,5.9,No Exam
+High,5.0,23,5.4,Low,Male,6.3,Exam
+High,6.9,23,4.6,Low,Male,4.7,No Exam
+High,7.6,22,3.9,Low,Male,7.0,Exam
+Normal,4.8,22,5.3,Moderate,Male,3.8,Nearing
+Low,5.2,22,5.6,Low,Male,5.7,No Exam
+High,6.7,18,6.3,Moderate,Male,10.0,Nearing
+Low,6.7,19,5.0,Moderate,Female,6.1,No Exam
+Normal,4.1,21,4.0,Low,Female,4.2,Nearing
+Normal,6.7,22,4.1,High,Male,4.2,Nearing
+High,5.6,19,8.4,Low,Male,4.9,Exam
+Low,9.0,24,3.5,Low,Male,6.7,No Exam
+High,6.9,20,6.7,Low,Male,5.3,Exam
+High,7.1,22,7.0,High,Female,3.7,Nearing
+Low,7.2,24,5.8,Low,Female,3.7,No Exam
+Normal,4.7,21,9.5,Low,Male,5.3,Nearing
+Low,9.4,20,7.0,Moderate,Female,5.1,No Exam
+Normal,4.1,20,9.7,Low,Female,5.9,Nearing
+High,7.7,21,4.7,Moderate,Male,6.8,Nearing
+Very High,7.4,22,4.7,High,Male,10.0,Exam
+Low,5.8,18,7.1,High,Male,2.1,No Exam
+Normal,7.5,21,5.5,Low,Male,6.4,No Exam
+Normal,6.0,21,9.4,Low,Female,5.2,Nearing
+High,5.5,21,6.7,Low,Male,1.3,No Exam
+Very High,7.2,20,3.9,Low,Female,7.5,Exam
+High,5.0,19,2.5,Low,Male,5.8,Nearing
+High,6.2,24,5.8,Low,Female,6.6,Exam
+High,5.6,18,5.8,High,Male,1.6,No Exam
+Low,6.0,22,6.6,High,Male,4.6,No Exam
+Low,7.1,22,8.4,Low,Female,2.8,No Exam
+High,5.6,24,8.2,Low,Female,9.3,Exam
+Low,6.2,19,4.8,Low,Female,7.3,No Exam
+Very High,5.7,21,3.4,Low,Male,3.6,Exam
+Very High,8.7,18,3.5,Moderate,Female,1.9,Exam
+Normal,7.0,22,4.5,Moderate,Female,5.4,Nearing
+High,6.8,24,5.3,High,Female,7.2,Exam
+High,7.5,23,6.6,Moderate,Female,1.5,No Exam
+Very High,5.6,24,4.4,Moderate,Female,3.1,Exam
+Normal,7.8,22,6.6,Moderate,Female,2.8,No Exam
+High,7.0,21,6.7,Low,Female,6.7,Nearing
+High,4.2,23,6.3,Moderate,Female,4.3,Nearing
+Normal,4.4,19,3.7,Low,Female,4.3,No Exam
+Low,5.6,18,6.9,Low,Male,5.3,No Exam
+High,4.5,19,10.2,Low,Male,3.2,Exam
+High,6.1,19,6.5,Low,Female,2.1,Nearing
+Low,5.0,24,1.0,High,Male,7.7,No Exam
+High,6.4,18,8.5,Low,Male,7.9,No Exam
+Normal,8.6,18,4.6,Low,Female,5.4,Nearing
+High,6.4,22,10.5,Low,Female,5.5,Exam
+Low,6.0,22,6.2,Moderate,Female,7.5,No Exam
+High,7.1,18,2.6,Low,Female,5.3,Exam
+High,5.5,23,1.9,High,Female,4.2,No Exam
+High,7.8,20,9.1,High,Female,5.1,Nearing
+High,7.2,22,8.2,Moderate,Male,7.8,Nearing
+Very High,6.6,20,10.5,Moderate,Female,5.1,Exam
+Normal,6.7,24,6.0,Low,Male,3.7,Nearing
+Normal,9.6,23,5.9,Low,Female,5.3,No Exam
+High,7.9,18,5.2,Moderate,Female,6.3,Nearing
+High,9.8,23,4.7,Low,Male,6.1,Exam
+High,7.3,22,5.2,Low,Female,6.1,Exam
+High,4.3,19,6.4,Moderate,Female,3.3,Exam
+Normal,6.1,24,4.3,Low,Male,6.5,No Exam
+High,3.9,18,2.7,High,Female,5.1,Nearing
+High,7.3,21,6.3,Low,Male,3.6,No Exam
+Normal,7.6,24,4.3,Moderate,Female,6.5,No Exam
+High,5.2,20,1.0,Moderate,Female,4.1,Nearing
+High,5.5,23,7.1,Moderate,Male,1.9,Nearing
+Low,6.7,18,3.8,Low,Female,3.0,No Exam
+High,4.7,24,7.3,Moderate,Male,4.6,No Exam
+High,4.6,23,7.3,High,Male,6.2,No Exam
+Normal,8.4,18,6.6,Low,Male,3.3,No Exam
+Low,6.7,22,11.0,Low,Female,4.5,No Exam
+Low,5.7,24,5.7,Moderate,Female,2.6,No Exam
+Normal,4.0,22,5.4,Moderate,Male,7.0,No Exam
+Normal,7.8,24,7.4,Low,Female,8.4,Nearing
+High,5.5,22,5.9,High,Female,8.2,No Exam
+High,9.3,23,8.3,Low,Female,6.9,Exam
+High,7.8,21,3.5,Low,Male,6.7,Exam
+High,5.3,24,3.5,Moderate,Female,1.0,Nearing
+Normal,5.4,24,7.5,Moderate,Male,5.4,No Exam
+Normal,9.1,22,3.7,High,Female,4.0,Nearing
+Low,6.4,18,7.2,High,Female,6.8,No Exam
+High,5.7,24,6.7,Low,Male,1.0,Exam
+High,6.5,22,4.6,Low,Female,5.4,Nearing
+Normal,5.7,19,6.7,Low,Male,4.6,Nearing
+Normal,6.9,22,3.5,Moderate,Female,7.2,No Exam
+Very High,6.4,23,4.0,High,Male,8.1,Exam
+Normal,7.8,21,5.5,Low,Female,3.1,Nearing
+High,5.9,19,6.2,Low,Female,3.2,No Exam
+High,5.2,23,5.4,Low,Female,5.5,Nearing
+Low,6.0,23,6.9,High,Male,8.5,No Exam
+High,6.0,23,6.8,Low,Male,5.1,No Exam
+Normal,6.4,18,9.1,Low,Male,2.4,No Exam
+Very High,7.5,23,5.8,Moderate,Female,3.8,Exam
+High,7.4,18,8.4,High,Male,5.4,Nearing
+High,8.3,23,7.8,Moderate,Male,5.5,Nearing
+High,5.3,20,10.6,Moderate,Male,3.6,Nearing
+High,7.1,19,5.7,Low,Male,3.7,Nearing
+High,7.6,20,5.2,Moderate,Male,3.0,Nearing
+Normal,5.5,23,8.5,Moderate,Male,7.3,No Exam
+High,6.2,19,6.8,High,Male,3.3,No Exam
+Normal,3.9,19,8.6,Low,Male,4.1,Nearing
+Low,7.9,24,7.4,Low,Male,4.0,No Exam
+Normal,6.2,21,1.8,Low,Male,1.8,Nearing
+Low,7.7,20,6.8,Low,Female,3.3,No Exam
+Normal,6.8,21,6.6,High,Female,7.5,Nearing
+Very High,6.2,19,6.3,Low,Male,2.6,Exam
+Low,4.1,18,5.7,Low,Female,3.1,No Exam
+Normal,4.4,19,2.8,Low,Female,2.3,No Exam
+Low,3.0,21,7.7,Low,Male,4.8,No Exam
+High,5.7,20,6.7,Low,Male,8.8,No Exam
+Very High,9.9,23,8.2,Low,Male,4.7,Exam
+High,4.6,24,2.9,Low,Female,5.1,Nearing
+High,3.0,24,7.0,Moderate,Male,3.4,No Exam
+Low,7.9,24,5.5,Moderate,Female,4.9,No Exam
+Very High,10.0,23,6.3,Low,Male,7.5,Exam
+High,6.9,24,5.6,High,Female,5.3,Exam
+High,6.9,20,7.1,Moderate,Female,9.3,Nearing
+High,6.0,23,5.7,Moderate,Male,7.5,Exam
+Normal,3.8,24,3.9,Low,Male,4.8,No Exam
+High,4.3,23,6.2,Low,Female,4.8,Nearing
+Low,6.0,21,5.6,Low,Female,8.3,No Exam
+High,5.7,20,5.8,Low,Male,5.3,Exam
+Normal,6.3,22,1.0,Low,Male,7.8,Nearing
+Low,7.7,18,7.4,High,Female,9.0,No Exam
+Normal,5.6,24,5.4,Low,Male,4.6,No Exam
+Low,7.8,18,3.3,Low,Female,5.7,No Exam
+Low,5.6,23,7.8,Moderate,Male,7.0,No Exam
+Low,8.1,18,7.3,Low,Male,6.5,No Exam
+High,6.6,20,5.3,Moderate,Male,6.5,Nearing
+Low,5.8,20,3.7,Moderate,Female,2.3,No Exam
+Normal,6.6,19,6.4,Moderate,Male,3.3,Nearing
+Low,6.1,24,6.2,High,Female,4.0,No Exam
+Normal,6.7,19,7.8,Low,Male,7.4,No Exam
+High,7.6,18,5.1,Moderate,Female,2.5,No Exam
+Low,6.4,22,8.4,High,Female,8.0,No Exam
+Low,5.9,19,4.9,Moderate,Male,6.6,No Exam
+Normal,4.8,19,3.3,Low,Female,7.3,No Exam
+Normal,7.4,20,3.7,High,Female,3.1,No Exam
+High,7.0,22,5.9,Low,Female,5.1,Exam
+Normal,4.7,23,5.9,High,Female,5.6,No Exam
+High,7.8,18,6.7,Low,Male,5.5,Nearing
+High,4.7,19,5.8,Moderate,Male,5.6,Exam
+Normal,8.0,22,8.0,High,Male,4.4,No Exam
+Normal,7.5,24,5.5,Low,Female,5.3,No Exam
+High,7.1,22,2.0,Low,Female,7.1,Nearing
+Low,5.9,18,5.8,Low,Male,2.7,No Exam
+Low,7.4,22,2.0,High,Male,8.1,No Exam
+Very High,8.1,22,6.5,High,Female,7.0,Exam
+High,7.4,22,8.1,Moderate,Male,3.1,No Exam
+Normal,5.5,24,4.0,Moderate,Male,5.8,No Exam
+High,6.9,19,8.8,High,Female,6.8,Nearing
+Normal,8.2,18,7.7,Low,Male,2.5,No Exam
+Normal,9.8,24,8.4,Low,Female,5.1,No Exam
+Low,6.2,22,6.4,Moderate,Male,4.8,No Exam
+High,7.8,22,4.0,Low,Female,3.7,Exam
+High,8.2,19,7.6,Low,Female,5.2,No Exam
+Normal,5.3,18,4.8,Low,Female,3.8,Nearing
+Very High,9.2,20,6.2,Low,Female,7.7,Exam
+High,4.9,24,5.7,High,Female,3.7,Exam
+Normal,7.7,19,8.2,Low,Male,6.6,Nearing
+High,7.0,18,7.5,Moderate,Male,1.7,Exam
+Normal,6.6,24,5.8,Low,Male,4.7,No Exam
+High,10.0,22,2.1,Low,Female,5.0,No Exam
+High,6.0,18,4.7,Low,Male,4.6,Exam
+Very High,6.0,18,7.4,Moderate,Female,4.2,Exam
+High,8.5,23,6.6,Moderate,Female,3.7,Exam
+Very High,7.6,18,3.0,High,Male,6.5,Exam
+Normal,8.4,20,2.4,Moderate,Female,7.0,Nearing
+High,6.7,18,6.4,Moderate,Male,4.8,Nearing
+High,7.0,20,3.9,Moderate,Female,2.8,Nearing
+Low,9.4,22,4.1,High,Female,8.6,No Exam
+Low,5.2,20,7.3,Moderate,Male,3.2,No Exam
+High,6.3,24,8.4,Low,Female,2.1,Nearing
+High,7.7,22,4.5,Moderate,Male,1.0,No Exam
+Low,6.2,22,5.9,Moderate,Female,5.2,No Exam
+High,5.6,20,5.9,Moderate,Male,4.6,Nearing
+High,7.4,19,5.7,Low,Female,7.1,No Exam
+High,8.5,21,6.1,High,Male,6.2,No Exam
+Very High,6.3,18,7.5,High,Male,5.6,Exam
+Normal,6.2,23,4.7,Low,Female,4.5,No Exam
+Normal,5.5,21,2.9,High,Male,7.2,No Exam
+High,6.1,18,9.4,Low,Female,8.7,Exam
+Low,8.1,18,8.2,Low,Female,7.0,No Exam
+Normal,6.6,22,3.8,Low,Male,4.1,No Exam
+Normal,5.3,18,6.3,Low,Male,6.6,No Exam
+High,6.9,23,8.0,High,Male,4.2,Exam
+High,8.1,18,7.5,Low,Male,2.8,No Exam
+Very High,5.7,20,6.9,Low,Male,3.2,Exam
+Normal,4.5,21,5.7,Low,Female,4.3,No Exam
+High,9.8,20,9.5,Low,Male,5.2,Nearing
+Normal,4.4,23,6.4,Low,Female,9.1,No Exam
+High,6.0,18,5.0,Moderate,Male,3.2,Exam
+Low,6.8,24,7.7,Low,Male,7.6,No Exam
+Low,6.1,23,6.2,High,Male,4.4,No Exam
+Low,6.4,22,6.7,High,Female,1.0,No Exam
+High,7.4,20,6.4,Low,Male,4.0,Exam
+Normal,3.0,20,7.0,High,Female,7.4,No Exam
+Normal,4.6,19,4.0,Low,Female,5.7,Nearing
+Normal,6.6,18,3.1,Low,Female,5.8,No Exam
+Normal,5.9,22,8.9,Low,Male,7.7,Nearing
+High,6.7,24,6.5,Low,Female,2.9,Nearing
+High,6.8,20,7.5,Moderate,Male,2.9,No Exam
+Low,3.3,20,2.5,Moderate,Female,1.0,No Exam
+High,8.4,22,8.1,Low,Male,6.8,Nearing
+Low,5.8,23,5.0,Moderate,Female,6.1,No Exam
+Normal,5.2,23,4.4,Low,Male,6.4,No Exam
+Normal,6.8,18,5.9,Moderate,Male,2.6,No Exam
+Normal,6.7,19,4.0,Low,Male,1.8,Nearing
+Normal,8.3,20,6.0,Low,Female,2.4,No Exam
+Low,6.9,19,5.7,Low,Female,3.2,No Exam
+Low,8.2,23,8.1,Low,Male,8.1,No Exam
+High,5.1,23,9.0,Moderate,Female,7.0,Nearing
+Low,6.7,21,9.0,High,Female,4.1,No Exam
+High,4.8,24,1.5,Low,Female,5.6,Exam
+High,6.6,18,4.1,Moderate,Female,3.6,Exam
+High,6.3,21,1.5,Moderate,Female,5.7,No Exam
+Low,6.3,24,3.6,High,Female,2.7,No Exam
+Normal,6.3,21,4.7,Low,Female,6.5,No Exam
+Normal,7.6,21,6.8,Low,Male,3.3,No Exam
+High,4.1,18,5.0,High,Male,6.6,Exam
+High,5.2,18,5.0,Moderate,Female,4.1,No Exam
+Normal,6.4,22,6.4,Low,Male,3.4,No Exam
+Very High,4.7,19,2.6,Low,Male,8.2,Exam
+Normal,6.6,19,4.3,Low,Male,5.4,No Exam
+High,6.4,22,5.0,Moderate,Female,4.4,Nearing
+High,4.4,22,5.6,Moderate,Female,6.5,No Exam
+Normal,4.3,23,6.2,Low,Female,2.3,No Exam
+High,3.0,24,9.0,Moderate,Female,7.2,Nearing
+Low,4.7,21,7.8,Moderate,Female,4.7,No Exam
+Normal,6.5,22,4.5,Moderate,Male,6.2,Nearing
+High,6.7,20,5.5,Moderate,Female,1.9,Exam
+Low,6.8,19,5.3,High,Male,4.2,No Exam
+Normal,5.3,22,5.0,Low,Female,5.0,No Exam
+Normal,6.5,20,6.5,High,Male,7.1,Nearing
+Normal,7.1,20,2.3,Low,Female,6.4,Nearing
+High,4.6,20,7.8,Low,Female,4.2,Nearing
+High,6.7,23,9.4,Low,Female,5.6,Nearing
+Normal,7.5,23,5.5,Low,Female,7.5,Nearing
+Normal,5.8,20,5.4,Low,Female,4.6,No Exam
+Very High,8.1,24,6.3,Low,Female,4.4,Exam
+Normal,5.8,23,8.0,High,Male,1.2,Nearing
+High,5.2,21,5.4,Low,Female,4.4,No Exam
+Low,7.3,20,7.9,Moderate,Male,1.5,No Exam
+Normal,9.5,21,7.0,Low,Female,4.8,Nearing
+High,6.6,21,10.7,High,Male,7.0,Nearing
+High,7.5,20,5.3,Moderate,Male,1.0,Exam
+Normal,5.7,19,2.0,Low,Male,7.5,No Exam
+High,4.6,24,3.1,Moderate,Male,4.3,No Exam
+Low,6.7,20,6.0,Moderate,Male,4.9,No Exam
+Very High,7.0,20,8.1,Moderate,Male,4.0,Exam
+High,6.0,23,4.7,Moderate,Female,1.6,Nearing
+Low,7.4,20,5.5,Moderate,Male,3.4,No Exam
+Very High,5.5,19,7.4,Moderate,Female,9.2,Exam
+Normal,5.1,23,4.1,Low,Female,2.8,No Exam
+Very High,8.1,18,4.8,Low,Male,1.8,Exam
+Normal,8.1,18,3.7,High,Male,5.3,No Exam
+Low,5.5,21,8.4,Low,Female,4.8,No Exam
+High,9.1,24,9.1,Low,Male,4.4,No Exam
+Very High,6.1,21,2.8,Low,Male,5.0,Exam
+High,6.6,19,5.7,Low,Male,6.3,Nearing
+Very High,6.4,22,8.8,High,Male,3.8,Exam
+Very High,7.3,24,6.8,Low,Male,5.4,Exam
+High,6.9,18,5.0,Low,Male,7.0,Nearing
+High,6.9,21,2.9,Moderate,Male,3.0,Nearing
+Normal,5.0,18,8.3,High,Female,1.0,No Exam
+Normal,4.0,19,6.7,Low,Male,6.3,No Exam
+Normal,8.2,19,3.1,Low,Female,10.0,No Exam
+High,5.7,22,8.4,High,Female,5.0,Exam
+Low,6.4,22,2.8,Moderate,Female,5.4,No Exam
+Normal,7.0,23,5.6,Low,Female,4.4,Nearing
+Normal,8.9,24,5.5,Low,Male,8.2,No Exam
+Very High,6.7,19,9.2,Low,Female,4.8,Exam
+Normal,5.9,21,5.5,Low,Female,4.6,No Exam
+High,5.7,18,5.5,Low,Female,6.8,Nearing
+High,6.4,20,3.3,High,Female,4.0,Exam
+Normal,5.1,22,4.7,Low,Female,2.4,No Exam
+Normal,6.5,20,4.4,Moderate,Male,6.8,Nearing
+High,6.4,21,4.5,Low,Male,3.8,Nearing
+High,9.0,22,6.0,Moderate,Female,3.0,Nearing
+Very High,6.4,20,1.1,Moderate,Male,9.2,Exam
+Normal,3.6,24,3.0,Low,Male,4.6,No Exam
+Normal,10.0,21,5.8,Moderate,Female,6.0,Nearing
+Low,7.9,18,6.2,Low,Female,5.1,No Exam
+High,9.6,24,5.5,High,Female,3.2,Exam
+Very High,4.8,21,5.9,High,Male,6.4,Exam
+High,6.2,23,5.2,Low,Female,5.6,Exam
+Normal,7.5,22,6.0,Low,Male,3.7,No Exam
+Normal,7.3,19,6.9,Low,Male,5.9,No Exam
+Low,7.0,18,6.9,Moderate,Male,4.0,No Exam
+High,3.2,24,4.6,Low,Female,2.8,Nearing
+Normal,3.9,24,7.8,Low,Male,2.6,Nearing
+High,8.8,20,6.3,Low,Female,5.5,Exam
+Normal,9.0,22,8.5,Low,Female,4.2,Nearing
+High,6.3,19,8.9,Moderate,Female,8.0,No Exam
+Low,8.6,21,3.1,Low,Female,4.9,No Exam
+High,5.0,19,4.3,Moderate,Female,3.4,Nearing
+High,5.3,22,7.6,Low,Male,5.3,Nearing
+High,4.8,22,2.7,Low,Male,2.4,Nearing
+Very High,5.2,23,8.8,Moderate,Male,4.8,Exam
+Normal,7.6,23,5.3,High,Male,5.6,No Exam
+Normal,5.2,19,7.2,Moderate,Male,5.4,No Exam
+Normal,9.9,21,5.8,Low,Female,7.6,No Exam
+Normal,7.2,19,3.2,Low,Female,10.0,No Exam
+Normal,8.1,22,8.1,High,Male,6.3,No Exam
+High,7.2,22,11.5,Low,Male,7.4,Exam
+Low,8.3,20,5.0,Low,Male,10.0,No Exam
+Normal,5.2,23,5.4,High,Female,3.0,Nearing
+High,8.7,20,1.0,High,Female,5.3,Nearing
+High,6.7,18,8.7,High,Female,4.0,Nearing
+Very High,8.3,22,7.8,High,Male,6.7,Exam
+Very High,4.3,20,2.5,High,Male,5.5,Exam
+Very High,6.8,19,1.9,Low,Male,3.4,Exam
+High,6.7,23,2.1,Low,Male,5.0,Exam
+Normal,5.6,23,7.3,Moderate,Female,7.1,Nearing
+Normal,7.0,21,7.5,Moderate,Male,2.4,Nearing
+High,8.8,19,4.2,Low,Male,3.4,Exam
+High,5.5,21,7.0,Low,Male,3.1,No Exam
+Low,7.9,20,6.3,Low,Female,5.7,No Exam
+Normal,4.8,24,5.3,Moderate,Female,7.5,No Exam
+Normal,9.7,18,7.9,Low,Male,1.0,No Exam
+Very High,7.7,19,3.6,Low,Female,5.2,Exam
+Normal,9.1,19,8.3,Moderate,Female,3.2,No Exam
+Normal,7.5,19,4.5,Moderate,Female,7.0,Nearing
+Normal,7.1,21,9.6,Low,Female,4.5,No Exam
+High,7.7,20,4.0,Moderate,Female,5.3,Nearing
+Low,6.3,19,5.3,Moderate,Male,5.0,No Exam
+High,4.1,24,6.1,Low,Male,7.2,Nearing
+Low,7.2,19,6.1,Low,Male,9.1,No Exam
+High,5.4,23,7.0,Low,Female,2.7,Nearing
+Normal,4.8,18,3.4,Low,Female,3.1,No Exam
+High,7.5,23,5.9,High,Female,5.6,Nearing
+Normal,6.1,23,6.3,Low,Female,3.4,No Exam
+Normal,8.0,18,4.9,Moderate,Male,6.9,Nearing
+Normal,5.3,24,6.8,Low,Male,7.2,No Exam
+High,5.8,20,3.3,Low,Male,3.9,Exam
+Low,8.2,23,5.3,Moderate,Male,3.5,No Exam
+High,6.9,20,4.5,Low,Male,4.5,No Exam
+Low,4.3,23,5.4,Low,Male,5.2,No Exam
+High,6.9,22,8.9,Low,Female,5.6,Exam
+Normal,8.7,18,8.9,Low,Female,1.0,No Exam
+Normal,5.8,23,8.5,Moderate,Male,3.1,Nearing
+Low,7.4,22,5.1,Low,Female,4.2,No Exam
+High,5.2,21,7.8,High,Male,3.4,Exam
+Very High,6.3,22,6.2,Moderate,Male,1.0,Exam
+High,8.1,19,6.1,Low,Female,1.2,Nearing
+Low,6.8,23,5.8,Low,Male,2.4,No Exam
+High,8.4,22,9.5,Low,Male,4.8,Exam
+Very High,7.1,20,8.7,Moderate,Male,4.1,Exam
+Low,9.8,21,7.5,Low,Female,3.7,No Exam
+Normal,4.2,24,5.7,High,Female,6.6,No Exam
+Normal,6.2,23,6.1,Low,Female,6.6,No Exam
+High,4.9,19,7.1,High,Female,5.3,Nearing
+Low,5.0,24,5.0,Low,Male,5.2,No Exam
+Low,5.0,22,7.9,High,Female,3.3,No Exam
+Normal,6.8,24,4.2,Low,Female,3.5,Nearing
+Normal,6.8,24,6.8,Low,Female,1.6,No Exam
+Low,7.1,21,1.4,Low,Male,4.5,No Exam
+Normal,4.8,24,4.9,Low,Female,6.6,No Exam
+Normal,6.0,24,10.2,High,Female,7.7,No Exam
+High,5.1,23,8.1,Low,Male,4.5,Nearing
+High,7.9,21,9.1,Low,Male,6.0,Nearing
+High,5.2,19,4.7,Moderate,Male,1.0,No Exam
+High,6.2,22,6.2,Low,Male,4.1,Exam
+Normal,7.3,21,8.6,Moderate,Female,4.1,No Exam
+Low,5.6,21,7.3,Moderate,Male,8.0,No Exam
+High,7.5,18,7.0,Low,Female,5.8,Nearing
+Low,8.9,21,9.3,High,Female,6.0,No Exam
+High,6.8,18,3.9,Low,Female,5.9,Exam
+Normal,7.9,22,5.6,Low,Female,5.1,Nearing
+Normal,3.4,24,2.5,Moderate,Female,8.1,No Exam
+Low,5.9,23,3.8,Moderate,Male,1.0,No Exam
+Low,6.8,23,8.1,Low,Female,5.3,No Exam
+Low,4.9,22,4.2,Moderate,Female,7.3,No Exam
+Low,6.8,22,7.5,Low,Female,1.2,No Exam
+High,8.1,20,9.3,Low,Male,6.7,Nearing
+Very High,3.7,24,5.6,High,Female,3.5,Exam
+Normal,4.7,22,7.0,Low,Female,5.2,Nearing
+Normal,6.8,21,7.5,Low,Male,3.4,No Exam
+Normal,7.2,23,3.6,High,Female,6.9,No Exam
+High,7.6,19,4.8,High,Female,4.4,Exam
+Low,6.7,23,4.0,Low,Male,6.7,No Exam
+High,7.2,18,4.9,Moderate,Female,5.9,No Exam
+High,7.9,23,7.4,Moderate,Female,3.4,Nearing
+High,5.9,20,4.8,High,Female,6.0,Exam
+Normal,5.6,24,5.9,High,Female,3.7,No Exam
+Low,6.2,22,3.9,Low,Female,5.1,No Exam
+High,6.8,24,8.5,Low,Male,4.4,Exam
+Normal,5.5,22,4.9,Low,Male,6.8,Nearing
+High,5.9,23,9.0,Moderate,Male,6.1,Exam
+Low,7.1,19,6.1,Moderate,Female,4.9,No Exam
+High,6.7,19,3.2,Moderate,Female,3.6,No Exam
+Normal,6.2,20,5.7,High,Female,2.5,No Exam
+High,3.9,18,3.9,Low,Male,5.3,Exam
+Low,6.5,23,7.2,Low,Female,3.7,No Exam
+Normal,5.0,22,5.5,Low,Female,1.2,No Exam
+Low,8.0,23,6.3,Low,Female,2.3,No Exam
+Normal,6.0,20,5.3,Low,Male,8.3,Nearing
+High,5.0,21,4.9,Low,Male,3.7,No Exam
+Low,6.4,21,4.1,Moderate,Female,7.2,No Exam
+Normal,8.4,20,7.7,High,Female,4.3,No Exam
+High,7.4,22,5.7,Moderate,Female,7.5,Nearing
+High,6.8,24,5.4,Moderate,Male,7.3,Exam
+Low,4.5,20,5.6,Low,Male,3.3,No Exam
+High,8.9,22,4.6,Moderate,Male,1.0,Exam
+High,5.6,19,5.4,Moderate,Female,1.2,Nearing
+Very High,7.9,20,6.4,Moderate,Male,3.4,Exam
+Very High,6.0,22,3.9,Low,Female,8.8,Exam
+Low,7.8,20,4.2,Low,Female,4.2,No Exam
+Normal,8.5,20,8.8,Low,Male,5.3,No Exam
+High,7.5,24,5.3,Moderate,Female,7.6,Nearing
+Very High,7.6,24,4.9,High,Male,5.2,Exam
+High,6.4,22,3.3,High,Female,5.2,No Exam
+High,5.8,22,7.7,Low,Female,6.2,No Exam
+High,6.7,18,3.9,Moderate,Male,5.6,Nearing
+High,6.0,20,6.0,High,Female,4.8,Nearing
+Low,10.0,21,2.6,Low,Female,3.6,No Exam
+Low,5.0,20,7.6,Low,Female,5.2,No Exam
+Very High,8.0,20,8.4,High,Female,7.2,Exam
+Normal,7.3,22,7.0,Low,Female,8.6,Nearing
+Very High,6.8,20,2.9,High,Female,5.6,Exam
+High,8.7,23,7.7,High,Female,6.5,No Exam
+Very High,6.9,20,4.3,Moderate,Female,5.5,Exam
+Low,5.5,23,3.7,High,Male,4.8,No Exam
+Low,6.9,24,5.2,Moderate,Male,6.0,No Exam
+High,6.2,21,5.2,Moderate,Female,7.4,Exam
+Normal,7.3,22,5.0,Low,Female,3.2,No Exam
+High,7.7,20,8.5,Low,Male,2.1,Nearing
+High,5.2,23,10.0,Low,Female,3.9,No Exam
+Normal,8.3,23,3.3,Moderate,Male,5.4,No Exam
+High,6.1,24,4.6,Low,Male,6.7,No Exam
+Very High,7.2,23,6.3,Low,Male,3.0,Exam
+Low,7.4,19,5.2,Low,Female,1.0,No Exam
+High,7.1,18,6.8,Moderate,Female,4.0,No Exam
+Normal,6.3,21,7.8,High,Female,4.6,Nearing
+Low,5.8,24,7.5,High,Male,2.7,No Exam
+Normal,6.1,24,7.2,Low,Male,3.5,No Exam
+Low,8.8,20,9.3,High,Male,6.7,No Exam
+Very High,5.2,19,2.8,Moderate,Female,5.2,Exam
+Very High,5.4,20,9.0,Moderate,Male,5.7,Exam
+Normal,5.4,20,5.2,Moderate,Male,4.3,No Exam
+Low,6.7,22,7.6,Low,Female,3.5,No Exam
+Normal,4.2,22,3.9,High,Male,4.3,No Exam
+Normal,4.5,22,4.2,Low,Male,6.0,No Exam
+High,6.1,19,7.3,Low,Female,2.0,Nearing
+High,4.6,20,2.1,Moderate,Female,8.3,Exam
+Low,4.7,18,8.0,Low,Male,6.1,No Exam
+Normal,4.6,21,8.5,Low,Female,3.9,No Exam
+Normal,5.2,22,6.4,Moderate,Male,6.6,Nearing
+Very High,7.6,22,6.3,Low,Female,7.4,Exam
+Normal,7.9,24,4.3,Moderate,Male,4.3,No Exam
+High,9.4,20,7.3,Moderate,Female,4.6,Exam
+Normal,9.3,20,6.7,Moderate,Male,8.0,No Exam
+Very High,7.7,19,4.2,Moderate,Female,9.2,Exam
+Very High,8.0,19,5.2,Moderate,Female,5.1,Exam
+High,6.7,22,5.7,Moderate,Female,2.7,No Exam
+High,7.3,20,5.2,Moderate,Female,4.1,No Exam
+Low,9.4,18,3.3,Moderate,Female,7.1,No Exam
+Normal,7.1,21,7.4,Moderate,Female,2.9,Nearing
+High,8.2,20,5.5,High,Female,4.6,Exam
+Normal,5.1,24,6.0,Low,Male,5.6,Nearing
+High,5.5,20,4.8,Low,Male,3.2,Nearing
+Normal,7.0,23,7.0,High,Female,7.2,Nearing
+Normal,6.7,19,6.4,Low,Female,6.4,No Exam
+Very High,5.6,24,8.4,Low,Male,9.0,Exam
+Normal,10.0,21,7.0,Moderate,Male,6.6,No Exam
+Normal,6.8,22,5.6,Low,Female,3.1,No Exam
+Very High,5.8,24,4.5,Low,Male,6.1,Exam
+High,6.7,20,7.7,High,Male,7.0,Nearing
+High,6.5,22,5.4,Moderate,Female,7.1,No Exam
+Normal,6.8,20,5.7,Low,Female,3.4,Nearing
+High,4.1,22,5.7,High,Female,3.2,No Exam
+High,8.4,21,5.2,High,Male,2.7,Nearing
+Low,8.5,19,5.7,Low,Female,8.2,No Exam
+Normal,8.7,21,9.9,Low,Female,6.2,Nearing
+Normal,7.0,23,3.9,High,Male,3.4,No Exam
+Low,7.5,18,4.4,Moderate,Female,5.3,No Exam
+Low,5.2,19,8.8,Moderate,Male,4.8,No Exam
+High,7.7,21,5.3,High,Male,3.1,Nearing
+Normal,6.9,23,5.1,Moderate,Male,5.1,No Exam
+Normal,5.8,18,8.1,Low,Male,5.4,No Exam
+High,7.8,23,3.2,Moderate,Male,8.9,No Exam
+Normal,7.9,20,7.6,Low,Male,3.7,No Exam
+Normal,6.6,20,6.1,Moderate,Female,1.6,No Exam
+Low,7.2,22,6.9,Moderate,Female,2.9,No Exam
+High,5.0,19,6.9,Low,Female,3.2,Nearing
+Low,8.4,20,4.7,Moderate,Male,4.1,No Exam
+High,5.2,24,8.1,Low,Female,2.9,No Exam
+High,5.4,23,4.9,Low,Male,6.6,No Exam
+High,6.6,19,6.8,Moderate,Female,2.8,Exam
+Low,8.2,24,8.5,Low,Male,5.0,No Exam
+Very High,8.2,20,8.8,Moderate,Female,9.0,Exam
+Very High,6.5,22,5.5,Low,Male,6.1,Exam
+Normal,7.7,21,6.9,Moderate,Female,5.9,Nearing
+Normal,4.0,22,5.3,High,Male,8.7,Nearing
+High,5.4,24,11.0,Moderate,Female,7.5,Nearing
+Low,5.5,18,7.6,Low,Male,6.1,No Exam
+High,8.4,20,6.2,High,Female,4.4,No Exam
+High,7.5,24,6.6,Low,Female,5.0,Exam
+High,6.8,18,6.8,Low,Female,4.9,Exam
+High,6.9,18,6.9,Low,Male,4.2,No Exam
+High,8.9,23,5.5,Low,Male,5.4,Exam
+Normal,6.2,19,5.2,High,Male,5.7,No Exam
+Normal,4.5,23,5.7,Low,Male,2.5,Nearing
+Low,8.1,20,3.7,Moderate,Male,8.3,No Exam
+Normal,6.8,18,7.4,Moderate,Female,5.8,No Exam
+Normal,7.9,24,4.4,Low,Male,4.5,No Exam
+High,6.4,21,3.9,Moderate,Female,5.4,Nearing
+High,5.2,18,6.0,Low,Female,6.9,Nearing
+Very High,7.1,24,5.7,Low,Male,2.1,Exam
+Low,6.5,21,6.5,Low,Female,4.8,No Exam
+Normal,6.8,23,4.9,High,Male,2.6,Nearing
+Very High,8.9,23,5.2,High,Male,10.0,Exam
+High,4.9,19,7.4,Low,Male,5.3,Nearing
+Normal,6.9,24,7.3,Low,Female,2.6,No Exam
+Normal,5.3,18,7.2,Moderate,Male,10.0,Nearing
+Low,3.0,22,6.1,Low,Male,3.9,No Exam
+Normal,6.4,23,6.3,High,Male,4.6,No Exam
+High,6.5,23,6.5,Moderate,Female,4.7,No Exam
+High,7.4,19,4.7,Low,Male,3.3,Nearing
+High,6.2,21,8.9,High,Female,5.5,No Exam
+Normal,4.3,19,8.7,Low,Female,1.0,No Exam
+High,5.3,18,7.6,High,Male,7.2,Exam
+High,8.5,24,5.1,High,Female,2.7,Nearing
+High,5.2,20,7.1,Low,Female,4.2,Exam
+Low,8.9,20,8.0,Low,Male,6.5,No Exam
+High,8.1,24,3.6,High,Male,4.6,No Exam
+High,6.0,21,9.4,High,Male,4.7,Nearing
+Normal,5.4,23,2.5,Low,Female,3.0,No Exam
+Low,8.1,21,7.4,High,Male,9.2,No Exam
+Low,6.1,23,8.9,Low,Female,6.1,No Exam
+Low,4.2,23,5.8,Low,Female,2.8,No Exam
+Low,7.3,20,5.7,High,Female,5.4,No Exam
+Very High,7.1,21,7.3,Low,Female,2.7,Exam
+Low,8.2,19,9.7,High,Female,8.4,No Exam
+High,7.0,23,5.4,Low,Male,5.4,Nearing
+Normal,5.7,22,4.4,Moderate,Male,3.0,Nearing
+Normal,8.4,22,5.2,Low,Female,6.4,Nearing
+Low,8.6,19,2.9,Moderate,Female,4.4,No Exam
+Normal,6.8,22,7.8,Moderate,Male,2.4,No Exam
+Normal,6.6,18,5.0,Low,Male,5.8,No Exam
+High,4.5,23,5.6,Moderate,Female,5.7,Exam
+Normal,5.6,19,7.8,Low,Female,7.3,No Exam
+Normal,7.6,21,5.2,Low,Male,5.1,No Exam
+High,5.7,23,7.5,High,Male,5.2,Exam
+Low,4.3,19,3.9,Low,Female,5.3,No Exam
+High,10.0,20,7.9,Moderate,Male,8.2,No Exam
+Very High,4.3,21,6.7,Moderate,Male,4.4,Exam
+Low,9.9,20,5.8,Moderate,Female,5.9,No Exam
+High,6.0,23,6.3,Low,Female,6.2,No Exam
+Normal,6.4,21,3.4,Low,Female,5.7,No Exam
+Low,5.5,22,6.2,Low,Male,4.3,No Exam
+Normal,7.7,19,5.7,Moderate,Female,5.2,No Exam
+Normal,4.3,23,3.5,High,Male,4.8,No Exam
+Normal,3.7,18,4.7,Moderate,Female,8.9,No Exam
+Normal,8.9,21,5.7,Low,Female,4.1,Nearing
+Low,5.3,21,4.8,Low,Male,3.2,No Exam
+Normal,7.6,24,1.2,Low,Male,5.0,No Exam
+Normal,4.9,23,8.2,Low,Female,4.8,No Exam
+High,7.6,23,5.7,Low,Female,5.4,No Exam
+Normal,9.0,20,1.5,Low,Male,4.1,No Exam
+Low,5.7,24,10.3,Low,Female,5.2,No Exam
+High,3.6,22,8.5,Low,Male,5.3,Nearing
+Low,9.0,20,5.3,Low,Male,6.8,No Exam
+Normal,7.9,24,4.3,Low,Female,5.2,No Exam
+Very High,5.8,20,6.8,Low,Male,5.2,Exam
+Normal,6.2,22,6.4,Low,Male,6.0,Nearing
+High,4.8,24,7.1,Moderate,Male,6.7,Nearing
+Low,8.6,24,4.3,Low,Female,3.0,No Exam
+Normal,5.7,18,8.2,Low,Male,2.5,Nearing
+Low,4.4,20,5.1,Low,Female,8.4,No Exam
+Low,6.8,20,7.4,Low,Female,6.4,No Exam
+High,5.2,21,4.4,Low,Female,4.6,No Exam
+High,5.0,22,11.3,Low,Male,5.0,Exam
+High,5.9,19,7.4,Moderate,Male,4.2,Exam
+Normal,6.6,18,11.8,Low,Female,5.4,No Exam
+Low,4.4,24,7.7,Low,Female,3.1,No Exam
+High,8.6,24,4.9,High,Male,6.7,Nearing
+Normal,7.5,24,7.7,Low,Female,5.4,No Exam
+Normal,6.0,18,7.8,Low,Female,5.4,No Exam
+Low,5.1,24,6.7,High,Male,3.2,No Exam
+High,6.4,24,7.3,High,Female,6.0,Nearing
+Normal,7.8,22,7.5,Low,Male,3.3,No Exam
+High,7.6,23,4.0,Low,Male,3.6,No Exam
+Low,8.1,23,3.9,Low,Female,5.2,No Exam
+High,5.8,21,4.4,Low,Male,10.0,Exam
+High,3.0,21,6.3,Moderate,Male,5.3,Nearing
+Normal,8.4,24,5.6,Low,Male,1.0,No Exam
+Low,6.2,22,4.0,Low,Female,3.7,No Exam
+High,7.5,24,7.6,High,Female,6.4,Exam
+High,9.0,21,6.6,High,Female,2.7,Nearing
+High,10.0,18,6.3,Low,Male,6.7,Exam
+Normal,5.5,18,5.5,Moderate,Male,5.3,No Exam
+Very High,6.7,19,5.2,Low,Female,7.0,Exam
+Low,8.6,23,4.3,High,Female,3.9,No Exam
+Normal,5.2,22,7.9,Low,Male,3.7,No Exam
+Normal,5.6,20,4.6,Low,Female,6.1,Nearing
+Normal,5.6,23,6.4,Low,Female,5.0,Nearing
+High,6.5,20,9.3,Low,Female,4.9,Nearing
+High,6.2,19,5.3,Low,Female,8.1,No Exam
+Very High,5.6,19,7.9,Moderate,Female,6.2,Exam
+Normal,5.1,24,7.1,Moderate,Male,1.0,No Exam
+Low,7.7,21,6.6,Low,Female,6.6,No Exam
+Low,8.5,19,6.9,Low,Female,6.4,No Exam
+High,8.7,19,5.8,Low,Male,7.4,Exam
+High,5.8,20,6.1,High,Male,3.1,Exam
+Low,7.8,21,4.9,High,Male,5.6,No Exam
+Low,6.9,19,6.1,High,Male,5.2,No Exam
+Normal,5.6,23,4.8,High,Female,3.1,Nearing
+High,7.6,19,8.0,Low,Female,6.9,Exam
+High,5.6,21,2.6,Low,Female,4.5,Nearing
+High,5.9,24,7.0,Moderate,Female,7.3,No Exam
+Low,4.4,22,6.7,High,Male,3.5,No Exam
+High,5.8,21,6.5,Low,Male,2.1,No Exam
+High,6.9,20,8.0,Low,Female,4.5,Nearing
+Low,8.9,22,5.4,High,Female,5.5,No Exam
+High,6.0,23,6.5,Low,Female,3.9,Nearing
+Normal,4.9,18,2.6,Low,Female,1.0,No Exam
+Normal,8.7,21,5.2,Moderate,Male,5.8,No Exam
+High,5.7,24,7.7,Low,Female,5.8,Exam
+Normal,3.9,20,3.3,Low,Male,6.4,No Exam
+High,6.7,23,6.3,Moderate,Male,4.2,Exam
+Normal,6.0,22,4.6,Moderate,Male,4.1,No Exam
+Very High,10.0,23,5.8,High,Male,7.9,Exam
+High,7.2,21,4.8,Low,Female,1.8,Nearing
+Normal,6.3,19,3.5,Low,Female,4.5,No Exam
+Normal,5.1,24,6.8,Moderate,Female,5.3,No Exam
+High,7.0,21,5.9,Moderate,Female,6.2,Exam
+Low,8.7,18,7.2,Low,Male,5.3,No Exam
+Very High,7.0,21,7.6,Moderate,Male,3.2,Exam
+Low,5.2,22,8.5,Low,Male,7.3,No Exam
+Low,7.3,22,6.3,Low,Female,5.0,No Exam
+High,6.4,21,8.5,Low,Male,1.7,Exam
+Normal,7.2,22,4.0,Low,Male,5.4,Nearing
+High,6.0,19,7.8,Low,Male,6.0,Nearing
+High,5.9,23,6.9,Moderate,Male,8.9,Exam
+High,5.9,21,6.5,Moderate,Female,5.8,No Exam
+High,7.9,24,6.9,High,Male,2.0,Exam
+High,5.9,19,4.1,Low,Male,2.1,Nearing
+Low,5.8,23,3.6,Low,Female,7.5,No Exam
+Normal,5.1,24,9.4,Low,Female,3.4,No Exam
+Low,7.2,24,5.7,Low,Female,1.9,No Exam
+High,7.0,24,5.6,Moderate,Male,7.0,No Exam
+High,5.8,23,3.8,Moderate,Male,4.0,Nearing
+Normal,5.4,19,3.0,Moderate,Male,6.9,Nearing
+High,9.3,24,5.8,Low,Male,3.2,No Exam
+Very High,3.7,24,5.3,Low,Female,7.9,Exam
+High,7.2,20,6.0,Low,Male,6.7,Nearing
+High,8.4,21,6.2,Low,Male,3.6,Exam
+High,3.0,23,11.0,Moderate,Female,1.7,Nearing
+High,7.7,23,5.3,High,Female,9.6,Nearing
+Normal,6.2,22,9.2,Low,Female,4.6,Nearing

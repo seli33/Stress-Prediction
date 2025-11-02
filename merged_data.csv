@@ -1,0 +1,1001 @@
+Student_ID,anxiety_level,self_esteem,mental_health_history,depression,headache,blood_pressure,sleep_quality,breathing_problem,noise_level,living_conditions,safety,basic_needs,academic_performance,study_load,teacher_student_relationship,future_career_concerns,social_support,peer_pressure,extracurricular_activities,bullying,stress_level,Unnamed: 0,Age_x,Hours_of_Screen_Time,Hours_of_Sleep,Daily_Study_Hours,Physical_Activity_x,Mental_Clarity_Score,Mood,Unnamed: 9,Age_y,Course,Gender,CGPA,Stress_Level,Depression_Score,Anxiety_Score,Sleep_Quality,Physical_Activity_y,Diet_Quality,Social_Support,Relationship_Status,Substance_Use,Counseling_Service_Use,Family_History,Chronic_Illness,Financial_Stress,Extracurricular_Involvement,Semester_Credit_Load,Residence_Type
+S1000,14,20,0,11,2,1,2,4,2,3,3,2,3,2,3,3,2,3,3,2,1,,17,4.8,6.7,1.8,15,8,Happy,,25,Others,Male,3.56,3,3,2,Good,Moderate,Good,Moderate,Married,Never,Never,No,No,2,Moderate,17,On-Campus
+S1001,15,8,1,15,5,3,1,4,3,1,2,2,1,4,1,5,1,4,5,5,2,,16,5.0,7.2,1.6,5,9,Happy,,24,Engineering,Female,2.44,0,3,0,Average,Low,Average,Low,Single,Occasionally,Occasionally,No,No,3,Low,27,On-Campus
+S1002,12,18,1,14,2,1,2,2,2,2,3,2,2,3,3,2,2,3,2,2,1,,20,7.9,4.3,0.7,0,5,Stressed,,19,Business,Female,3.74,4,0,3,Good,Low,Average,Moderate,In a Relationship,Never,Occasionally,No,No,4,High,15,On-Campus
+S1003,16,12,1,15,4,3,1,3,4,2,2,2,2,4,1,4,1,4,4,5,2,,19,12.0,6.1,0.9,73,9,Neutral,,19,Computer Science,Male,3.65,2,1,0,Average,Low,Average,Moderate,Single,,Never,No,No,4,Moderate,20,Off-Campus
+S1004,16,28,0,7,2,3,5,1,3,2,4,3,4,3,1,2,1,5,0,5,1,,19,6.9,7.6,4.1,76,8,Neutral,,18,Business,Male,3.4,3,3,4,Good,Low,Average,High,Married,Never,Never,No,Yes,0,High,23,On-Campus
+S1005,20,13,1,21,3,3,1,4,3,2,2,1,2,5,2,5,1,4,4,5,2,,18,3.5,4.5,5.0,50,4,Neutral,,21,Medical,Female,3.35,2,4,3,Good,Moderate,Good,High,Single,Never,Never,No,No,5,Moderate,19,Off-Campus
+S1006,4,26,0,6,1,2,4,1,1,4,4,4,5,1,4,1,3,2,2,1,0,,17,7.4,7.9,4.2,68,10,Happy,,18,Law,Male,3.65,2,2,5,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,4,Moderate,20,Off-Campus
+S1007,17,3,1,22,4,3,1,5,3,1,1,1,1,3,2,4,1,4,4,5,2,,24,5.5,4.0,0.2,70,3,Neutral,,21,Business,Female,3.4,0,3,3,Average,Low,Average,Low,Married,Never,Never,Yes,No,3,Moderate,23,On-Campus
+S1008,13,22,1,12,3,1,2,4,3,3,3,3,3,3,2,3,3,3,2,2,1,,17,7.5,6.8,5.0,10,9,Stressed,,24,Medical,Male,3.8,3,2,1,Poor,Low,Average,Moderate,Single,Frequently,Never,Yes,No,2,Low,28,On-Campus
+S1009,6,8,0,27,4,3,1,2,0,5,2,2,2,2,1,5,1,5,3,4,1,,25,7.4,8.6,2.0,39,6,Happy,,19,Engineering,Female,3.05,2,5,0,Average,Moderate,Good,Low,In a Relationship,,Occasionally,Yes,No,1,Moderate,27,Off-Campus
+S1010,17,12,1,25,4,3,1,3,4,2,1,1,1,3,1,4,1,4,4,5,2,,22,6.6,6.0,0.5,26,6,Happy,,23,Law,Female,3.74,3,2,4,Average,Low,Good,Moderate,In a Relationship,,Occasionally,No,No,3,Moderate,22,Off-Campus
+S1011,17,15,1,22,3,3,1,5,5,2,1,1,1,3,1,4,1,5,5,4,2,,16,5.2,8.7,1.5,44,8,Happy,,28,Engineering,Female,,3,0,3,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,0,Moderate,20,Off-Campus
+S1012,5,28,0,8,1,2,4,2,2,3,5,5,5,2,4,1,3,1,1,1,0,,16,3.9,8.4,2.1,27,5,Happy,,22,Computer Science,Male,3.19,1,1,3,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,1,High,17,On-Campus
+S1013,9,23,1,24,4,3,1,0,1,2,4,3,1,2,3,3,0,1,0,1,2,,17,9.0,6.4,3.1,52,10,Stressed,,27,Medical,Male,3.26,3,2,2,Average,Moderate,Average,High,In a Relationship,Never,Occasionally,No,No,1,Moderate,17,With Family
+S1014,2,28,0,3,1,2,4,2,1,3,4,4,4,2,5,1,3,1,2,1,0,,19,7.7,5.0,4.1,82,9,Happy,,24,Medical,Female,3.2,3,0,3,Average,Low,Poor,Moderate,Single,Never,Occasionally,No,No,2,Moderate,18,On-Campus
+S1015,11,21,0,14,3,1,2,4,2,2,2,2,3,3,3,3,2,3,2,2,1,,19,4.3,8.8,1.6,65,3,Happy,,25,Law,Male,3.61,3,1,5,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,4,Moderate,25,Off-Campus
+S1016,6,28,0,1,1,2,4,2,1,4,5,4,5,1,5,1,3,2,2,1,0,,24,9.8,5.6,5.9,18,2,Stressed,,18,Medical,Female,3.85,4,1,3,Good,Low,Average,Moderate,Married,Never,Never,Yes,No,1,Moderate,23,Off-Campus
+S1017,7,25,0,3,1,2,4,2,2,4,5,4,4,2,5,1,3,1,1,1,0,,25,2.4,7.2,0.2,20,9,Neutral,,19,Medical,Male,3.26,5,1,1,Good,Low,Average,High,Single,Never,Never,Yes,No,4,Moderate,29,With Family
+S1018,11,23,0,12,3,1,2,2,3,2,3,3,2,3,2,2,3,3,2,3,1,,16,9.4,8.5,2.4,23,3,Stressed,,22,Computer Science,Male,3.46,3,1,0,Good,Moderate,Average,Moderate,In a Relationship,Never,Frequently,No,No,4,High,29,Off-Campus
+S1019,21,1,1,25,4,3,1,4,4,1,2,1,1,5,2,5,1,4,4,5,2,,24,9.1,4.4,2.7,28,8,Neutral,,20,Medical,Male,3.43,2,2,2,Good,High,Average,Low,Single,Occasionally,Never,No,No,3,Low,16,With Family
+S1020,3,27,0,0,1,2,4,1,1,3,5,4,5,2,5,1,3,1,2,1,0,,19,10.1,6.9,4.5,78,5,Happy,,20,Business,Male,3.38,5,3,2,Average,Moderate,Average,Low,Single,Never,Never,No,No,4,Low,22,On-Campus
+S1021,18,1,1,21,4,3,1,3,5,1,1,2,2,5,1,4,1,4,4,5,2,,24,5.9,6.7,1.5,32,5,Happy,,27,Computer Science,Male,3.56,1,3,2,Good,High,Good,High,Single,Never,Never,Yes,No,4,Moderate,17,On-Campus
+S1022,7,27,0,5,1,2,4,1,1,3,5,5,4,2,5,1,3,1,2,1,0,,22,8.6,7.6,2.8,24,9,Happy,,31,Medical,Female,3.5,4,5,2,Average,Moderate,Average,High,Single,Never,Occasionally,No,No,3,High,17,Off-Campus
+S1023,20,5,1,26,3,3,1,4,4,2,1,2,1,3,1,4,1,5,4,4,2,,19,10.2,8.7,4.8,14,6,Stressed,,18,Computer Science,Female,3.6,2,0,5,Good,Low,Average,Low,Single,Never,Never,No,No,2,Low,25,On-Campus
+S1024,13,21,1,14,3,1,2,2,3,2,2,3,3,2,3,2,3,3,3,2,1,,23,11.8,8.6,0.8,23,8,Neutral,,26,Law,Male,3.08,0,0,3,Average,Moderate,Poor,Low,Single,Never,Never,Yes,No,4,Low,16,Off-Campus
+S1025,6,26,0,8,1,2,5,2,2,4,5,4,4,1,4,1,3,2,1,1,0,,25,7.0,4.9,0.1,85,1,Neutral,,28,Others,Female,3.6,5,1,3,Good,Moderate,Average,High,In a Relationship,,Never,No,No,2,Low,22,With Family
+S1026,18,6,1,27,5,3,1,5,3,2,2,1,1,3,1,4,1,5,5,4,2,,20,2.4,8.4,5.0,72,9,Stressed,,35,Medical,Female,3.88,5,5,4,Good,High,Average,High,In a Relationship,Never,Never,Yes,No,3,Moderate,29,Off-Campus
+S1027,7,28,0,20,2,3,3,1,5,1,2,5,4,0,2,2,1,1,2,2,0,,16,7.0,4.9,5.9,6,7,Stressed,,24,Computer Science,Female,3.43,3,1,3,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,5,Low,27,Off-Campus
+S1028,13,23,1,14,2,1,3,2,3,3,2,3,3,2,3,2,3,2,2,3,1,,18,7.9,8.6,0.8,70,3,Neutral,,19,Others,Male,3.21,3,1,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,18,Off-Campus
+S1029,17,6,1,24,3,3,1,3,5,1,1,1,2,3,1,4,1,4,5,4,2,,22,10.7,9.0,4.9,59,1,Stressed,,22,Engineering,Female,3.62,3,2,1,Average,High,Average,Moderate,Single,Never,Frequently,Yes,No,5,Low,24,On-Campus
+S1030,0,27,0,3,1,2,5,1,2,4,5,4,4,2,4,1,3,2,2,1,0,,21,10.7,6.0,2.2,82,10,Happy,,22,Engineering,Female,3.16,2,1,5,Good,Low,Average,Moderate,Single,Never,Never,No,No,3,Low,21,On-Campus
+S1031,15,8,0,10,4,3,0,4,1,3,2,5,3,4,2,4,1,0,2,1,1,,20,6.4,6.5,3.8,70,6,Neutral,,26,Computer Science,Female,3.71,3,1,2,Good,Moderate,Average,High,Single,Never,Never,No,No,3,Low,22,On-Campus
+S1032,15,9,1,27,4,3,1,4,5,2,1,2,2,3,2,4,1,4,4,4,2,,18,7.3,8.7,3.9,9,10,Stressed,,22,Law,Female,3.38,3,0,4,Average,Low,Good,Moderate,Single,Never,Never,No,No,0,Moderate,16,With Family
+S1033,9,23,0,9,2,1,2,2,2,3,3,2,3,3,2,2,2,3,2,3,1,,19,6.6,8.8,3.5,37,4,Neutral,,25,Engineering,Female,3.48,2,3,2,Average,Low,Poor,High,Single,Never,Occasionally,No,No,2,Moderate,29,With Family
+S1034,7,25,0,3,1,2,4,1,1,4,5,5,5,2,4,1,3,1,1,1,0,,21,9.2,8.6,1.6,85,6,Stressed,,26,Medical,Male,3.27,4,1,3,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,5,Moderate,28,With Family
+S1035,9,22,0,14,2,1,2,2,3,3,3,3,2,3,2,2,2,3,2,2,1,,17,6.1,8.4,4.9,8,2,Neutral,,18,Computer Science,Male,3.41,3,1,1,Average,High,Average,Low,In a Relationship,Never,Frequently,Yes,No,1,Low,15,With Family
+S1036,12,21,0,14,2,1,3,2,2,3,2,3,2,2,2,2,2,2,2,3,1,,17,8.5,4.0,0.1,32,9,Neutral,,18,Law,Male,3.22,4,0,5,Good,Moderate,Average,High,Married,Never,Occasionally,No,No,2,Low,19,Off-Campus
+S1037,7,27,0,8,1,2,5,2,2,4,4,5,5,2,5,1,3,1,1,1,0,,22,3.5,6.8,0.4,12,7,Neutral,,19,Law,Male,3.16,3,3,4,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,1,Low,23,With Family
+S1038,21,6,1,20,3,3,1,3,5,1,2,1,1,4,1,4,1,5,4,4,2,,17,6.7,4.5,5.4,25,4,Happy,,19,Law,Female,3.71,0,3,3,Average,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,0,Low,18,Off-Campus
+S1039,5,25,0,6,1,2,5,1,1,4,4,4,5,1,4,1,3,1,1,1,0,,21,11.7,8.9,2.7,74,9,Happy,,23,Engineering,Female,3.65,2,5,1,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,0,Moderate,19,With Family
+S1040,5,29,0,6,1,2,5,2,2,4,5,5,4,2,4,1,3,2,2,1,0,,21,5.4,5.4,0.8,62,8,Neutral,,21,Computer Science,Female,3.33,5,5,3,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,5,Low,22,With Family
+S1041,8,30,0,0,1,2,4,1,2,4,4,5,5,2,4,1,3,1,2,1,0,,25,8.9,8.9,5.4,42,9,Stressed,,19,Law,Female,3.01,5,3,3,Good,High,Average,High,Single,Occasionally,Occasionally,No,No,2,High,29,Off-Campus
+S1042,1,27,0,2,1,2,5,1,2,3,4,5,5,1,5,1,3,2,2,1,0,,20,8.5,6.7,5.0,45,3,Happy,,30,Medical,Female,3.97,3,3,0,Good,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,1,Moderate,26,With Family
+S1043,19,9,1,16,3,3,1,3,3,2,1,1,2,3,1,4,1,5,4,4,2,,16,10.5,6.5,2.0,16,10,Stressed,,19,Law,Male,4.0,5,0,1,Good,Low,Poor,Moderate,Single,Occasionally,Never,No,No,3,Low,29,With Family
+S1044,15,4,1,22,4,3,1,4,5,2,2,2,2,3,2,5,1,5,5,4,2,,23,10.5,8.7,0.3,85,5,Neutral,,22,Medical,Male,3.62,2,1,4,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,2,Low,18,With Family
+S1045,3,30,0,1,1,2,5,2,1,4,5,4,4,2,4,1,3,2,2,1,0,,24,10.6,8.3,2.8,83,6,Stressed,,25,Medical,Female,3.63,4,4,1,Average,Moderate,Good,High,In a Relationship,Never,Never,No,No,2,Low,18,Off-Campus
+S1046,19,1,1,27,4,3,1,5,4,2,2,1,1,4,2,4,1,4,4,4,2,,17,5.8,6.3,1.0,30,7,Happy,,22,Law,Female,2.99,2,0,4,Good,Low,Poor,Low,Single,Never,Occasionally,Yes,No,0,Low,25,With Family
+S1047,7,27,0,7,1,2,4,2,1,4,5,5,4,2,4,1,3,1,1,1,0,,22,5.2,5.0,3.4,12,6,Stressed,,35,Computer Science,Male,3.11,3,4,4,Good,Low,Average,Low,In a Relationship,Never,Never,No,No,1,Moderate,19,On-Campus
+S1048,12,19,1,10,2,1,2,4,3,3,2,2,3,2,3,3,2,3,2,2,1,,17,9.2,4.6,4.9,36,2,Stressed,,32,Engineering,Female,3.02,3,1,1,Good,Low,Average,Moderate,Married,Never,Never,No,No,2,Moderate,25,With Family
+S1049,2,26,0,4,1,2,5,2,1,4,4,5,4,2,5,1,3,2,2,1,0,,24,9.6,4.8,2.4,79,2,Neutral,,18,Law,Female,3.66,5,0,0,Good,Moderate,Average,High,Single,Never,Never,Yes,No,0,Moderate,18,On-Campus
+S1050,8,27,0,5,1,2,4,1,1,3,5,5,4,1,5,1,3,2,2,1,0,,20,10.7,6.3,0.2,8,9,Neutral,,27,Engineering,Male,3.09,1,2,2,Good,Moderate,Poor,Moderate,In a Relationship,Never,Never,Yes,No,3,High,24,Off-Campus
+S1051,10,16,0,14,3,1,3,2,2,2,3,3,2,2,3,3,2,3,3,3,1,,25,2.4,5.3,4.1,24,2,Stressed,,23,Medical,Male,,0,0,0,Good,Moderate,Average,High,Married,Never,Occasionally,Yes,Yes,5,Low,22,Off-Campus
+S1052,6,29,0,0,1,2,4,2,1,4,4,5,5,2,5,1,3,2,2,1,0,,21,2.7,4.9,1.0,40,1,Stressed,,20,Medical,Male,3.12,4,1,0,Average,Moderate,Poor,Moderate,Single,Never,Occasionally,Yes,No,0,Moderate,21,On-Campus
+S1053,19,2,1,24,5,3,1,4,4,1,1,1,2,3,2,4,1,4,5,5,2,,25,8.3,7.7,1.3,62,3,Neutral,,19,Computer Science,Female,3.82,2,5,0,Average,Low,Average,High,In a Relationship,Frequently,Never,No,No,4,Moderate,23,On-Campus
+S1054,13,23,0,13,2,1,3,2,3,3,2,2,3,3,3,3,2,2,2,3,1,,19,11.2,8.0,1.1,57,3,Happy,,19,Medical,Female,3.23,4,4,1,Average,Moderate,Good,High,Single,Never,Never,Yes,No,4,Low,27,On-Campus
+S1055,13,23,0,11,3,1,2,2,3,3,3,3,2,3,2,2,3,2,3,2,1,,17,12.0,6.8,1.7,42,1,Happy,,23,Business,Female,3.7,0,1,2,Average,Low,Average,Low,Single,Never,Never,No,No,4,High,28,On-Campus
+S1056,12,18,1,11,2,1,2,4,2,3,2,2,3,2,2,2,3,2,3,2,1,,16,9.5,7.8,5.3,78,4,Stressed,,26,Medical,Male,2.95,3,2,1,Good,Moderate,Poor,Moderate,In a Relationship,,Never,No,No,0,Moderate,25,On-Campus
+S1057,8,28,0,5,1,2,5,2,1,3,4,4,5,1,5,1,3,2,1,1,0,,19,6.3,4.9,0.2,84,2,Neutral,,22,Computer Science,Female,3.6,0,5,2,Average,Moderate,Good,Moderate,Single,Never,Never,Yes,No,0,Low,24,Off-Campus
+S1058,4,29,0,2,1,2,4,2,1,3,4,4,4,2,5,1,3,1,1,1,0,,20,3.0,8.3,3.7,39,8,Stressed,,29,Business,Male,3.73,5,5,4,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,0,Moderate,20,On-Campus
+S1059,4,27,0,5,1,2,4,2,1,4,4,5,5,2,5,1,3,1,2,1,0,,17,8.3,8.5,1.5,88,4,Neutral,,22,Medical,Male,3.63,5,4,3,Good,Moderate,Average,Moderate,Married,Never,Frequently,No,No,1,Moderate,26,Off-Campus
+S1060,4,28,0,0,1,2,4,2,1,4,4,4,5,1,4,1,3,2,2,1,0,,19,10.7,8.1,1.8,74,2,Happy,,23,Medical,Female,3.64,3,1,3,Good,Low,Good,Moderate,Married,,Never,No,No,2,Moderate,24,Off-Campus
+S1061,8,29,1,2,2,3,0,4,1,4,4,5,0,0,0,5,1,4,5,2,1,,17,6.4,6.6,2.5,19,1,Stressed,,25,Computer Science,Male,3.79,1,5,5,Poor,Moderate,Average,High,Single,Never,Never,No,No,1,High,29,Off-Campus
+S1062,3,27,0,1,1,2,4,1,1,3,5,5,4,1,4,1,3,1,2,1,0,,22,8.9,4.4,3.3,72,10,Neutral,,24,Engineering,Male,3.59,2,3,3,Average,Low,Poor,Low,Married,Never,Occasionally,Yes,No,5,Low,24,Off-Campus
+S1063,12,23,1,10,3,1,2,2,2,3,3,2,2,3,3,3,3,2,3,3,1,,20,11.0,7.3,0.4,72,7,Stressed,,24,Others,Female,3.62,3,2,0,Good,Low,Average,Low,Single,Never,Never,No,No,4,Low,29,With Family
+S1064,21,0,1,13,0,3,5,5,5,4,3,2,2,0,0,4,0,1,4,1,0,,23,2.5,4.9,1.7,46,8,Happy,,20,Medical,Female,4.0,4,4,2,Average,High,Average,High,Single,Never,Occasionally,No,No,2,Moderate,25,Off-Campus
+S1065,5,25,0,3,1,2,4,2,2,3,4,5,5,2,5,1,3,1,2,1,0,,21,10.0,4.7,0.8,40,9,Happy,,23,Medical,Female,3.34,4,0,0,Good,Low,Average,High,Single,Frequently,Occasionally,No,No,4,High,24,Off-Campus
+S1066,18,14,1,15,4,3,1,4,4,1,1,2,2,4,2,5,1,5,4,5,2,,18,4.9,5.6,1.2,54,10,Stressed,,22,Law,Male,3.59,3,3,3,Average,Moderate,Good,Moderate,Single,Never,Never,No,No,0,Moderate,28,With Family
+S1067,11,21,0,9,2,1,3,4,2,2,2,3,3,3,3,2,3,3,2,2,1,,21,5.7,5.2,5.3,21,10,Stressed,,27,Computer Science,Male,3.87,0,4,2,Good,High,Poor,Moderate,In a Relationship,Never,Never,No,No,1,Moderate,16,Off-Campus
+S1068,11,23,1,10,3,1,2,2,3,3,3,3,2,3,2,2,3,2,2,3,1,,21,3.5,5.3,3.2,0,5,Stressed,,24,Business,Female,4.0,2,1,0,Poor,Low,Average,High,Single,Never,Never,Yes,No,4,Low,17,Off-Campus
+S1069,1,26,0,18,2,3,3,3,1,2,2,4,3,2,1,5,1,1,5,2,1,,19,7.3,5.2,3.8,40,1,Neutral,,29,Medical,Male,3.24,4,0,4,Good,High,Average,Moderate,In a Relationship,Never,Never,No,No,5,Moderate,24,Off-Campus
+S1070,5,30,0,0,1,2,5,2,1,4,5,4,5,1,4,1,3,1,1,1,0,,20,7.7,7.8,4.8,31,6,Neutral,,29,Others,Female,3.82,2,5,4,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Low,19,Off-Campus
+S1071,21,15,1,23,5,3,1,3,3,2,2,1,2,5,2,4,1,4,4,4,2,,17,9.9,8.8,4.8,28,4,Stressed,,23,Business,Male,3.44,0,4,0,Average,High,Average,Low,Married,Occasionally,Never,No,No,4,Low,25,On-Campus
+S1072,2,26,0,4,1,2,4,2,1,4,5,4,5,1,4,1,3,2,2,1,0,,25,3.7,5.5,5.9,82,10,Happy,,26,Others,Female,3.09,3,1,1,Good,Low,Average,Moderate,Single,Never,Never,No,No,0,High,24,Off-Campus
+S1073,0,30,0,7,1,2,4,2,1,3,5,5,5,1,4,1,3,2,1,1,0,,18,2.8,7.6,4.7,55,2,Stressed,,27,Engineering,Male,3.1,2,1,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,4,Low,21,With Family
+S1074,21,7,1,20,4,3,1,4,5,2,2,2,1,4,2,4,1,5,4,4,2,,24,10.7,4.1,2.2,35,1,Stressed,,20,Engineering,Male,,1,4,1,Poor,Low,Good,High,In a Relationship,Occasionally,Never,No,No,2,Moderate,27,On-Campus
+S1075,17,5,1,26,5,3,1,3,5,1,2,1,1,5,1,5,1,5,5,4,2,,19,8.2,7.3,3.3,46,4,Happy,,23,Medical,Male,3.25,3,4,0,Good,High,Poor,Moderate,Single,Never,Occasionally,No,No,1,Moderate,21,Off-Campus
+S1076,20,5,1,20,3,3,1,4,3,1,2,2,2,5,2,4,1,5,5,4,2,,18,4.4,7.5,2.9,17,8,Happy,,19,Medical,Male,3.73,1,2,2,Good,High,Average,Moderate,Single,Never,Never,No,No,2,Low,22,Off-Campus
+S1077,1,29,0,5,1,2,5,2,1,3,4,5,4,1,5,1,3,2,1,1,0,,23,11.1,4.3,5.5,86,2,Neutral,,22,Engineering,Female,3.53,1,5,2,Poor,Moderate,Average,Low,Married,Never,Frequently,Yes,No,4,Moderate,29,On-Campus
+S1078,13,17,1,12,3,1,2,4,2,2,3,3,3,3,3,2,2,2,3,2,1,,22,3.4,4.6,3.0,42,8,Stressed,,21,Law,Male,3.0,2,1,4,Average,Moderate,Average,High,Single,Never,Never,Yes,No,3,Moderate,23,With Family
+S1079,18,13,1,23,3,3,1,3,5,2,1,1,2,4,2,5,1,4,4,4,2,,20,6.6,5.5,2.3,61,1,Stressed,,31,Others,Female,3.73,2,5,0,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Moderate,18,On-Campus
+S1080,4,26,0,5,1,2,5,2,2,4,5,4,4,1,5,1,3,2,2,1,0,,24,4.5,6.0,1.1,59,6,Stressed,,29,Law,Male,3.79,1,5,5,Average,Moderate,Average,Moderate,Married,Occasionally,Never,No,No,0,High,19,On-Campus
+S1081,9,21,1,14,2,1,2,4,2,2,2,3,2,3,3,3,2,3,3,2,1,,19,4.6,6.5,1.9,57,9,Stressed,,28,Law,Female,4.0,0,1,4,Good,Moderate,Average,Moderate,Married,Occasionally,Never,Yes,No,4,Low,21,With Family
+S1082,17,15,1,17,5,3,1,3,5,1,2,2,1,4,2,5,1,4,5,5,2,,21,2.1,8.5,1.3,45,7,Happy,,24,Computer Science,Female,3.29,5,3,4,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,1,High,25,On-Campus
+S1083,0,26,0,8,1,2,4,2,1,3,5,5,4,2,4,1,3,2,2,1,0,,16,10.0,7.5,5.4,39,6,Stressed,,24,Computer Science,Female,3.0,1,2,4,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,3,Low,27,Off-Campus
+S1084,13,15,0,12,3,1,3,2,3,2,3,2,3,2,2,3,3,2,3,2,1,,19,11.0,5.6,4.7,62,1,Stressed,,19,Law,Female,3.46,1,4,4,Good,Low,Poor,Low,Single,Never,Occasionally,No,No,4,Moderate,28,On-Campus
+S1085,10,24,1,12,3,1,2,4,3,2,2,3,3,2,3,2,2,3,2,3,1,,16,8.8,4.6,0.4,70,10,Stressed,,24,Law,Male,2.98,2,2,4,Average,High,Poor,High,Single,Never,Occasionally,No,No,2,Moderate,20,On-Campus
+S1086,9,22,1,10,2,1,3,2,3,3,2,3,2,2,2,3,3,2,3,3,1,,21,3.6,8.6,5.9,13,5,Stressed,,19,Engineering,Female,3.29,2,0,5,Good,Low,Good,High,Single,Never,Never,No,No,4,Low,26,On-Campus
+S1087,17,3,1,21,4,3,1,4,5,2,1,2,1,5,2,5,1,4,5,5,2,,22,6.4,5.5,3.2,22,9,Neutral,,23,Law,Female,3.04,0,4,3,Average,Low,Good,Low,Single,Never,Never,Yes,No,4,Low,21,With Family
+S1088,11,18,0,13,3,1,3,2,2,2,3,3,2,3,3,3,3,2,3,3,1,,20,5.5,7.1,4.6,82,1,Stressed,,25,Computer Science,Female,4.0,0,3,3,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,5,High,21,Off-Campus
+S1089,17,12,1,18,4,3,1,5,4,2,1,2,1,4,1,5,1,5,4,4,2,,17,7.9,5.1,6.0,77,2,Happy,,25,Law,Male,4.0,1,4,0,Poor,Moderate,Poor,Low,Single,Never,Frequently,No,No,5,Low,28,With Family
+S1090,9,19,1,13,3,1,2,4,2,2,2,3,2,3,3,3,2,3,3,3,1,,19,8.4,4.7,5.8,10,5,Neutral,,21,Computer Science,Female,3.51,1,3,0,Average,High,Average,Moderate,Single,Never,Never,No,No,2,Moderate,24,On-Campus
+S1091,16,11,1,18,4,3,1,4,5,2,1,1,1,5,2,4,1,5,5,4,2,,25,6.2,4.8,0.6,35,2,Stressed,,23,Medical,Male,3.6,0,5,0,Good,Moderate,Average,High,Single,Never,Never,No,No,3,High,17,Off-Campus
+S1092,20,1,1,18,5,3,1,5,3,2,2,1,2,4,1,5,1,5,4,4,2,,21,4.5,7.7,3.9,17,4,Happy,,30,Medical,Male,4.0,5,1,4,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,3,Low,25,Off-Campus
+S1093,9,23,1,19,3,3,5,5,0,3,4,1,2,4,4,5,1,0,1,0,2,,19,10.5,7.0,1.6,68,9,Neutral,,23,Business,Male,3.75,3,2,2,Good,Low,Poor,Moderate,In a Relationship,Never,Never,Yes,No,5,Low,28,Off-Campus
+S1094,8,0,1,22,5,3,5,5,0,1,0,4,3,5,1,2,1,2,3,1,0,,23,4.0,6.1,4.9,25,2,Neutral,,18,Medical,Female,3.33,4,0,2,Average,Low,Average,Low,Single,Never,Occasionally,No,No,1,High,27,On-Campus
+S1095,19,7,1,11,1,3,3,4,4,4,0,1,5,5,0,3,0,3,3,2,1,,22,5.8,6.7,5.5,33,2,Stressed,,26,Law,Female,3.61,1,1,2,Poor,Low,Poor,Moderate,Married,Never,Never,No,No,4,Moderate,15,Off-Campus
+S1096,15,14,1,19,3,3,1,3,3,1,1,2,1,4,1,5,1,4,4,5,2,,23,6.8,6.4,0.3,80,4,Neutral,,21,Law,Male,4.0,1,0,4,Average,Low,Poor,Moderate,In a Relationship,Never,Never,No,No,5,Low,24,Off-Campus
+S1097,17,7,1,23,4,3,1,3,3,1,1,2,2,3,2,4,1,4,5,5,2,,18,4.4,6.7,6.0,9,9,Stressed,,22,Medical,Male,3.86,2,2,4,Average,Moderate,Poor,Moderate,Married,Never,Occasionally,Yes,No,2,Low,28,Off-Campus
+S1098,6,27,0,1,1,2,5,1,2,4,5,4,5,1,5,1,3,1,1,1,0,,20,7.7,7.3,1.3,9,7,Stressed,,19,Business,Male,3.12,2,1,2,Average,Moderate,Average,Low,Single,Never,Never,No,No,0,Low,17,On-Campus
+S1099,9,23,1,13,3,1,3,4,3,3,2,2,3,3,3,2,2,3,2,3,1,,18,7.7,5.1,5.1,2,4,Neutral,,25,Others,Male,3.78,5,5,1,Average,Moderate,Poor,Moderate,Single,Never,Never,No,No,0,Low,25,On-Campus
+S1100,13,3,0,22,1,3,4,1,0,4,1,2,0,0,0,2,0,3,5,1,1,,19,11.9,5.2,4.8,64,4,Neutral,,22,Medical,Female,3.77,5,4,3,Good,Moderate,Poor,High,Single,Never,Never,Yes,No,4,Moderate,21,With Family
+S1101,20,3,0,22,0,3,4,4,1,1,5,1,4,2,4,2,0,1,3,0,1,,24,5.0,7.8,2.1,80,9,Neutral,,19,Law,Male,3.72,4,2,2,Average,Low,Good,Low,Single,Never,Never,No,No,3,Low,24,Off-Campus
+S1102,11,17,0,13,3,1,2,4,2,3,3,3,3,2,3,3,3,2,2,2,1,,24,11.8,8.4,5.0,3,4,Neutral,,19,Medical,Male,3.26,3,2,4,Average,Moderate,Average,Low,Single,Never,Frequently,No,No,5,High,24,On-Campus
+S1103,12,15,1,12,2,1,2,4,2,3,3,2,2,2,2,2,2,3,3,2,1,,20,8.6,4.4,5.1,74,10,Neutral,,24,Medical,Female,3.45,2,2,3,Average,High,Good,Low,Married,Never,Occasionally,No,No,3,Low,21,On-Campus
+S1104,3,29,0,7,1,2,4,1,1,4,5,4,4,1,5,1,3,1,1,1,0,,25,4.7,6.2,1.1,74,3,Happy,,22,Medical,Female,3.97,5,0,3,Good,Moderate,Poor,Moderate,Married,Never,Occasionally,No,No,3,Low,21,Off-Campus
+S1105,8,26,0,2,1,2,5,2,2,4,5,5,4,2,4,1,3,1,1,1,0,,22,7.7,7.5,3.6,51,9,Happy,,24,Medical,Female,3.06,2,2,4,Poor,Moderate,Average,Moderate,Single,Never,Never,No,No,2,Low,29,Off-Campus
+S1106,19,11,1,27,3,3,1,3,4,1,2,2,1,3,1,5,1,4,5,4,2,,25,8.9,4.4,4.8,75,9,Stressed,,21,Medical,Female,3.05,4,0,4,Good,Low,Average,Moderate,In a Relationship,Never,Occasionally,No,No,1,High,15,On-Campus
+S1107,3,28,0,1,1,2,4,1,2,4,5,5,4,2,4,1,3,1,2,1,0,,22,9.4,6.8,4.2,27,7,Stressed,,28,Medical,Female,3.84,4,2,1,Good,Low,Poor,High,Married,Never,Occasionally,No,No,0,Moderate,27,With Family
+S1108,16,9,1,25,3,3,1,3,4,1,1,1,2,5,1,5,1,5,5,4,2,,21,2.5,4.3,5.5,4,2,Stressed,,27,Computer Science,Female,3.92,5,0,4,Average,High,Poor,Moderate,Single,Never,Occasionally,Yes,No,4,Low,26,Off-Campus
+S1109,15,6,1,20,3,3,1,3,4,2,2,2,2,3,2,4,1,4,5,5,2,,19,8.1,6.7,0.2,70,10,Neutral,,21,Medical,Female,3.43,1,1,3,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,5,Moderate,23,On-Campus
+S1110,1,29,0,7,1,2,5,1,1,4,5,5,5,1,4,1,3,2,1,1,0,,18,7.0,6.5,4.2,33,6,Stressed,,18,Computer Science,Male,3.53,3,4,1,Good,High,Average,Moderate,In a Relationship,Never,Never,No,No,5,Low,18,Off-Campus
+S1111,17,4,1,19,3,3,1,5,5,2,2,2,2,3,1,5,1,4,5,5,2,,24,11.0,6.9,5.7,69,8,Stressed,,23,Computer Science,Female,3.44,5,4,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,4,Moderate,21,On-Campus
+S1112,5,27,0,8,1,2,4,1,2,4,4,5,4,1,5,1,3,2,1,1,0,,23,4.9,4.7,3.4,69,7,Neutral,,18,Business,Female,3.71,0,1,2,Good,High,Average,Low,In a Relationship,Frequently,Occasionally,No,No,1,Low,22,Off-Campus
+S1113,9,24,0,13,2,1,2,4,3,2,2,3,2,3,3,3,2,2,2,3,1,,17,10.0,5.6,3.4,60,2,Happy,,26,Computer Science,Male,3.01,2,5,1,Good,Moderate,Average,High,Married,Never,Occasionally,No,No,0,Moderate,27,On-Campus
+S1114,3,2,0,22,0,3,4,5,1,5,3,3,1,2,2,3,1,0,2,1,2,,16,8.1,6.6,1.1,83,3,Stressed,,26,Computer Science,Male,3.28,1,2,4,Average,Moderate,Good,Moderate,Single,Never,Never,Yes,No,0,Moderate,25,Off-Campus
+S1115,17,12,1,27,4,3,1,4,4,2,2,2,1,5,1,4,1,4,4,4,2,,17,5.5,4.6,5.9,19,3,Neutral,,27,Engineering,Female,4.0,4,4,2,Good,Moderate,Good,Low,In a Relationship,Never,Never,No,No,2,Moderate,28,With Family
+S1116,13,21,1,12,3,1,3,4,2,2,2,2,2,3,2,3,2,3,3,3,1,,18,8.4,5.0,5.3,46,9,Stressed,,23,Engineering,Female,2.86,2,5,3,Average,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,26,Off-Campus
+S1117,19,7,1,17,5,3,1,4,5,2,1,2,1,3,2,5,1,5,5,5,2,,18,8.2,6.9,3.0,50,7,Happy,,20,Engineering,Female,3.64,2,5,3,Average,Moderate,Average,Moderate,Single,Never,Frequently,No,No,5,High,29,With Family
+S1118,18,8,1,24,5,3,1,4,4,1,2,1,2,5,1,5,1,4,4,5,2,,22,8.8,4.5,1.9,28,9,Stressed,,23,Engineering,Female,3.1,0,3,0,Good,High,Good,High,Married,Never,Never,No,No,0,Moderate,16,On-Campus
+S1119,9,23,0,11,2,1,2,4,3,3,2,3,2,2,3,2,3,3,2,3,1,,25,9.2,6.6,2.9,75,6,Happy,,22,Computer Science,Male,3.59,1,4,0,Poor,High,Good,Moderate,Married,Never,Occasionally,No,No,3,High,28,Off-Campus
+S1120,6,28,0,0,1,2,4,2,2,3,4,4,5,1,4,1,3,2,2,1,0,,17,8.6,8.0,0.5,37,3,Stressed,,28,Business,Female,3.12,4,1,2,Good,Low,Average,High,In a Relationship,Occasionally,Never,No,Yes,4,Moderate,28,On-Campus
+S1121,18,0,1,18,5,3,1,3,3,1,2,2,1,4,1,5,1,4,4,5,2,,22,10.4,6.3,1.4,17,9,Neutral,,24,Engineering,Male,3.37,0,3,1,Good,Low,Average,Low,In a Relationship,Never,Never,No,No,3,Moderate,26,With Family
+S1122,7,29,0,8,1,2,4,2,2,4,5,4,4,1,5,1,3,1,2,1,0,,22,8.3,6.6,1.3,59,10,Stressed,,25,Computer Science,Male,3.78,4,4,0,Good,Moderate,Good,High,Single,Never,Frequently,Yes,No,1,Low,22,On-Campus
+S1123,9,20,1,11,3,1,3,4,3,2,2,3,2,2,2,3,2,2,2,3,1,,25,11.0,6.3,3.2,64,8,Stressed,,26,Medical,Female,3.62,4,1,2,Average,Low,Good,Moderate,Single,Never,Frequently,No,No,1,Moderate,29,On-Campus
+S1124,13,20,1,14,3,1,2,2,3,3,3,2,2,2,3,3,2,2,3,3,1,,23,8.5,4.3,0.0,65,6,Happy,,25,Computer Science,Male,3.28,0,4,2,Good,Moderate,Average,Moderate,Married,Never,Frequently,Yes,No,1,Moderate,28,Off-Campus
+S1125,19,16,0,6,0,3,4,3,3,5,3,2,4,3,2,1,1,2,5,2,0,,24,5.1,6.3,5.5,11,6,Neutral,,24,Business,Male,3.64,2,3,1,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,1,Low,28,With Family
+S1126,13,15,1,14,3,1,3,4,3,2,3,3,3,2,3,3,2,3,3,2,1,,20,6.4,8.0,1.2,50,9,Neutral,,19,Computer Science,Male,3.65,2,0,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,Yes,1,Moderate,21,Off-Campus
+S1127,6,26,0,2,1,2,4,1,1,3,5,5,4,2,4,1,3,2,2,1,0,,24,7.8,7.6,0.8,46,6,Happy,,21,Medical,Male,3.09,5,1,3,Average,High,Average,High,In a Relationship,Occasionally,Occasionally,Yes,Yes,0,Low,27,Off-Campus
+S1128,14,3,0,27,3,3,3,4,5,3,1,4,3,5,4,2,1,1,3,2,2,,16,9.3,6.0,4.3,64,6,Happy,,19,Medical,Male,3.75,0,1,0,Average,Low,Average,High,In a Relationship,Never,Occasionally,Yes,No,2,Moderate,25,Off-Campus
+S1129,14,19,0,13,2,1,3,4,2,3,2,3,3,3,2,2,3,2,2,3,1,,17,2.9,8.1,5.5,1,7,Stressed,,23,Medical,Male,3.77,2,3,5,Good,Moderate,Good,Moderate,Single,Never,Never,Yes,No,4,Low,29,Off-Campus
+S1130,5,27,0,6,1,2,4,1,2,4,5,4,4,2,4,1,3,1,2,1,0,,24,5.0,7.7,5.1,84,7,Happy,,18,Engineering,Male,3.33,0,3,2,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,Never,Yes,No,2,High,16,With Family
+S1131,12,16,0,13,2,1,3,4,3,3,3,2,3,3,3,2,3,2,2,2,1,,20,9.5,6.9,1.9,30,6,Neutral,,20,Law,Female,3.54,3,1,4,Average,Moderate,Average,Low,Single,Never,Never,No,No,0,Low,17,With Family
+S1132,20,13,0,8,0,3,0,3,3,2,1,4,4,4,2,3,1,5,2,5,0,,21,3.8,4.2,0.1,78,10,Neutral,,29,Business,Female,3.12,1,5,2,Good,Low,Average,Moderate,Single,Occasionally,Never,No,No,3,High,22,With Family
+S1133,14,16,1,11,3,1,3,4,2,3,3,3,2,2,3,3,3,2,2,2,1,,17,3.3,5.7,3.5,87,4,Happy,,21,Computer Science,Male,3.73,1,1,2,Average,Moderate,Average,Moderate,Married,Never,Never,Yes,No,2,High,26,Off-Campus
+S1134,11,21,0,10,3,1,3,4,3,2,2,3,2,2,2,2,3,2,3,3,1,,20,7.4,4.3,5.5,21,10,Stressed,,18,Law,Female,3.26,3,0,5,Good,Low,Average,Low,Married,Never,Never,No,No,0,Moderate,17,With Family
+S1135,7,24,1,3,0,3,0,2,5,4,4,0,1,5,3,1,1,5,0,0,0,,22,11.7,9.0,4.6,65,9,Neutral,,24,Medical,Female,3.41,5,2,0,Average,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,4,High,27,With Family
+S1136,6,25,0,0,1,2,4,1,1,4,4,4,5,1,5,1,3,2,1,1,0,,18,7.3,8.7,5.1,17,4,Neutral,,18,Medical,Male,3.31,3,5,2,Average,Moderate,Average,Low,Single,Never,Occasionally,No,No,3,Low,28,Off-Campus
+S1137,19,13,1,20,3,3,1,5,5,1,2,1,2,3,2,5,1,5,4,4,2,,23,11.1,4.3,5.2,57,7,Neutral,,25,Computer Science,Female,3.51,1,5,4,Average,Moderate,Average,Low,Married,Never,Frequently,No,No,5,Low,29,Off-Campus
+S1138,8,28,0,0,1,2,4,2,1,3,5,5,4,2,5,1,3,1,1,1,0,,16,10.3,8.7,5.8,20,9,Happy,,20,Engineering,Male,3.19,2,5,0,Average,Low,Average,Moderate,Single,Occasionally,Never,No,No,3,Moderate,25,On-Campus
+S1139,10,25,1,11,3,1,3,4,2,2,3,2,2,2,2,2,2,2,3,2,1,,20,4.6,4.2,2.2,22,5,Stressed,,21,Medical,Female,3.72,3,3,2,Good,Moderate,Good,High,Single,Occasionally,Occasionally,No,No,2,Moderate,26,With Family
+S1140,1,5,0,1,4,3,5,2,2,2,2,0,2,5,3,3,1,0,2,2,2,,24,10.2,6.0,5.7,72,6,Happy,,19,Law,Female,3.94,5,0,5,Average,Moderate,Average,High,Single,Never,Never,Yes,No,2,Low,29,Off-Campus
+S1141,13,27,1,24,1,3,5,3,5,3,4,3,2,5,0,4,0,1,5,0,0,,18,6.8,7.8,2.4,72,8,Stressed,,21,Engineering,Male,3.9,1,3,3,Good,High,Good,Moderate,Married,Occasionally,Occasionally,Yes,No,4,Moderate,15,Off-Campus
+S1142,11,17,0,13,3,1,2,4,3,3,2,2,2,3,3,3,3,2,2,2,1,,24,10.1,7.8,0.6,84,8,Happy,,21,Medical,Female,3.52,3,0,5,Average,Low,Average,Low,Married,Never,Never,No,No,5,Moderate,20,Off-Campus
+S1143,2,29,0,1,1,2,5,2,1,4,5,5,4,2,4,1,3,2,1,1,0,,17,9.5,8.9,1.8,18,7,Stressed,,19,Medical,Female,3.32,0,0,4,Good,Low,Average,High,Single,Never,Occasionally,No,No,1,Low,20,Off-Campus
+S1144,6,3,1,12,3,3,5,2,3,4,1,3,1,5,2,0,1,2,3,1,2,,20,5.4,7.2,0.8,61,1,Stressed,,19,Business,Male,3.14,3,4,2,Average,High,Average,Low,Single,Never,Never,Yes,No,2,Moderate,16,On-Campus
+S1145,2,27,0,5,1,2,5,2,2,3,5,5,4,2,4,1,3,1,2,1,0,,24,3.2,6.1,0.9,45,1,Happy,,21,Engineering,Female,3.26,1,2,1,Poor,Moderate,Average,Moderate,Married,Never,Never,No,No,5,High,22,With Family
+S1146,9,17,1,14,3,1,2,2,3,2,3,2,3,2,3,2,2,3,2,2,1,,25,11.6,9.0,5.7,5,5,Stressed,,19,Business,Male,3.37,2,0,3,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,4,High,19,Off-Campus
+S1147,18,3,1,20,3,3,1,5,4,2,2,2,2,5,1,4,1,4,5,4,2,,19,3.4,5.9,4.8,28,10,Neutral,,24,Engineering,Female,3.63,4,4,1,Average,Moderate,Good,Moderate,Married,Never,Never,No,No,5,High,26,On-Campus
+S1148,9,21,1,14,2,1,2,4,3,2,2,2,2,3,3,2,2,2,3,2,1,,18,11.7,8.3,5.8,62,1,Neutral,,24,Computer Science,Male,3.5,2,4,3,Good,Low,Average,High,Single,Never,Never,No,No,3,High,29,On-Campus
+S1149,18,14,1,20,5,3,1,3,4,2,2,1,2,3,2,4,1,4,4,5,2,,21,10.6,8.5,3.9,29,9,Happy,,27,Medical,Female,3.84,4,1,2,Good,High,Average,Moderate,Single,Frequently,Never,No,No,0,Low,23,On-Campus
+S1150,8,29,0,1,1,2,5,2,1,3,5,4,5,2,5,1,3,2,2,1,0,,18,9.2,5.9,1.0,8,3,Neutral,,21,Computer Science,Male,4.0,1,1,2,Good,Moderate,Good,Low,Single,Occasionally,Never,Yes,No,5,High,16,On-Campus
+S1151,9,19,1,14,2,1,3,2,2,2,3,2,2,3,3,3,3,3,3,2,1,,24,11.8,7.4,5.8,33,5,Stressed,,19,Medical,Male,3.68,4,5,3,Average,Moderate,Average,Moderate,Single,Frequently,Occasionally,Yes,No,0,Moderate,27,On-Campus
+S1152,14,22,1,13,3,1,3,4,2,2,2,2,3,2,3,3,3,3,3,3,1,,24,11.7,7.3,4.2,47,1,Happy,,20,Law,Male,2.85,0,3,5,Average,Low,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,29,Off-Campus
+S1153,16,15,1,18,4,3,1,3,5,2,1,1,2,3,2,5,1,5,4,4,2,,16,10.0,6.7,5.6,29,5,Neutral,,18,Law,Female,3.7,5,1,2,Average,Low,Average,Moderate,Single,Never,Never,No,No,1,Low,15,Off-Campus
+S1154,18,1,1,16,4,3,1,5,3,1,1,1,2,3,1,4,1,4,4,4,2,,25,5.7,7.3,4.7,5,4,Happy,,23,Others,Male,2.91,1,2,1,Good,Low,Average,Moderate,Married,Never,Never,No,No,5,High,18,On-Campus
+S1155,10,25,1,10,3,1,2,4,2,2,3,2,2,2,2,3,2,3,2,2,1,,21,9.9,5.7,1.3,85,4,Stressed,,27,Medical,Male,3.38,0,4,3,Good,Moderate,Average,Low,In a Relationship,Never,Never,No,No,1,Low,22,Off-Campus
+S1156,6,30,0,1,1,2,4,1,1,3,4,4,4,1,4,1,3,2,2,1,0,,23,2.1,4.9,3.5,26,6,Happy,,30,Engineering,Male,3.41,1,3,1,Average,Moderate,Poor,Low,Single,Occasionally,Never,No,No,5,High,24,On-Campus
+S1157,12,15,0,11,2,1,2,4,3,2,3,2,2,2,2,2,3,3,3,3,1,,16,7.4,6.7,1.1,66,1,Neutral,,26,Computer Science,Male,3.99,0,2,2,Average,High,Poor,Moderate,Married,Never,Occasionally,No,No,1,Moderate,26,With Family
+S1158,2,30,0,0,1,2,5,1,1,3,5,5,4,2,4,1,3,2,2,1,0,,17,6.5,6.6,1.8,46,5,Happy,,20,Law,Male,3.81,5,1,2,Average,Low,Average,Low,Single,Occasionally,Occasionally,No,No,0,Moderate,27,With Family
+S1159,1,30,0,6,1,2,5,2,2,3,4,5,4,1,4,1,3,2,2,1,0,,21,8.7,7.6,4.1,49,9,Happy,,21,Medical,Female,3.07,1,5,0,Average,High,Poor,High,Single,Never,Never,Yes,No,3,Moderate,23,With Family
+S1160,13,22,1,14,3,1,2,4,3,3,2,3,3,2,2,3,3,2,3,2,1,,20,8.7,5.1,0.8,60,9,Stressed,,21,Engineering,Female,3.82,2,1,4,Good,Moderate,Average,Moderate,Single,Occasionally,Occasionally,No,Yes,0,Moderate,20,On-Campus
+S1161,15,15,0,6,5,3,3,5,3,2,1,2,2,0,4,3,1,3,5,3,1,,19,7.8,4.0,4.4,58,9,Happy,,26,Computer Science,Male,3.35,0,2,3,Average,Low,Average,High,Married,Never,Never,No,No,0,Moderate,16,On-Campus
+S1162,15,12,1,27,3,3,1,5,4,1,2,1,2,3,1,4,1,5,4,5,2,,16,10.2,4.1,5.7,5,10,Neutral,,21,Law,Male,3.71,0,5,3,Average,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,5,Moderate,27,With Family
+S1163,11,15,0,10,2,1,3,2,3,3,3,2,2,2,3,2,2,2,2,3,1,,19,11.4,5.5,5.7,5,10,Neutral,,29,Business,Female,3.3,3,1,0,Good,Low,Good,Moderate,In a Relationship,Never,Never,Yes,No,5,Low,23,On-Campus
+S1164,5,30,0,7,1,2,5,2,1,3,5,4,5,1,5,1,3,1,2,1,0,,25,3.1,7.4,2.3,83,3,Neutral,,18,Medical,Male,3.48,2,1,0,Average,High,Poor,Moderate,Single,Never,Occasionally,No,No,5,Moderate,28,On-Campus
+S1165,15,4,1,26,3,3,1,5,5,2,1,2,1,4,1,5,1,4,5,4,2,,17,4.3,6.7,6.0,41,2,Happy,,28,Law,Male,3.73,1,0,4,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,Yes,5,Moderate,26,On-Campus
+S1166,10,15,1,10,3,1,2,4,2,3,3,2,2,3,3,2,3,2,2,3,1,,17,2.3,6.7,5.8,13,1,Stressed,,32,Law,Male,3.39,3,5,2,Average,Low,Poor,Moderate,Single,Never,Never,Yes,No,4,Moderate,24,On-Campus
+S1167,2,30,0,3,1,2,4,1,1,3,5,4,4,1,4,1,3,1,2,1,0,,23,10.8,8.1,0.2,90,8,Neutral,,27,Others,Male,3.42,1,5,3,Average,Low,Average,High,Single,Occasionally,Frequently,No,No,1,Moderate,21,Off-Campus
+S1168,11,20,1,13,3,1,3,2,3,3,2,3,3,3,2,3,3,3,2,2,1,,17,7.6,5.2,3.6,66,6,Stressed,,26,Business,Female,3.55,1,3,5,Good,Low,Good,Low,Married,Frequently,Never,No,No,2,Moderate,16,On-Campus
+S1169,9,15,1,13,3,1,3,2,3,2,2,3,3,3,2,3,2,2,3,3,1,,24,11.2,5.7,5.5,81,3,Stressed,,22,Business,Male,2.94,2,5,4,Average,Low,Poor,Low,In a Relationship,Never,Occasionally,No,No,0,Moderate,23,On-Campus
+S1170,4,25,0,6,1,2,4,1,2,4,4,5,5,1,4,1,3,2,1,1,0,,18,4.2,5.4,5.8,35,3,Happy,,20,Medical,Male,3.25,5,1,4,Good,Moderate,Average,Low,Single,Frequently,Frequently,Yes,No,0,Low,25,Off-Campus
+S1171,17,9,0,3,3,3,2,1,5,4,4,3,1,2,1,0,1,1,0,0,2,,18,2.6,8.7,1.3,33,5,Happy,,18,Medical,Female,3.81,5,3,3,Average,High,Poor,Moderate,Single,Occasionally,Never,No,No,0,Low,20,On-Campus
+S1172,13,15,1,14,2,1,3,4,3,2,2,3,3,3,3,2,3,2,2,2,1,,23,10.2,7.6,3.4,74,6,Stressed,,26,Law,Male,3.93,4,3,5,Poor,Low,Average,Moderate,Single,Never,Never,No,No,0,Moderate,23,With Family
+S1173,6,29,0,3,1,2,5,2,1,4,5,4,5,1,4,1,3,1,1,1,0,,24,11.1,4.6,5.6,69,10,Stressed,,21,Medical,Female,3.36,4,5,1,Average,Moderate,Good,High,Single,Never,Never,No,No,1,Moderate,29,With Family
+S1174,5,26,0,0,1,2,4,1,2,4,4,4,5,2,5,1,3,2,1,1,0,,18,5.0,8.0,0.8,72,4,Neutral,,19,Law,Female,3.12,1,3,5,Good,Moderate,Poor,Moderate,In a Relationship,Occasionally,Never,No,No,0,Moderate,25,With Family
+S1175,15,0,1,26,4,3,1,3,5,2,1,2,1,3,2,4,1,5,5,4,2,,20,6.1,6.1,4.5,22,4,Happy,,25,Medical,Female,3.87,5,3,2,Good,Low,Average,Low,Married,Never,Never,No,No,2,Moderate,23,On-Campus
+S1176,17,15,1,23,5,3,1,4,3,1,1,2,1,4,2,4,1,4,4,4,2,,24,3.4,7.8,1.4,48,5,Stressed,,20,Business,Female,3.67,4,2,0,Average,Low,Average,High,Single,Occasionally,Frequently,No,No,0,Moderate,29,Off-Campus
+S1177,21,5,1,17,5,3,1,3,3,1,2,1,1,5,2,5,1,5,5,4,2,,25,11.5,8.4,5.9,83,5,Neutral,,18,Others,Female,3.39,3,0,3,Average,Moderate,Good,Moderate,Married,Never,Occasionally,No,No,1,Moderate,29,On-Campus
+S1178,4,25,0,22,0,3,3,4,0,1,1,0,1,5,0,4,0,0,4,4,1,,22,5.0,4.1,1.0,48,2,Happy,,22,Medical,Male,3.91,4,2,2,Good,Low,Average,High,In a Relationship,Never,Never,No,No,0,Low,28,On-Campus
+S1179,7,25,1,17,3,3,3,4,0,3,2,5,0,0,0,4,1,4,3,4,0,,19,6.9,5.0,5.3,46,10,Happy,,25,Medical,Male,3.8,2,3,5,Average,High,Good,Moderate,Single,Never,Occasionally,No,No,4,Moderate,29,With Family
+S1180,4,29,0,4,1,2,5,1,2,3,4,5,4,1,4,1,3,1,1,1,0,,24,3.0,4.5,0.5,75,7,Happy,,24,Engineering,Male,3.56,3,3,1,Average,Moderate,Average,Low,Single,Never,Never,Yes,No,4,Moderate,25,Off-Campus
+S1181,20,6,1,23,3,3,1,3,4,2,1,1,2,4,2,5,1,4,5,4,2,,19,10.9,4.2,4.3,83,10,Neutral,,23,Medical,Male,3.49,4,1,4,Poor,Moderate,Average,High,Single,Never,Never,No,No,5,Low,23,On-Campus
+S1182,9,22,0,10,3,1,3,2,2,2,3,3,2,3,2,2,2,2,3,3,1,,20,3.4,7.0,3.8,9,4,Neutral,,24,Computer Science,Female,3.75,1,1,2,Average,Moderate,Good,High,Single,Never,Never,No,No,2,Moderate,18,With Family
+S1183,6,28,0,8,1,2,5,2,2,4,4,4,5,1,4,1,3,2,1,1,0,,22,6.5,7.5,5.3,66,2,Neutral,,20,Law,Male,3.06,0,5,3,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,Yes,2,Low,29,Off-Campus
+S1184,11,4,1,15,4,3,3,3,2,5,5,1,3,2,2,4,0,2,4,3,2,,21,8.7,4.2,2.7,32,6,Neutral,,22,Computer Science,Male,3.43,2,4,0,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,5,Low,15,On-Campus
+S1185,20,13,1,18,4,3,1,5,4,1,1,2,1,4,2,4,1,4,5,5,2,,23,9.4,7.7,1.6,48,8,Neutral,,24,Computer Science,Female,3.28,5,4,0,Good,Low,Average,High,Married,Never,Never,No,No,3,Low,16,On-Campus
+S1186,10,20,0,10,2,1,3,4,2,3,3,2,2,2,3,2,2,3,2,3,1,,24,11.5,6.0,1.5,28,3,Stressed,,22,Engineering,Male,3.11,3,2,3,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,4,High,19,On-Campus
+S1187,3,29,0,5,1,2,5,1,2,4,5,4,5,1,5,1,3,1,2,1,0,,23,6.2,5.2,0.4,66,8,Stressed,,23,Others,Female,2.85,0,2,4,Average,Moderate,Good,Moderate,Single,Never,Frequently,No,No,4,Low,22,On-Campus
+S1188,11,16,0,13,2,1,2,2,3,3,2,3,3,2,3,2,3,3,3,3,1,,17,9.4,5.1,1.5,51,10,Happy,,25,Law,Female,3.19,3,0,1,Good,Moderate,Average,Moderate,In a Relationship,Frequently,Never,No,No,4,Moderate,26,On-Campus
+S1189,18,7,1,21,3,3,1,4,4,2,2,2,2,3,1,5,1,4,5,4,2,,19,3.5,8.3,0.6,45,2,Neutral,,30,Computer Science,Female,3.8,2,2,3,Average,Moderate,Average,High,In a Relationship,Never,Occasionally,No,No,2,Low,20,On-Campus
+S1190,6,11,0,7,2,3,5,0,3,1,3,1,5,5,1,3,1,4,1,1,1,,19,6.1,4.3,0.0,44,10,Stressed,,22,Others,Male,3.58,2,1,4,Average,Low,Average,Moderate,In a Relationship,Never,Occasionally,No,No,1,Low,16,Off-Campus
+S1191,10,21,1,10,2,1,2,4,2,3,3,3,2,3,2,2,2,2,2,3,1,,17,3.0,6.5,2.3,62,5,Stressed,,18,Law,Female,3.61,1,3,0,Good,Low,Average,High,Single,Never,Occasionally,Yes,No,2,Moderate,22,On-Campus
+S1192,14,23,1,20,5,3,3,3,5,2,4,0,1,3,1,0,0,1,0,5,2,,21,6.9,5.4,4.4,61,1,Neutral,,25,Others,Female,3.11,0,1,5,Good,Moderate,Average,High,Married,Never,Occasionally,Yes,No,0,Moderate,19,On-Campus
+S1193,11,20,1,10,3,1,3,2,2,3,2,2,3,2,3,2,3,2,2,2,1,,16,6.1,8.1,5.8,77,10,Neutral,,19,Engineering,Female,3.71,2,2,2,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,4,Moderate,27,With Family
+S1194,6,17,0,1,2,3,0,2,2,3,2,2,5,0,3,5,0,0,0,4,2,,25,11.5,7.7,5.3,0,7,Neutral,,26,Law,Male,3.81,2,0,4,Poor,Low,Average,Moderate,Single,Frequently,Never,Yes,No,5,High,29,Off-Campus
+S1195,16,4,1,26,4,3,1,4,5,2,1,1,2,5,1,4,1,5,5,4,2,,24,2.3,5.6,3.0,64,2,Happy,,32,Medical,Male,3.26,2,4,1,Good,Moderate,Average,Moderate,Single,Never,Frequently,No,No,0,High,28,On-Campus
+S1196,17,12,1,26,3,3,1,4,4,2,2,1,2,3,2,4,1,5,4,4,2,,19,5.7,7.0,2.3,17,1,Stressed,,22,Computer Science,Female,3.22,1,2,1,Average,Low,Good,Moderate,Single,Never,Never,No,No,1,Moderate,18,On-Campus
+S1197,6,28,0,5,1,2,5,2,2,3,4,5,4,2,5,1,3,2,1,1,0,,25,6.4,7.4,3.3,56,6,Neutral,,22,Engineering,Female,3.21,3,5,1,Good,Low,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,0,Moderate,27,With Family
+S1198,13,21,1,10,2,1,3,4,2,3,3,3,2,3,2,2,3,2,3,2,1,,19,11.5,5.6,0.6,21,6,Happy,,18,Medical,Male,3.6,4,0,2,Average,Low,Poor,Moderate,Single,Never,Occasionally,No,Yes,4,High,25,Off-Campus
+S1199,2,23,0,26,4,3,5,0,4,2,2,0,3,1,2,5,1,5,2,3,0,,16,10.6,5.5,2.9,29,7,Neutral,,19,Medical,Female,4.0,3,1,3,Good,Moderate,Average,High,Single,Never,Never,No,No,4,Low,20,Off-Campus
+S1200,21,13,1,27,5,3,1,5,5,2,2,2,1,3,1,5,1,4,5,4,2,,17,3.0,4.7,5.2,9,7,Neutral,,19,Medical,Female,3.34,1,0,4,Poor,Moderate,Average,High,In a Relationship,Never,Occasionally,Yes,No,3,Low,26,On-Campus
+S1201,16,9,1,27,5,3,1,5,4,1,1,2,1,4,2,5,1,4,4,5,2,,16,8.9,7.3,3.9,65,2,Neutral,,19,Law,Female,3.33,4,1,2,Average,Moderate,Poor,High,In a Relationship,Never,Never,No,No,4,Moderate,29,Off-Campus
+S1202,16,9,1,17,4,3,1,3,3,1,2,2,2,5,2,4,1,5,5,5,2,,19,7.4,5.1,4.1,82,4,Stressed,,26,Law,Female,3.5,0,1,1,Good,Low,Poor,High,Married,Never,Never,No,No,2,Moderate,15,Off-Campus
+S1203,10,24,1,10,3,1,3,2,3,2,3,3,3,2,2,2,2,2,2,3,1,,17,11.8,5.5,1.0,35,10,Neutral,,24,Computer Science,Male,3.13,2,5,0,Good,High,Good,Moderate,Single,Never,Never,No,No,2,High,25,On-Campus
+S1204,21,7,1,9,5,3,3,0,0,0,1,1,2,0,3,5,1,5,0,0,0,,16,5.6,4.3,0.4,27,1,Stressed,,27,Business,Male,3.69,2,0,3,Good,Low,Poor,Moderate,In a Relationship,Occasionally,Occasionally,No,No,2,Low,27,On-Campus
+S1205,20,5,1,20,3,3,1,5,4,2,1,1,2,3,2,4,1,5,4,5,2,,21,6.0,8.7,5.1,19,7,Stressed,,22,Medical,Male,3.62,3,2,3,Good,High,Average,High,Single,Never,Occasionally,Yes,No,5,Moderate,28,With Family
+S1206,15,7,1,15,5,3,1,3,4,2,2,2,1,3,2,4,1,4,4,5,2,,17,3.9,8.4,1.8,23,1,Happy,,31,Others,Male,3.08,0,0,0,Good,Moderate,Good,Moderate,Married,Never,Occasionally,No,No,4,Low,22,On-Campus
+S1207,19,10,1,20,4,3,1,3,4,2,1,2,2,3,1,4,1,5,5,5,2,,24,3.2,8.6,1.9,20,5,Happy,,22,Medical,Male,3.98,4,2,1,Good,Low,Average,Moderate,Single,Occasionally,Never,No,No,3,Moderate,16,With Family
+S1208,17,13,1,27,4,3,1,3,5,2,2,1,2,3,1,5,1,4,4,4,2,,19,10.5,7.1,5.7,46,9,Stressed,,26,Law,Male,3.47,3,3,2,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,1,Low,21,Off-Campus
+S1209,7,13,1,17,5,3,1,2,1,1,1,0,0,0,2,5,1,4,1,1,2,,20,6.5,6.1,0.4,77,1,Stressed,,19,Engineering,Female,3.47,1,2,1,Good,Low,Poor,High,Single,Never,Frequently,Yes,No,4,Moderate,15,On-Campus
+S1210,12,15,0,10,2,1,2,2,3,3,3,3,2,3,2,2,3,2,2,2,1,,23,8.6,6.5,1.0,15,6,Neutral,,24,Business,Female,3.49,5,2,2,Average,Moderate,Poor,High,Married,Never,Never,No,No,5,High,28,Off-Campus
+S1211,16,11,1,16,1,3,5,0,5,1,2,1,1,5,4,3,1,2,2,3,0,,19,8.4,8.9,2.3,84,9,Neutral,,27,Medical,Male,3.49,5,3,1,Good,Moderate,Good,High,In a Relationship,Never,Occasionally,Yes,Yes,3,Moderate,22,On-Campus
+S1212,1,26,0,2,1,2,4,1,1,3,5,4,4,1,4,1,3,2,2,1,0,,24,8.0,8.7,4.4,29,10,Stressed,,19,Business,Male,3.63,5,3,4,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,3,High,26,With Family
+S1213,13,24,1,10,2,1,3,4,2,2,3,2,2,3,3,3,2,2,2,3,1,,18,2.2,7.4,3.3,53,3,Stressed,,29,Computer Science,Female,3.05,5,5,3,Average,High,Poor,Moderate,Married,Never,Occasionally,Yes,No,3,Moderate,20,Off-Campus
+S1214,8,29,0,5,1,2,5,1,2,4,5,4,5,1,4,1,3,2,2,1,0,,25,9.9,7.9,5.4,42,6,Neutral,,19,Medical,Female,2.98,5,1,1,Good,Moderate,Average,Low,Single,Never,Never,No,No,0,Moderate,27,Off-Campus
+S1215,19,6,1,19,5,3,1,3,3,1,2,1,1,3,1,4,1,4,4,4,2,,25,4.4,5.6,0.6,14,9,Neutral,,20,Medical,Female,3.28,4,1,1,Average,Low,Average,High,Single,Never,Never,Yes,No,0,High,24,With Family
+S1216,11,19,0,13,3,1,2,4,3,3,3,2,3,3,3,3,3,2,2,3,1,,23,3.3,6.1,3.6,61,4,Neutral,,22,Engineering,Female,3.24,3,0,3,Good,Low,Average,Moderate,In a Relationship,Frequently,Never,No,Yes,0,Moderate,15,Off-Campus
+S1217,9,24,1,10,3,1,2,2,2,2,3,2,3,2,2,2,2,3,3,3,1,,19,7.6,4.7,3.7,86,3,Neutral,,22,Medical,Female,2.92,2,5,0,Good,Moderate,Good,Low,Single,Never,Never,No,No,5,Moderate,22,Off-Campus
+S1218,5,26,0,1,1,2,4,1,1,3,5,5,4,2,4,1,3,1,1,1,0,,23,2.7,5.9,2.9,61,1,Happy,,19,Law,Male,3.4,5,2,2,Good,Low,Average,Moderate,Single,Never,Never,No,No,5,Moderate,26,Off-Campus
+S1219,13,6,0,8,1,3,1,3,4,2,0,3,4,3,4,4,0,2,4,3,0,,22,9.7,7.8,0.2,61,7,Neutral,,25,Computer Science,Male,3.08,1,5,5,Average,Low,Poor,High,In a Relationship,Never,Frequently,No,No,4,Moderate,20,On-Campus
+S1220,19,24,1,10,4,3,2,0,2,5,5,0,3,2,3,3,1,1,0,4,1,,19,4.1,6.4,5.7,26,8,Stressed,,25,Medical,Male,3.91,2,5,2,Poor,High,Good,Moderate,Married,Never,Never,Yes,No,1,Moderate,22,On-Campus
+S1221,10,23,1,13,2,1,2,2,3,3,2,2,3,2,3,2,3,3,3,3,1,,17,4.2,8.2,1.0,75,10,Stressed,,28,Medical,Female,3.53,3,2,2,Good,High,Average,Moderate,Single,Never,Never,Yes,No,3,Low,16,Off-Campus
+S1222,11,24,0,11,3,1,2,2,3,2,2,3,2,2,2,2,2,2,2,2,1,,17,10.7,5.5,5.3,20,10,Neutral,,20,Law,Male,3.07,4,0,1,Poor,High,Average,High,Married,Never,Never,Yes,No,2,Moderate,15,Off-Campus
+S1223,19,3,1,21,3,3,1,4,4,2,2,2,2,4,2,4,1,4,4,5,2,,22,5.3,7.5,0.9,82,9,Neutral,,21,Computer Science,Male,3.82,1,4,1,Good,Low,Average,Low,Married,Never,Never,No,No,0,Low,16,Off-Campus
+S1224,1,30,0,0,1,2,4,2,1,4,5,4,5,1,5,1,3,1,2,1,0,,21,3.5,8.0,0.6,52,2,Stressed,,25,Engineering,Female,3.15,2,1,3,Average,Moderate,Good,Low,In a Relationship,Never,Occasionally,No,No,4,High,29,With Family
+S1225,13,24,0,14,2,1,2,4,3,3,3,3,2,3,2,2,2,2,2,3,1,,22,11.0,8.6,1.2,2,4,Stressed,,19,Business,Female,3.53,3,2,5,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,4,High,28,Off-Campus
+S1226,4,8,0,12,1,3,4,5,4,2,2,2,1,1,4,2,1,0,4,5,2,,22,2.0,6.8,1.1,31,7,Happy,,29,Computer Science,Female,3.39,5,1,0,Average,Moderate,Poor,High,In a Relationship,Never,Occasionally,No,No,2,Low,23,Off-Campus
+S1227,12,19,0,9,3,1,2,2,3,3,2,2,2,2,3,2,2,3,2,2,1,,23,10.6,8.8,4.2,5,5,Stressed,,31,Business,Male,3.38,4,2,3,Good,Moderate,Poor,Moderate,Married,Never,Never,Yes,No,2,Moderate,15,Off-Campus
+S1228,9,17,0,12,3,1,3,2,2,2,2,3,2,2,3,3,2,3,3,2,1,,16,3.4,6.8,4.3,16,7,Stressed,,19,Engineering,Female,2.79,0,1,4,Average,Moderate,Poor,Moderate,Single,Frequently,Occasionally,No,No,4,Low,28,Off-Campus
+S1229,9,22,1,13,2,1,3,2,2,2,3,3,2,2,2,2,2,3,2,2,1,,17,3.3,4.7,4.4,73,3,Stressed,,26,Business,Female,3.34,3,5,3,Good,High,Average,Low,In a Relationship,Never,Occasionally,No,No,1,High,29,With Family
+S1230,3,26,0,1,1,2,4,1,2,4,4,5,4,1,4,1,3,2,1,1,0,,16,4.5,5.2,1.6,75,3,Happy,,22,Law,Female,3.24,3,0,1,Average,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,2,Low,26,On-Campus
+S1231,4,30,0,8,1,2,4,1,1,4,5,5,4,1,5,1,3,2,1,1,0,,22,3.7,5.0,1.7,20,6,Stressed,,30,Medical,Female,3.01,5,0,1,Good,Moderate,Good,Moderate,Single,Never,Occasionally,No,No,1,Low,28,On-Campus
+S1232,3,30,0,0,1,2,5,2,1,3,4,5,5,1,4,1,3,1,2,1,0,,21,8.6,7.2,1.4,17,2,Neutral,,22,Law,Female,3.7,3,0,4,Good,Moderate,Good,High,In a Relationship,Never,Occasionally,Yes,No,2,Moderate,21,With Family
+S1233,13,20,1,12,3,1,2,4,2,2,2,2,2,2,3,2,2,2,3,3,1,,17,2.3,8.6,0.3,80,8,Stressed,,24,Law,Male,3.52,0,3,4,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,5,Moderate,29,Off-Campus
+S1234,15,9,1,25,3,3,1,4,5,2,2,1,2,3,2,4,1,5,5,4,2,,19,2.1,8.2,3.4,65,10,Stressed,,21,Business,Female,3.37,3,0,3,Average,High,Average,High,In a Relationship,Never,Never,No,No,5,Low,28,Off-Campus
+S1235,16,13,1,20,3,3,1,4,5,1,2,1,1,5,1,5,1,5,5,5,2,,19,9.9,4.5,5.0,5,1,Happy,,21,Medical,Female,3.26,1,3,1,Average,Moderate,Average,Low,In a Relationship,Never,Never,No,No,3,Low,17,Off-Campus
+S1236,21,2,1,21,5,3,1,5,5,2,1,1,2,4,2,5,1,5,5,5,2,,19,4.4,7.6,0.9,73,9,Neutral,,21,Law,Male,3.35,2,2,0,Average,Low,Average,Low,Single,Never,Never,No,No,2,Moderate,27,On-Campus
+S1237,13,25,1,11,2,1,2,2,3,2,3,3,2,3,3,3,3,3,3,3,1,,24,5.2,5.0,2.2,18,7,Stressed,,21,Law,Female,3.63,2,1,2,Average,Low,Poor,High,Married,Never,Occasionally,No,No,4,Low,20,Off-Campus
+S1238,11,21,0,12,2,1,3,4,2,2,3,2,2,3,3,2,3,2,2,3,1,,23,3.7,5.3,2.6,7,5,Happy,,26,Engineering,Female,3.63,5,5,0,Good,High,Average,Low,In a Relationship,Occasionally,Never,Yes,No,0,Moderate,21,On-Campus
+S1239,6,26,0,0,1,2,4,1,1,4,4,4,4,2,4,1,3,1,1,1,0,,18,2.5,7.4,1.8,21,2,Stressed,,23,Medical,Male,3.63,1,4,3,Poor,Moderate,Average,Low,In a Relationship,Never,Occasionally,No,No,3,Moderate,28,With Family
+S1240,9,22,0,12,3,1,3,2,2,3,2,3,3,2,2,2,2,3,2,2,1,,22,9.4,7.0,4.0,33,7,Happy,,18,Computer Science,Male,3.13,3,3,4,Average,Low,Average,High,Single,Never,Occasionally,No,No,0,Moderate,29,On-Campus
+S1241,12,22,0,20,5,3,4,1,3,3,5,1,2,2,4,0,0,0,3,0,1,,18,7.3,8.4,3.6,23,9,Happy,,21,Others,Female,3.72,2,0,0,Good,Low,Average,Low,Single,Never,Never,No,No,4,Moderate,24,Off-Campus
+S1242,12,16,0,10,3,1,3,2,3,3,3,3,3,3,2,2,3,3,2,2,1,,20,9.5,4.9,1.2,66,7,Happy,,26,Law,Male,3.49,0,0,3,Good,Low,Good,Moderate,Single,Never,Never,No,No,5,Low,22,Off-Campus
+S1243,14,21,1,14,2,1,2,2,2,3,3,3,2,3,3,3,3,2,2,3,1,,23,6.8,7.8,0.2,51,3,Neutral,,23,Business,Male,3.83,1,2,5,Good,Low,Good,Moderate,Single,Never,Occasionally,No,No,3,Low,22,Off-Campus
+S1244,6,26,0,3,1,2,4,1,2,4,5,4,4,1,4,1,3,1,2,1,0,,19,9.8,7.6,1.0,76,3,Happy,,19,Business,Female,3.54,0,1,2,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,26,Off-Campus
+S1245,7,27,0,4,1,2,4,2,2,3,4,4,4,2,4,1,3,2,1,1,0,,17,7.1,6.8,1.8,72,8,Stressed,,25,Medical,Male,3.93,3,2,2,Average,Low,Average,Moderate,Married,Frequently,Never,No,No,0,Moderate,27,On-Campus
+S1246,6,30,0,4,1,2,4,2,1,4,4,5,4,2,5,1,3,2,2,1,0,,23,3.1,6.4,0.5,81,9,Happy,,22,Medical,Male,3.16,3,0,1,Average,Moderate,Poor,High,In a Relationship,Frequently,Never,No,No,4,High,23,On-Campus
+S1247,21,7,1,20,4,3,1,3,3,2,2,1,2,5,1,5,1,4,4,5,2,,24,7.0,8.3,5.1,2,4,Stressed,,26,Law,Male,3.23,0,4,5,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,1,Moderate,27,Off-Campus
+S1248,16,10,1,25,3,3,1,5,4,2,2,2,2,5,1,5,1,5,4,5,2,,17,11.5,5.7,1.9,84,8,Neutral,,23,Law,Female,3.78,1,3,5,Average,Moderate,Good,Moderate,In a Relationship,Never,Occasionally,No,No,2,Moderate,15,Off-Campus
+S1249,7,27,0,0,1,2,4,2,2,3,5,4,4,1,4,1,3,2,1,1,0,,16,2.4,8.8,2.4,36,7,Neutral,,18,Medical,Male,3.84,1,3,1,Good,Low,Poor,Moderate,Married,Never,Occasionally,No,No,1,Low,19,On-Campus
+S1250,16,6,1,19,3,3,1,4,3,1,2,2,2,3,1,5,1,5,4,4,2,,24,9.8,4.1,2.9,10,10,Happy,,20,Computer Science,Female,3.81,4,2,3,Average,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,1,Moderate,20,Off-Campus
+S1251,13,18,1,12,3,1,3,2,3,3,3,2,3,3,3,2,3,3,3,2,1,,16,10.7,8.7,4.0,27,4,Stressed,,28,Law,Male,3.47,0,5,5,Good,Moderate,Average,Moderate,Single,Never,Frequently,Yes,No,1,Moderate,27,With Family
+S1252,5,25,1,12,4,3,4,4,5,4,2,3,4,3,2,2,1,0,1,0,0,,17,7.2,8.8,0.5,57,9,Neutral,,29,Others,Male,3.5,0,4,3,Good,Moderate,Average,High,Married,Occasionally,Never,No,No,4,High,25,On-Campus
+S1253,13,20,1,13,2,1,3,4,2,2,2,2,3,2,2,3,3,3,3,3,1,,19,6.6,4.6,3.3,77,10,Neutral,,20,Engineering,Male,3.37,0,4,0,Good,Low,Average,High,Single,Never,Never,No,No,0,Moderate,20,On-Campus
+S1254,5,30,0,7,1,2,4,2,2,3,4,5,4,2,5,1,3,1,2,1,0,,18,11.6,9.0,1.1,60,9,Happy,,18,Computer Science,Female,3.72,5,4,5,Average,High,Average,Low,Single,Never,Never,Yes,No,1,Moderate,28,On-Campus
+S1255,11,20,1,10,3,3,2,0,3,4,2,4,1,2,3,2,0,0,2,3,1,,22,2.6,6.4,5.3,61,4,Happy,,19,Law,Male,3.6,0,0,1,Average,Moderate,Average,High,Married,Never,Occasionally,No,No,4,Moderate,27,On-Campus
+S1256,7,28,0,7,1,2,5,1,2,3,4,5,5,2,4,1,3,2,1,1,0,,23,6.8,5.2,2.2,21,4,Happy,,24,Law,Male,3.42,1,2,2,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Low,26,With Family
+S1257,1,30,0,3,1,2,4,2,2,3,4,5,4,1,4,1,3,2,1,1,0,,23,6.0,7.0,2.7,28,2,Stressed,,20,Business,Female,3.79,2,2,1,Poor,Moderate,Average,High,Single,Occasionally,Never,No,No,5,Low,15,Off-Campus
+S1258,11,20,0,10,3,1,2,2,2,2,2,3,3,2,3,3,3,3,2,2,1,,19,8.9,5.0,1.6,52,5,Happy,,22,Law,Male,4.0,4,2,4,Average,Moderate,Average,Moderate,Married,Occasionally,Never,No,No,2,Moderate,20,Off-Campus
+S1259,5,20,0,3,2,3,4,3,5,0,0,1,3,0,2,3,0,2,0,3,1,,22,6.9,8.6,2.8,76,7,Happy,,20,Medical,Male,3.57,5,0,2,Good,Low,Good,Low,Married,Never,Never,No,No,3,Moderate,27,Off-Campus
+S1260,8,26,0,8,1,2,5,2,1,4,4,4,4,2,5,1,3,1,1,1,0,,16,11.1,6.8,1.4,18,6,Stressed,,21,Others,Male,3.14,3,4,0,Poor,Moderate,Average,Low,Single,Never,Occasionally,No,No,1,Low,22,With Family
+S1261,12,19,1,12,2,1,3,4,3,2,2,2,3,2,3,3,3,2,2,3,1,,18,2.7,7.9,1.6,74,10,Stressed,,21,Others,Female,3.86,5,1,1,Good,Moderate,Average,Moderate,Single,Frequently,Frequently,Yes,No,0,Moderate,22,On-Campus
+S1262,8,30,0,3,1,2,4,1,1,4,4,4,5,2,5,1,3,2,2,1,0,,22,2.8,5.9,0.4,23,2,Happy,,23,Engineering,Female,3.37,0,4,2,Good,Low,Average,High,In a Relationship,Never,Never,No,No,1,Moderate,16,On-Campus
+S1263,14,24,1,10,2,1,2,4,3,3,2,2,3,2,3,3,3,3,3,3,1,,16,8.1,6.7,4.5,79,2,Stressed,,21,Computer Science,Male,3.3,0,4,1,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,2,High,17,On-Campus
+S1264,9,17,1,13,3,1,3,4,2,2,2,2,3,2,2,3,3,2,3,3,1,,22,2.7,5.8,4.0,84,7,Stressed,,25,Business,Female,3.46,4,2,2,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,1,Low,24,With Family
+S1265,12,18,1,9,3,1,2,2,2,3,3,2,2,3,3,3,2,2,2,3,1,,20,4.8,5.3,0.5,65,7,Happy,,26,Law,Male,3.6,2,2,2,Good,Low,Average,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,16,On-Campus
+S1266,10,25,1,10,2,1,3,2,3,3,2,3,3,3,3,3,3,3,3,2,1,,23,8.3,6.6,2.1,33,6,Stressed,,35,Computer Science,Male,3.71,4,1,1,Good,High,Average,Moderate,Single,Never,Frequently,Yes,No,3,Low,16,On-Campus
+S1267,16,11,1,22,5,3,1,4,4,2,2,2,1,5,2,5,1,4,5,5,2,,20,7.5,6.5,3.2,21,6,Happy,,26,Law,Female,3.19,3,5,1,Poor,Moderate,Average,Moderate,Married,Never,Never,No,No,2,Low,17,Off-Campus
+S1268,1,29,0,0,1,2,4,2,2,4,5,4,5,1,5,1,3,1,1,1,0,,22,5.3,4.5,5.8,87,4,Happy,,28,Medical,Male,3.87,5,3,1,Average,High,Average,Low,Single,Never,Never,Yes,No,2,Moderate,16,Off-Campus
+S1269,8,28,0,4,1,2,4,2,1,3,4,5,5,2,5,1,3,2,2,1,0,,24,11.9,8.9,3.5,43,6,Stressed,,22,Medical,Male,3.07,3,0,1,Good,Moderate,Poor,Moderate,Married,Never,Occasionally,No,No,0,High,16,On-Campus
+S1270,9,25,0,9,2,1,3,2,2,2,3,3,3,2,2,2,2,2,3,2,1,,23,7.3,6.3,3.3,58,6,Happy,,24,Computer Science,Female,3.15,1,3,2,Average,High,Average,Moderate,Single,Never,Occasionally,No,No,0,High,18,Off-Campus
+S1271,7,30,0,5,1,2,5,2,1,3,5,4,5,2,4,1,3,1,1,1,0,,18,6.5,8.2,5.0,76,10,Neutral,,20,Engineering,Male,3.56,2,5,3,Good,Low,Poor,Moderate,Single,Never,Frequently,Yes,No,5,Moderate,22,Off-Campus
+S1272,19,2,1,27,5,3,1,3,4,2,1,1,1,5,2,4,1,5,4,4,2,,19,8.1,8.6,4.9,75,1,Stressed,,21,Others,Male,3.22,4,0,3,Average,High,Good,High,Single,Never,Frequently,No,No,2,Moderate,16,With Family
+S1273,21,4,1,24,4,3,1,3,5,1,1,2,1,4,2,4,1,4,4,4,2,,20,3.0,5.9,2.5,8,5,Stressed,,18,Computer Science,Female,3.38,3,4,2,Good,High,Poor,Low,In a Relationship,Never,Occasionally,Yes,No,1,High,29,With Family
+S1274,7,29,0,0,1,2,4,1,2,3,4,4,5,2,5,1,3,1,2,1,0,,19,9.0,6.1,3.2,29,3,Stressed,,29,Business,Male,3.33,1,2,3,Average,High,Poor,Moderate,Single,Occasionally,Frequently,No,No,0,Low,19,On-Campus
+S1275,7,21,0,23,1,3,2,4,4,3,4,0,4,3,2,2,0,1,2,5,0,,16,10.5,6.8,5.2,48,6,Happy,,26,Law,Male,3.89,5,2,2,Poor,Moderate,Poor,Moderate,Single,Never,Never,Yes,No,2,Moderate,29,Off-Campus
+S1276,16,15,1,22,3,3,1,3,5,1,2,2,1,4,2,4,1,4,5,4,2,,25,8.5,5.1,2.8,49,10,Happy,,20,Computer Science,Male,3.47,0,3,2,Good,Moderate,Good,Moderate,In a Relationship,Never,Occasionally,No,No,2,High,28,On-Campus
+S1277,15,8,1,22,5,3,1,4,3,1,1,1,2,4,1,5,1,4,5,5,2,,24,9.7,4.7,5.3,16,8,Stressed,,23,Engineering,Male,2.97,5,1,1,Good,Moderate,Average,High,Married,Never,Frequently,No,No,2,Moderate,25,With Family
+S1278,14,11,1,20,5,3,2,3,4,0,3,0,5,1,3,5,0,2,2,1,1,,16,9.2,5.3,2.9,13,10,Happy,,24,Medical,Female,3.19,1,0,3,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,1,High,15,On-Campus
+S1279,13,16,1,12,3,1,3,2,3,3,3,3,2,3,2,3,3,2,2,2,1,,21,4.2,8.7,0.5,2,3,Neutral,,19,Engineering,Female,3.41,1,2,1,Good,Moderate,Good,High,Married,Never,Never,No,No,4,Low,29,Off-Campus
+S1280,19,13,1,18,3,3,1,5,4,1,2,1,1,4,1,4,1,4,4,4,2,,16,6.5,6.9,5.4,25,8,Neutral,,21,Others,Female,3.51,2,2,2,Good,Moderate,Average,Moderate,Single,Occasionally,Never,Yes,No,1,Low,16,On-Campus
+S1281,5,27,0,7,1,2,5,2,2,4,4,4,4,2,5,1,3,2,2,1,0,,16,4.3,6.1,4.3,66,1,Neutral,,22,Medical,Female,3.88,3,0,2,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,3,Low,26,Off-Campus
+S1282,18,7,1,27,3,3,1,3,5,2,2,1,2,5,1,4,1,4,5,5,2,,25,5.4,4.8,3.0,64,4,Stressed,,21,Business,Male,3.21,3,1,3,Good,Moderate,Good,Moderate,In a Relationship,Never,Occasionally,Yes,No,1,Low,18,On-Campus
+S1283,20,9,1,25,4,3,1,3,4,1,1,2,1,4,1,4,1,5,4,4,2,,23,6.5,5.6,5.4,87,4,Happy,,22,Business,Male,3.47,3,1,2,Average,High,Average,Moderate,Married,Never,Occasionally,No,No,3,Moderate,28,Off-Campus
+S1284,13,1,1,21,2,3,0,2,4,3,2,1,4,4,2,2,1,3,0,2,2,,24,6.2,5.9,4.8,53,6,Stressed,,22,Medical,Female,3.34,3,4,2,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,5,Moderate,16,On-Campus
+S1285,1,27,0,0,3,3,1,5,4,3,0,0,2,2,1,3,1,5,5,5,2,,24,3.0,8.2,4.1,19,3,Neutral,,28,Medical,Male,3.68,2,1,5,Good,Moderate,Good,High,Married,Frequently,Occasionally,No,Yes,2,High,21,Off-Campus
+S1286,1,8,1,1,4,3,0,0,0,0,0,4,2,1,0,2,0,1,4,3,2,,18,6.3,6.5,3.7,77,2,Neutral,,26,Business,Male,3.56,2,2,5,Good,Moderate,Average,Moderate,Married,Never,Never,Yes,No,4,High,18,On-Campus
+S1287,7,30,0,1,1,2,5,2,2,4,5,5,5,1,5,1,3,2,2,1,0,,16,8.7,7.3,0.7,12,2,Neutral,,20,Law,Male,3.35,2,3,5,Good,Moderate,Poor,Moderate,Single,Never,Occasionally,No,No,4,High,24,Off-Campus
+S1288,15,8,1,19,4,3,1,4,4,2,1,2,1,3,2,5,1,5,5,5,2,,24,5.7,7.4,4.5,22,1,Stressed,,21,Law,Female,3.41,1,3,5,Average,Low,Average,Low,Single,Never,Never,No,No,4,Moderate,23,On-Campus
+S1289,16,9,1,18,4,3,1,5,5,2,2,1,2,3,2,5,1,4,5,4,2,,17,3.5,5.3,1.0,60,4,Stressed,,24,Others,Male,3.4,5,2,2,Good,High,Average,Low,Single,Frequently,Frequently,No,No,4,Moderate,23,Off-Campus
+S1290,9,30,1,2,3,3,3,4,4,5,5,0,1,4,3,2,1,1,5,3,0,,18,11.2,8.1,5.9,78,10,Neutral,,23,Computer Science,Male,3.5,2,5,3,Good,Moderate,Average,High,Single,Never,Frequently,Yes,No,3,Moderate,15,Off-Campus
+S1291,1,29,0,4,1,2,5,1,2,4,5,5,5,2,5,1,3,2,2,1,0,,17,2.7,8.8,5.8,76,3,Neutral,,20,Law,Male,4.0,2,2,1,Average,High,Good,Moderate,Single,Frequently,Never,No,No,2,Moderate,24,On-Campus
+S1292,0,26,0,1,1,2,5,2,1,4,4,5,5,2,4,1,3,2,2,1,0,,25,10.3,7.2,4.9,4,5,Happy,,19,Others,Male,3.76,2,1,1,Good,Moderate,Good,High,In a Relationship,Never,Never,No,No,3,High,27,With Family
+S1293,21,18,0,25,5,3,4,5,1,1,5,0,3,1,2,3,0,0,4,3,0,,17,2.9,6.5,0.8,68,1,Happy,,19,Medical,Male,3.66,3,0,2,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,0,High,18,On-Campus
+S1294,16,5,1,24,5,3,1,3,4,2,2,1,1,5,1,5,1,4,4,5,2,,19,3.0,4.8,2.5,64,6,Neutral,,18,Law,Male,3.49,0,0,3,Poor,Moderate,Average,Moderate,Single,Never,Never,No,No,5,Low,26,With Family
+S1295,12,22,1,18,5,3,4,3,3,0,0,5,4,3,1,0,0,3,5,3,1,,22,9.4,8.0,5.9,15,2,Happy,,24,Medical,Female,3.78,5,3,0,Poor,Low,Good,High,Single,Never,Frequently,Yes,No,2,Low,26,Off-Campus
+S1296,4,9,1,4,2,3,5,3,1,3,0,0,4,4,2,5,1,0,4,5,0,,17,10.1,4.8,2.6,11,5,Neutral,,25,Medical,Male,3.55,4,5,5,Good,Low,Average,High,In a Relationship,Occasionally,Occasionally,No,No,3,Low,28,On-Campus
+S1297,11,24,1,12,2,1,3,4,2,3,3,2,3,2,2,2,3,3,2,3,1,,25,7.6,7.6,6.0,61,8,Neutral,,21,Computer Science,Female,3.83,2,3,2,Average,Low,Average,Moderate,In a Relationship,Frequently,Occasionally,Yes,No,0,Moderate,17,On-Campus
+S1298,9,17,0,14,3,1,3,2,3,3,2,3,2,3,2,2,2,3,3,2,1,,19,7.9,6.4,3.8,84,8,Neutral,,30,Medical,Male,3.54,5,5,0,Average,Low,Average,Moderate,Single,Frequently,Occasionally,No,No,4,Moderate,18,Off-Campus
+S1299,10,21,1,27,1,3,4,0,0,3,0,0,3,5,3,4,1,0,0,4,1,,25,7.6,8.6,5.0,16,1,Happy,,19,Others,Male,3.17,0,4,1,Good,Low,Average,High,In a Relationship,Never,Frequently,Yes,No,2,High,23,On-Campus
+S1300,2,28,0,2,1,2,4,2,2,4,5,5,4,2,5,1,3,1,2,1,0,,25,5.3,6.7,1.5,77,6,Neutral,,19,Others,Male,3.65,1,0,0,Average,Low,Average,Moderate,Single,Never,Occasionally,No,No,2,High,22,Off-Campus
+S1301,13,23,0,11,3,1,2,4,3,2,3,3,2,3,2,2,2,3,3,3,1,,16,3.2,7.2,5.5,69,4,Neutral,,25,Others,Female,3.52,3,3,4,Average,Low,Poor,High,Single,Never,Never,No,No,0,Moderate,29,Off-Campus
+S1302,2,23,1,4,4,3,5,0,0,2,3,1,0,4,2,1,0,1,1,5,0,,25,5.5,4.3,5.5,0,9,Happy,,30,Business,Male,2.86,5,3,0,Good,High,Average,Low,In a Relationship,Occasionally,Occasionally,Yes,No,3,Low,16,On-Campus
+S1303,18,7,1,18,3,3,1,5,5,1,1,2,1,4,2,5,1,5,4,5,2,,17,8.7,4.2,0.4,86,4,Neutral,,27,Engineering,Male,3.76,4,2,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,5,High,27,On-Campus
+S1304,4,26,0,5,1,2,4,2,1,3,5,4,4,2,5,1,3,2,1,1,0,,22,9.5,8.2,2.3,83,4,Happy,,25,Engineering,Male,3.4,0,0,5,Average,Low,Poor,High,In a Relationship,Occasionally,Never,No,No,1,Moderate,23,On-Campus
+S1305,1,21,0,11,3,3,5,1,4,3,1,5,0,4,2,3,1,0,2,1,1,,25,10.7,8.7,2.4,55,9,Neutral,,28,Law,Female,3.07,4,2,0,Average,Low,Average,Moderate,Single,Never,Never,Yes,No,3,Low,22,On-Campus
+S1306,2,28,0,8,1,2,4,1,1,4,5,5,5,1,4,1,3,2,1,1,0,,25,9.2,7.3,2.0,66,9,Happy,,22,Medical,Female,3.33,2,0,0,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,1,High,19,Off-Campus
+S1307,10,23,1,9,3,1,3,2,3,3,2,3,2,3,2,3,2,2,3,3,1,,24,11.7,7.8,1.7,53,5,Stressed,,26,Computer Science,Male,3.4,0,2,5,Average,High,Poor,High,Single,Never,Never,No,No,0,Low,18,With Family
+S1308,20,0,1,24,4,3,1,3,4,2,2,1,2,4,2,5,1,4,4,5,2,,21,8.0,6.1,2.7,47,9,Neutral,,19,Engineering,Female,3.63,5,5,1,Average,High,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,2,Low,28,On-Campus
+S1309,10,21,0,13,3,1,3,4,2,2,3,3,2,3,3,3,3,3,2,3,1,,20,5.5,8.2,5.2,5,8,Happy,,23,Medical,Female,3.05,2,0,1,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,5,Low,23,On-Campus
+S1310,7,30,0,3,1,2,5,2,1,4,5,5,5,1,4,1,3,2,1,1,0,,19,7.8,5.2,4.7,89,10,Stressed,,25,Engineering,Male,3.84,3,1,1,Good,High,Good,Moderate,Single,Never,Never,Yes,No,3,High,21,Off-Campus
+S1311,10,17,0,13,3,1,2,4,2,2,3,3,2,3,3,2,3,2,2,3,1,,21,4.1,7.5,3.7,67,3,Neutral,,22,Business,Female,3.65,2,4,2,Good,Moderate,Poor,Moderate,Single,Never,Never,No,No,4,Moderate,20,Off-Campus
+S1312,12,16,0,7,5,3,2,4,3,0,4,4,5,0,0,5,1,2,3,3,0,,19,8.6,4.0,3.1,54,1,Happy,,24,Engineering,Female,3.93,1,0,1,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,1,Moderate,16,Off-Campus
+S1313,14,22,0,10,3,3,1,5,3,5,2,2,2,0,3,3,0,4,4,2,1,,20,4.2,6.5,2.5,29,7,Happy,,31,Others,Male,3.63,5,0,1,Average,Moderate,Good,Moderate,Married,Never,Never,Yes,No,4,Moderate,22,Off-Campus
+S1314,0,28,0,3,1,2,4,2,1,3,4,5,4,2,5,1,3,1,1,1,0,,22,3.1,5.9,2.5,61,10,Stressed,,28,Engineering,Female,3.28,0,2,1,Average,Low,Average,Moderate,In a Relationship,Never,Frequently,No,No,2,High,23,On-Campus
+S1315,7,26,0,1,1,2,4,1,1,4,4,5,5,2,4,1,3,2,1,1,0,,18,10.5,7.1,0.9,48,9,Neutral,,26,Medical,Male,3.25,1,1,4,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,4,Moderate,21,Off-Campus
+S1316,18,7,1,15,4,3,1,4,5,2,1,2,2,3,2,4,1,4,5,4,2,,20,5.7,7.3,3.5,44,1,Happy,,18,Business,Female,3.69,5,2,0,Good,Low,Good,Moderate,Single,Never,Never,No,No,0,Moderate,27,On-Campus
+S1317,8,28,0,8,1,2,5,2,2,4,4,5,4,2,4,1,3,1,2,1,0,,23,9.6,7.1,4.6,75,5,Stressed,,26,Medical,Male,3.15,1,2,3,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,2,Low,25,Off-Campus
+S1318,3,26,0,8,1,2,5,2,1,4,4,4,4,2,4,1,3,1,2,1,0,,21,7.7,6.4,5.6,89,3,Stressed,,18,Medical,Female,3.87,1,0,0,Good,High,Average,High,Single,Never,Never,No,No,5,Moderate,29,Off-Campus
+S1319,14,18,1,9,3,1,3,2,3,3,3,2,2,3,3,2,2,2,3,3,1,,17,10.1,6.4,5.5,73,1,Happy,,29,Engineering,Male,3.34,3,1,4,Good,Moderate,Good,Moderate,In a Relationship,Occasionally,Occasionally,Yes,No,2,High,16,On-Campus
+S1320,2,2,1,12,4,3,0,0,3,5,4,1,2,0,2,2,1,4,0,2,0,,16,10.5,4.0,3.4,12,5,Neutral,,21,Medical,Male,3.48,3,3,2,Average,Moderate,Average,Low,Single,Never,Never,No,No,1,Moderate,24,Off-Campus
+S1321,6,28,0,1,1,2,5,1,2,4,5,5,4,2,4,1,3,2,2,1,0,,23,11.7,6.8,0.6,54,4,Stressed,,21,Engineering,Female,3.4,3,1,5,Average,Moderate,Poor,Moderate,Single,Never,Never,No,No,1,Low,15,Off-Campus
+S1322,19,11,1,26,3,3,1,5,4,1,2,2,2,5,1,4,1,5,5,5,2,,25,10.2,4.1,1.7,17,10,Neutral,,19,Medical,Male,3.41,0,2,2,Good,Low,Good,Low,In a Relationship,Never,Never,No,No,1,Low,21,On-Campus
+S1323,20,6,1,15,5,3,1,3,5,1,1,2,1,4,2,5,1,5,5,4,2,,25,8.1,6.6,3.2,32,5,Happy,,26,Computer Science,Female,4.0,3,5,0,Average,Moderate,Poor,High,In a Relationship,Never,Never,No,No,3,Moderate,15,Off-Campus
+S1324,1,16,1,26,3,3,3,1,2,3,0,0,4,2,2,4,1,2,0,0,1,,17,8.4,5.4,2.1,61,1,Happy,,25,Law,Female,3.55,5,0,4,Good,Moderate,Average,High,In a Relationship,Never,Never,Yes,No,0,Moderate,20,On-Campus
+S1325,10,20,1,13,3,1,2,4,3,3,2,3,3,2,2,2,2,3,3,3,1,,17,2.3,8.9,2.5,29,8,Happy,,24,Medical,Female,3.03,4,0,2,Good,Low,Poor,Moderate,Single,Never,Frequently,No,No,2,Low,28,Off-Campus
+S1326,3,30,0,6,1,2,4,1,1,4,5,4,4,2,5,1,3,2,2,1,0,,24,11.3,4.1,2.3,10,1,Happy,,23,Computer Science,Male,3.54,1,5,2,Good,Moderate,Good,Moderate,In a Relationship,Never,Occasionally,No,No,3,High,19,Off-Campus
+S1327,3,28,0,0,1,2,4,1,2,4,5,5,5,1,4,1,3,1,1,1,0,,19,10.3,8.1,2.9,36,2,Stressed,,26,Medical,Male,3.45,5,2,0,Average,Low,Poor,Moderate,In a Relationship,Never,Frequently,Yes,Yes,5,High,29,Off-Campus
+S1328,21,15,1,26,3,3,1,5,3,1,2,1,2,5,1,5,1,5,5,5,2,,24,4.7,7.4,3.7,76,7,Stressed,,25,Others,Female,3.52,1,4,3,Good,High,Poor,High,Single,Never,Never,No,No,0,Low,15,Off-Campus
+S1329,12,19,1,9,3,1,2,4,3,2,2,2,2,2,3,2,2,2,2,2,1,,20,3.8,8.0,0.2,69,5,Neutral,,24,Law,Male,3.94,5,2,3,Good,Moderate,Good,High,Married,Never,Occasionally,Yes,No,1,Moderate,27,On-Campus
+S1330,11,16,0,9,2,1,3,2,3,2,2,3,2,3,2,2,2,2,2,3,1,,18,9.0,8.5,1.7,52,6,Neutral,,20,Medical,Female,3.42,5,0,2,Average,High,Poor,Low,Single,Never,Never,Yes,No,1,Moderate,19,On-Campus
+S1331,3,29,0,8,1,2,4,2,1,4,5,4,4,1,4,1,3,2,2,1,0,,21,5.1,4.5,0.9,32,2,Happy,,29,Business,Female,3.29,3,1,4,Good,Low,Average,Moderate,In a Relationship,Never,Occasionally,No,No,1,Moderate,23,Off-Campus
+S1332,2,25,0,3,1,2,5,2,1,4,5,4,4,2,5,1,3,2,2,1,0,,17,5.4,4.5,3.7,24,1,Neutral,,19,Computer Science,Male,3.27,1,4,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,4,Moderate,29,On-Campus
+S1333,2,28,0,7,1,2,5,2,2,4,5,4,5,2,4,1,3,2,2,1,0,,19,2.1,4.7,4.2,0,5,Happy,,25,Medical,Female,3.25,5,2,2,Average,High,Average,High,In a Relationship,Never,Never,Yes,No,0,Moderate,18,On-Campus
+S1334,12,17,0,14,3,1,2,2,3,2,3,2,3,3,2,3,2,2,2,2,1,,21,10.7,5.0,0.2,90,7,Stressed,,26,Others,Male,3.68,1,3,1,Good,High,Good,High,Single,Never,Occasionally,No,No,2,Moderate,16,On-Campus
+S1335,2,26,0,4,1,2,4,1,1,3,4,4,4,2,4,1,3,2,1,1,0,,20,7.7,6.6,5.3,0,4,Stressed,,21,Computer Science,Female,3.54,5,4,5,Good,High,Average,High,Single,Occasionally,Never,No,No,0,Low,25,With Family
+S1336,12,15,1,12,2,1,3,2,2,2,2,3,2,2,2,2,3,3,3,2,1,,18,6.0,8.1,2.0,73,7,Happy,,20,Medical,Female,3.6,2,2,0,Good,Low,Average,Moderate,In a Relationship,Occasionally,Never,Yes,No,4,Moderate,22,On-Campus
+S1337,3,0,1,20,3,3,2,0,0,3,2,2,5,5,4,2,1,2,2,1,0,,23,3.4,5.3,1.4,66,9,Happy,,21,Others,Female,3.42,5,1,2,Good,Low,Average,Moderate,Single,Never,Frequently,Yes,No,0,High,23,On-Campus
+S1338,8,30,0,4,1,2,4,2,2,4,4,4,5,1,5,1,3,2,1,1,0,,24,8.3,6.0,4.5,15,2,Stressed,,21,Law,Female,3.44,2,3,3,Good,Moderate,Average,High,Single,Never,Never,No,No,3,Moderate,22,With Family
+S1339,17,7,0,14,0,3,2,1,3,5,1,3,5,5,1,4,0,5,4,0,1,,20,2.3,5.9,5.5,66,6,Neutral,,18,Computer Science,Female,3.37,1,5,2,Good,Moderate,Poor,Moderate,Married,Frequently,Never,No,No,5,Low,29,With Family
+S1340,21,3,1,18,4,3,1,4,4,2,1,1,2,5,1,4,1,5,4,5,2,,25,9.5,6.0,5.4,0,8,Neutral,,23,Engineering,Male,3.69,1,3,5,Average,Moderate,Average,Low,In a Relationship,Never,Frequently,No,No,3,Moderate,19,With Family
+S1341,10,19,1,10,2,1,2,4,2,2,3,3,3,2,3,3,3,3,3,2,1,,24,4.2,6.8,0.1,48,10,Happy,,18,Engineering,Male,4.0,3,0,3,Poor,Low,Average,Low,Single,Never,Never,No,No,1,High,17,Off-Campus
+S1342,18,2,1,15,4,3,1,3,3,1,1,2,2,4,2,5,1,4,4,4,2,,16,6.2,9.0,4.9,83,9,Stressed,,26,Engineering,Female,3.08,4,2,3,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,0,Moderate,27,On-Campus
+S1343,21,4,1,26,3,3,1,3,3,2,2,2,2,5,1,5,1,5,4,4,2,,24,5.4,5.1,1.8,26,2,Neutral,,20,Computer Science,Female,3.13,0,4,3,Good,Moderate,Poor,Moderate,Married,Frequently,Occasionally,Yes,No,5,Low,25,On-Campus
+S1344,21,15,1,19,5,3,1,3,5,1,1,2,1,3,2,4,1,5,5,4,2,,20,5.7,7.4,1.7,88,3,Neutral,,24,Business,Female,3.72,3,4,1,Good,Low,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,1,Moderate,20,Off-Campus
+S1345,21,8,1,17,4,3,1,5,5,1,2,1,2,5,1,5,1,4,5,4,2,,17,9.2,8.2,2.9,40,4,Stressed,,31,Medical,Male,3.49,4,4,0,Average,Low,Average,High,In a Relationship,Never,Never,No,No,0,High,25,On-Campus
+S1346,15,8,1,22,4,3,1,5,5,2,2,2,1,3,1,4,1,5,4,4,2,,18,9.8,7.3,4.2,52,9,Happy,,27,Law,Female,3.82,0,3,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,2,Moderate,19,Off-Campus
+S1347,21,0,1,23,3,3,1,3,3,2,2,1,1,4,1,4,1,5,5,4,2,,20,7.7,8.3,0.6,46,8,Stressed,,26,Engineering,Female,3.58,0,2,0,Average,Low,Average,Moderate,Single,Never,Never,No,No,2,Moderate,29,On-Campus
+S1348,15,7,1,25,3,3,1,5,5,2,1,2,1,5,1,5,1,4,5,5,2,,17,2.8,7.8,5.2,13,9,Stressed,,20,Business,Female,3.22,3,3,4,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,24,On-Campus
+S1349,18,15,1,19,4,3,1,5,3,1,2,1,2,4,2,5,1,5,5,4,2,,17,2.5,4.5,0.8,19,1,Neutral,,25,Law,Male,3.14,2,0,4,Good,Moderate,Average,High,Single,Occasionally,Occasionally,Yes,No,4,High,19,Off-Campus
+S1350,14,23,0,12,2,1,3,4,3,2,3,2,2,2,2,2,3,2,2,2,1,,24,3.6,5.9,5.8,54,1,Neutral,,24,Medical,Male,3.32,4,0,0,Average,Low,Average,Moderate,In a Relationship,Never,Never,No,No,1,Low,23,On-Campus
+S1351,11,16,1,14,2,1,3,2,3,3,3,2,3,3,3,3,3,2,2,3,1,,18,8.2,6.8,2.7,83,4,Neutral,,23,Medical,Female,3.47,1,3,3,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,3,Moderate,18,Off-Campus
+S1352,11,15,0,10,2,1,3,2,2,3,3,2,2,2,2,2,3,3,3,3,1,,20,8.7,4.3,5.0,74,9,Neutral,,20,Business,Female,3.55,3,0,3,Good,Moderate,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,0,Moderate,19,On-Campus
+S1353,19,1,1,18,4,3,1,5,4,2,2,1,2,5,1,5,1,5,4,5,2,,20,4.7,4.0,1.6,32,5,Stressed,,34,Engineering,Male,3.63,3,3,0,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Moderate,25,Off-Campus
+S1354,19,14,1,20,4,3,1,5,3,1,2,2,2,4,1,4,1,5,4,5,2,,25,8.6,4.9,2.5,33,6,Happy,,22,Engineering,Female,3.43,2,1,1,Average,Low,Average,Moderate,Married,Never,Never,No,No,4,High,27,Off-Campus
+S1355,19,14,1,23,4,3,1,4,4,2,1,1,1,5,2,4,1,5,4,5,2,,19,6.9,6.5,3.9,68,8,Stressed,,28,Law,Male,3.29,1,2,4,Average,High,Poor,High,In a Relationship,Never,Frequently,No,No,2,Low,27,On-Campus
+S1356,7,26,0,6,1,2,5,2,2,3,5,4,4,1,4,1,3,1,1,1,0,,21,6.4,6.2,1.1,54,7,Happy,,21,Medical,Male,3.64,3,0,3,Average,Low,Average,Moderate,In a Relationship,Never,Frequently,No,No,5,Low,17,Off-Campus
+S1357,10,17,1,10,3,1,2,4,3,3,2,3,3,2,2,3,3,3,2,2,1,,19,4.7,7.9,1.3,72,3,Happy,,25,Law,Female,3.74,0,3,4,Average,High,Average,High,In a Relationship,Never,Never,Yes,No,5,Moderate,27,With Family
+S1358,6,29,0,2,1,2,4,1,1,3,4,5,5,2,4,1,3,1,1,1,0,,20,9.5,6.8,4.9,46,1,Neutral,,22,Engineering,Female,3.69,1,2,2,Average,High,Average,High,Single,Never,Occasionally,No,No,2,Moderate,24,With Family
+S1359,6,29,0,3,1,2,4,2,1,4,5,4,4,1,4,1,3,2,2,1,0,,24,3.1,8.3,4.4,78,6,Stressed,,24,Computer Science,Male,3.73,0,3,3,Good,Moderate,Poor,Low,Married,Never,Frequently,Yes,No,5,Moderate,21,Off-Campus
+S1360,17,29,1,17,5,3,5,2,4,0,0,3,5,0,2,5,0,0,0,3,0,,23,6.3,4.5,4.6,35,6,Neutral,,28,Medical,Male,3.5,3,3,0,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,Never,No,No,4,High,24,On-Campus
+S1361,12,19,0,12,3,1,3,4,3,2,2,3,2,2,2,2,3,3,2,2,1,,20,4.8,6.6,5.2,87,6,Happy,,18,Engineering,Female,3.03,4,5,2,Average,Moderate,Good,Low,Single,Never,Occasionally,No,Yes,2,Low,24,Off-Campus
+S1362,9,15,0,11,3,1,2,2,2,3,2,2,2,2,3,2,2,3,3,3,1,,16,8.8,4.2,4.9,50,5,Stressed,,21,Engineering,Male,3.23,5,0,4,Average,Moderate,Poor,Moderate,In a Relationship,Never,Never,No,No,3,Moderate,29,On-Campus
+S1363,8,28,0,0,1,2,5,1,1,3,5,4,5,1,4,1,3,1,1,1,0,,17,6.9,5.1,3.1,26,4,Stressed,,22,Engineering,Male,3.65,0,3,4,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,5,Low,27,Off-Campus
+S1364,13,15,1,9,2,1,3,4,3,2,2,2,2,2,3,3,2,2,2,2,1,,22,8.7,8.3,1.0,52,9,Neutral,,22,Computer Science,Female,3.82,0,3,1,Good,High,Average,Low,Single,Never,Frequently,No,No,0,Low,23,On-Campus
+S1365,2,25,0,4,1,2,4,1,1,3,4,5,5,1,5,1,3,2,2,1,0,,20,2.5,8.4,1.9,70,5,Neutral,,28,Medical,Female,3.69,2,2,5,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,0,High,22,Off-Campus
+S1366,17,29,1,18,3,3,0,4,2,1,1,2,5,1,3,0,0,3,1,4,0,,16,6.0,6.4,3.0,71,1,Stressed,,24,Law,Male,3.97,2,2,3,Good,Moderate,Poor,Moderate,Single,Never,Never,No,No,4,Moderate,17,On-Campus
+S1367,8,29,0,4,1,2,4,1,2,4,5,4,5,2,5,1,3,2,1,1,0,,16,8.0,4.2,0.8,61,5,Neutral,,24,Business,Female,3.22,0,1,0,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,2,Moderate,18,On-Campus
+S1368,5,30,0,1,1,2,4,1,1,4,5,5,5,2,5,1,3,1,1,1,0,,21,2.1,4.4,5.1,22,7,Neutral,,29,Medical,Female,3.93,2,1,2,Good,Moderate,Good,Moderate,Single,Never,Never,Yes,No,3,Low,26,On-Campus
+S1369,2,30,0,8,1,2,4,1,2,3,4,4,4,1,5,1,3,2,2,1,0,,18,5.0,8.6,5.3,47,1,Happy,,18,Medical,Female,2.77,4,0,5,Average,Moderate,Good,High,Married,Never,Never,No,Yes,0,Moderate,23,Off-Campus
+S1370,2,27,0,8,1,2,5,2,1,3,4,5,4,1,5,1,3,2,2,1,0,,20,4.1,8.5,0.2,71,9,Stressed,,19,Medical,Male,3.24,4,4,5,Good,Moderate,Average,Low,Single,Never,Occasionally,No,No,2,Moderate,23,On-Campus
+S1371,21,4,1,15,5,3,1,3,4,2,2,2,1,4,1,5,1,4,4,5,2,,18,3.4,6.8,1.2,71,5,Stressed,,28,Law,Female,3.33,1,2,4,Poor,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Low,18,On-Campus
+S1372,2,9,1,26,4,3,4,1,2,2,5,3,4,5,0,4,1,4,3,0,2,,23,4.6,4.2,5.0,61,4,Happy,,20,Computer Science,Female,3.63,2,0,1,Good,Moderate,Average,High,Single,Never,Occasionally,Yes,No,4,Low,21,On-Campus
+S1373,13,19,1,13,3,1,2,2,2,3,2,2,3,3,3,2,3,2,3,3,1,,24,5.3,8.6,5.0,32,3,Neutral,,25,Medical,Female,3.6,1,5,1,Good,High,Good,Moderate,In a Relationship,Never,Occasionally,No,No,0,Low,27,On-Campus
+S1374,20,3,1,20,4,3,1,4,3,1,2,1,2,4,1,4,1,4,5,4,2,,22,2.1,5.6,1.5,39,6,Stressed,,26,Law,Male,3.3,1,3,5,Good,Moderate,Poor,Moderate,Single,Never,Never,No,No,1,Low,18,Off-Campus
+S1375,17,0,1,27,5,3,1,5,3,1,2,1,2,4,1,5,1,5,4,5,2,,24,9.5,8.8,2.7,73,7,Neutral,,27,Engineering,Male,3.54,2,2,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,3,High,18,Off-Campus
+S1376,14,20,1,10,2,1,3,4,3,2,2,3,3,3,2,3,3,3,2,3,1,,16,3.8,6.9,5.5,44,3,Happy,,31,Medical,Male,3.68,4,4,4,Average,Low,Poor,Low,In a Relationship,Never,Never,No,No,3,Moderate,19,On-Campus
+S1377,4,28,0,4,1,2,5,2,1,3,5,5,5,2,4,1,3,2,2,1,0,,17,5.8,7.8,4.2,90,2,Neutral,,21,Business,Male,3.73,3,3,2,Good,Moderate,Average,High,Married,Never,Never,No,No,2,Moderate,27,On-Campus
+S1378,17,13,1,17,5,3,1,3,5,2,1,1,2,5,2,5,1,5,4,4,2,,17,9.0,7.6,1.6,50,7,Neutral,,24,Others,Female,3.59,1,2,2,Average,Moderate,Good,Moderate,Single,Never,Never,Yes,No,1,Moderate,23,On-Campus
+S1379,2,23,0,4,3,3,4,1,5,3,2,3,2,2,3,2,0,1,4,4,1,,18,7.0,6.0,4.9,17,9,Stressed,,23,Others,Male,3.7,1,4,3,Average,High,Average,High,Married,Never,Never,Yes,No,5,Moderate,27,Off-Campus
+S1380,9,20,0,9,3,1,3,4,2,2,3,3,3,3,2,2,2,2,2,3,1,,24,10.3,4.4,3.0,84,10,Happy,,29,Engineering,Female,3.49,4,0,4,Good,High,Average,High,Married,Never,Never,No,No,1,Moderate,19,Off-Campus
+S1381,5,25,0,7,1,2,5,2,2,3,4,5,4,1,5,1,3,2,1,1,0,,16,10.1,4.8,3.8,15,4,Happy,,25,Others,Female,3.82,2,0,3,Good,Moderate,Average,Moderate,Single,Frequently,Occasionally,No,No,3,Moderate,29,Off-Campus
+S1382,18,1,1,26,5,3,1,5,5,1,1,2,1,3,1,5,1,5,4,5,2,,21,2.7,5.2,0.7,29,7,Stressed,,20,Medical,Male,3.19,2,0,2,Good,Moderate,Average,High,Single,Never,Never,Yes,No,5,Moderate,28,On-Campus
+S1383,10,18,1,9,3,1,2,4,3,3,3,3,2,2,2,3,3,2,3,3,1,,25,10.6,8.2,0.2,57,4,Happy,,25,Law,Female,3.99,0,3,5,Average,High,Average,Low,In a Relationship,Occasionally,Occasionally,No,No,0,Moderate,21,With Family
+S1384,21,27,0,14,5,3,0,3,1,5,0,2,0,0,3,1,0,4,4,0,0,,24,2.4,5.9,2.2,89,10,Neutral,,18,Business,Male,3.79,5,3,0,Good,Moderate,Average,Moderate,Married,Occasionally,Never,Yes,No,3,Moderate,26,With Family
+S1385,19,7,1,19,5,3,1,4,3,2,1,2,1,4,1,4,1,5,5,4,2,,18,2.2,8.5,3.6,20,3,Stressed,,23,Computer Science,Female,3.31,2,3,3,Good,Moderate,Average,High,Single,Never,Occasionally,Yes,No,5,Low,22,Off-Campus
+S1386,14,21,1,13,3,1,2,2,2,2,2,3,2,2,2,3,3,3,3,3,1,,22,11.2,5.7,1.1,12,7,Happy,,26,Medical,Female,3.73,3,1,3,Good,Moderate,Poor,Moderate,Single,Never,Frequently,No,No,3,Moderate,16,With Family
+S1387,10,23,0,13,2,1,3,4,3,2,2,2,3,2,3,2,3,2,3,2,1,,18,10.6,7.8,5.2,27,5,Neutral,,19,Medical,Female,3.23,4,3,2,Average,Low,Good,Moderate,In a Relationship,Never,Never,Yes,No,3,Moderate,20,On-Campus
+S1388,16,11,1,18,3,3,1,5,4,2,1,2,1,5,1,5,1,5,5,4,2,,16,7.8,4.7,3.5,65,10,Stressed,,24,Law,Female,3.45,5,1,5,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,21,With Family
+S1389,0,25,0,5,1,2,5,1,1,4,4,5,5,1,5,1,3,1,2,1,0,,20,7.7,8.9,2.1,51,6,Neutral,,25,Computer Science,Female,3.37,2,3,2,Good,Low,Average,Moderate,Single,Never,Occasionally,No,No,3,High,26,Off-Campus
+S1390,14,23,1,14,2,1,2,4,3,3,3,2,2,2,2,2,3,3,3,2,1,,21,9.1,7.6,1.0,43,8,Happy,,26,Computer Science,Female,2.87,3,3,3,Good,Moderate,Poor,Low,Single,Never,Never,No,No,0,Moderate,27,On-Campus
+S1391,21,0,1,25,3,3,1,4,5,1,2,1,1,3,1,4,1,5,4,4,2,,16,6.2,6.5,5.4,70,9,Stressed,,18,Business,Male,3.68,5,3,2,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,1,Moderate,21,With Family
+S1392,12,16,0,13,2,1,3,4,3,3,2,2,2,2,2,2,3,3,2,3,1,,21,3.2,8.9,4.5,78,3,Stressed,,21,Law,Female,3.46,5,0,5,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,0,Moderate,17,Off-Campus
+S1393,6,26,0,21,3,3,1,1,4,5,0,4,5,3,3,3,1,3,5,5,2,,19,2.2,4.3,4.1,89,4,Neutral,,19,Others,Male,3.47,3,0,2,Good,Moderate,Average,Moderate,Single,Never,Frequently,No,No,1,Low,15,With Family
+S1394,18,1,1,16,3,3,1,5,3,2,2,1,1,5,1,5,1,4,4,4,2,,19,5.2,6.2,1.7,87,3,Neutral,,20,Others,Male,3.45,0,5,1,Good,High,Average,Moderate,Married,Never,Never,No,No,5,Low,17,Off-Campus
+S1395,5,25,0,6,1,2,5,1,1,3,5,4,4,1,4,1,3,1,1,1,0,,17,10.0,8.2,2.3,90,10,Happy,,21,Medical,Male,3.44,2,0,0,Average,Moderate,Good,Moderate,Single,Never,Occasionally,No,No,3,Moderate,16,On-Campus
+S1396,10,11,0,12,3,3,5,1,4,2,1,2,0,1,4,1,1,1,5,1,2,,21,8.2,5.7,1.0,6,9,Stressed,,26,Engineering,Female,3.11,4,4,1,Average,High,Good,Low,In a Relationship,Never,Never,No,No,1,Moderate,16,Off-Campus
+S1397,0,26,0,8,1,2,4,2,2,4,4,4,4,1,5,1,3,1,1,1,0,,24,10.3,7.8,3.4,20,4,Neutral,,25,Medical,Male,3.23,2,2,0,Good,Low,Average,Moderate,Married,Never,Never,No,No,1,Low,27,On-Campus
+S1398,19,8,1,21,5,3,1,5,5,2,1,2,2,5,2,5,1,4,5,5,2,,22,11.2,8.8,5.8,49,3,Stressed,,27,Law,Male,3.9,1,4,3,Good,Moderate,Good,Low,Single,Never,Occasionally,No,No,0,High,24,Off-Campus
+S1399,15,8,1,17,4,3,1,3,3,1,2,1,2,4,2,4,1,5,4,5,2,,25,2.9,6.0,5.1,81,5,Happy,,21,Others,Male,2.87,1,3,0,Good,High,Average,High,Single,Never,Frequently,No,No,1,Moderate,15,On-Campus
+S1400,21,11,1,20,3,3,1,4,5,1,2,1,1,3,2,5,1,5,5,4,2,,18,10.4,7.9,3.9,0,9,Happy,,24,Medical,Female,3.63,4,0,0,Poor,High,Average,Moderate,Single,Never,Occasionally,Yes,No,1,High,27,On-Campus
+S1401,19,1,1,26,4,3,1,4,5,1,2,1,1,4,1,5,1,4,5,4,2,,19,4.4,4.1,4.1,11,3,Happy,,20,Computer Science,Male,3.49,2,4,0,Average,Moderate,Poor,Moderate,In a Relationship,Never,Frequently,Yes,No,3,Moderate,21,Off-Campus
+S1402,7,30,0,7,1,2,4,1,2,4,4,4,4,2,5,1,3,2,2,1,0,,18,7.9,5.4,1.6,18,7,Happy,,25,Law,Male,3.7,2,3,0,Average,High,Poor,Moderate,Single,Never,Occasionally,Yes,No,2,High,29,With Family
+S1403,16,9,1,26,5,3,1,4,3,1,1,2,1,4,1,4,1,5,4,5,2,,18,7.2,9.0,2.5,60,3,Happy,,23,Law,Male,2.91,1,0,3,Poor,Low,Good,Moderate,Single,Never,Occasionally,No,No,0,High,22,Off-Campus
+S1404,12,7,1,17,0,3,0,3,2,3,3,3,3,4,4,1,0,3,1,0,1,,22,6.0,6.5,0.1,76,10,Stressed,,30,Business,Male,3.79,3,5,2,Average,Low,Good,Moderate,Single,Never,Never,No,No,1,Moderate,20,Off-Campus
+S1405,16,7,1,5,3,3,5,2,5,0,2,0,4,1,1,1,1,2,4,0,0,,16,5.1,5.8,4.7,55,3,Stressed,,23,Law,Female,3.23,1,3,4,Good,High,Good,Moderate,Single,Never,Occasionally,Yes,No,0,High,27,On-Campus
+S1406,17,11,1,26,5,3,1,3,5,1,2,1,2,4,1,4,1,5,5,5,2,,18,5.4,8.7,4.6,11,6,Happy,,33,Business,Male,3.12,3,4,1,Average,Moderate,Good,Moderate,Single,Never,Never,Yes,Yes,2,Moderate,23,On-Campus
+S1407,3,25,0,6,1,2,5,2,1,3,4,5,4,2,4,1,3,2,2,1,0,,21,5.3,6.2,0.1,8,2,Neutral,,33,Law,Male,3.49,0,2,3,Average,Low,Average,High,In a Relationship,Never,Occasionally,No,No,1,Moderate,28,On-Campus
+S1408,12,3,1,0,0,3,1,3,1,1,1,5,5,2,2,1,1,0,5,3,0,,22,3.7,7.4,5.5,33,9,Neutral,,25,Others,Female,3.93,3,0,0,Average,Low,Good,Low,Single,Never,Never,No,No,4,High,21,With Family
+S1409,14,18,0,14,2,1,3,4,2,3,2,3,2,3,2,2,3,3,2,3,1,,19,7.1,7.3,3.9,28,9,Happy,,18,Engineering,Female,3.69,3,2,1,Good,Low,Average,Moderate,In a Relationship,Never,Frequently,No,No,3,Moderate,26,On-Campus
+S1410,13,20,0,12,3,1,2,2,2,2,2,3,2,3,2,2,2,3,2,3,1,,20,3.1,4.4,3.6,47,2,Stressed,,23,Medical,Female,2.64,4,0,0,Good,Moderate,Average,Moderate,Married,Never,Occasionally,No,No,2,Low,15,On-Campus
+S1411,2,11,1,15,2,3,4,5,0,4,5,3,4,0,3,4,1,1,1,4,2,,18,7.1,7.1,0.1,10,3,Stressed,,22,Business,Male,3.34,2,3,2,Average,Low,Poor,High,In a Relationship,Never,Never,No,No,5,Moderate,24,With Family
+S1412,13,19,1,12,2,1,2,4,3,3,3,2,2,2,3,2,3,3,2,3,1,,17,11.1,8.0,1.5,77,6,Neutral,,19,Others,Male,3.26,4,0,4,Average,Moderate,Poor,High,Married,Never,Occasionally,No,No,3,High,24,Off-Campus
+S1413,11,15,1,9,2,1,2,4,3,3,3,2,3,3,3,2,3,3,2,2,1,,22,5.5,7.6,4.8,4,3,Neutral,,28,Law,Female,3.41,3,1,0,Average,Moderate,Average,High,Married,Never,Frequently,Yes,No,2,Moderate,19,On-Campus
+S1414,10,25,1,9,2,1,2,2,2,2,2,2,3,2,2,3,3,3,2,3,1,,16,9.3,4.4,1.8,49,1,Stressed,,29,Medical,Female,3.57,1,2,4,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,1,High,16,Off-Campus
+S1415,20,11,1,22,3,3,1,4,4,2,2,2,2,3,1,5,1,5,4,5,2,,23,10.2,4.8,5.8,51,6,Neutral,,18,Law,Male,3.52,3,1,5,Good,Moderate,Average,Low,Single,Never,Never,No,Yes,2,Moderate,16,Off-Campus
+S1416,3,0,1,4,1,3,1,5,4,3,1,3,1,1,2,1,1,0,4,4,2,,19,10.2,7.6,3.9,78,7,Happy,,22,Medical,Female,3.33,4,3,0,Good,High,Poor,Moderate,Single,Never,Occasionally,No,No,1,High,20,Off-Campus
+S1417,15,0,1,19,4,3,1,3,4,2,1,2,2,4,1,5,1,5,5,4,2,,19,4.4,7.2,2.5,83,7,Happy,,19,Business,Male,3.93,2,0,1,Average,Moderate,Good,High,Married,Never,Never,No,Yes,4,Moderate,20,On-Campus
+S1418,0,30,0,1,1,2,5,2,2,3,5,5,5,1,5,1,3,2,2,1,0,,23,3.5,7.7,2.3,66,5,Neutral,,22,Others,Male,4.0,0,1,4,Good,Low,Average,Moderate,In a Relationship,Never,Never,No,No,3,Low,15,Off-Campus
+S1419,4,26,0,6,1,2,4,2,1,4,4,4,5,2,4,1,3,1,1,1,0,,21,4.0,5.6,2.1,36,8,Happy,,22,Business,Female,3.52,5,0,2,Good,High,Good,Moderate,Single,Never,Frequently,No,No,0,Low,26,With Family
+S1420,1,28,0,14,3,3,2,1,2,3,4,5,2,4,4,0,1,2,5,2,2,,20,8.0,4.5,1.5,76,5,Neutral,,35,Medical,Male,2.97,1,0,1,Good,Low,Poor,Moderate,Single,Frequently,Frequently,No,No,1,High,23,With Family
+S1421,1,27,0,5,1,2,4,2,2,3,5,5,5,2,4,1,3,2,2,1,0,,19,9.6,4.0,2.8,7,3,Stressed,,20,Law,Male,4.0,4,2,3,Average,High,Average,Moderate,Married,Never,Occasionally,Yes,No,2,Low,20,With Family
+S1422,18,7,0,20,0,3,4,0,1,3,0,4,1,0,2,3,0,1,2,5,1,,19,8.6,5.5,4.1,22,4,Happy,,27,Others,Male,3.3,1,5,0,Good,Moderate,Average,Low,In a Relationship,Never,Never,Yes,No,0,Moderate,15,Off-Campus
+S1423,16,1,1,16,3,3,1,3,5,1,1,1,1,5,1,4,1,4,5,5,2,,16,3.8,5.8,4.9,81,2,Neutral,,22,Business,Male,3.17,2,2,3,Good,Low,Average,Moderate,Single,Never,Occasionally,No,No,0,Moderate,28,With Family
+S1424,11,21,0,9,3,1,3,4,3,2,2,3,2,3,2,2,2,2,2,3,1,,19,9.7,5.3,2.4,63,3,Happy,,18,Medical,Female,4.0,3,0,0,Good,Moderate,Average,High,Married,Never,Occasionally,No,No,4,Moderate,17,Off-Campus
+S1425,7,26,0,8,1,2,4,1,1,3,4,5,5,2,5,1,3,2,2,1,0,,22,6.9,4.7,0.6,56,3,Happy,,19,Engineering,Female,3.28,1,3,4,Average,High,Good,Moderate,Single,Never,Never,No,No,2,Low,17,On-Campus
+S1426,18,14,1,20,4,3,1,3,4,2,2,1,2,3,2,4,1,4,5,5,2,,21,9.5,4.9,3.1,1,1,Stressed,,27,Computer Science,Male,3.11,2,5,0,Average,High,Poor,High,Single,Never,Never,No,No,5,Low,19,Off-Campus
+S1427,9,20,0,10,2,1,2,4,2,2,2,2,3,2,2,3,3,2,2,3,1,,20,9.6,6.2,4.0,25,10,Stressed,,18,Medical,Male,3.5,3,3,5,Average,Moderate,Average,High,Single,Never,Never,Yes,No,3,Moderate,26,With Family
+S1428,1,28,0,8,1,2,5,2,2,3,4,5,4,1,5,1,3,1,1,1,0,,17,6.5,6.8,5.1,84,10,Stressed,,19,Engineering,Female,2.84,4,0,0,Good,Moderate,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,4,Moderate,29,Off-Campus
+S1429,16,11,1,18,4,3,1,5,5,1,1,1,2,4,2,5,1,5,4,4,2,,20,11.2,6.0,2.2,66,5,Neutral,,18,Medical,Male,2.98,2,2,0,Good,High,Average,Low,Single,Never,Never,No,No,2,High,20,On-Campus
+S1430,8,4,1,27,5,3,2,4,4,4,2,2,5,1,3,0,0,1,0,1,2,,21,7.6,4.1,3.9,36,10,Stressed,,20,Law,Female,4.0,1,1,3,Average,Moderate,Average,Moderate,Married,Never,Never,No,No,0,Moderate,17,Off-Campus
+S1431,9,22,0,12,3,1,3,2,2,2,3,3,3,3,2,2,2,3,3,2,1,,24,8.4,5.8,3.7,24,10,Stressed,,22,Medical,Male,3.79,3,4,0,Good,Low,Average,Moderate,Single,Never,Frequently,No,No,1,Moderate,29,On-Campus
+S1432,8,29,0,3,1,2,4,1,2,3,5,4,4,2,5,1,3,1,2,1,0,,22,8.2,4.5,1.8,4,10,Happy,,24,Engineering,Male,3.84,1,3,2,Good,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,No,1,High,27,On-Campus
+S1433,3,27,0,8,1,2,5,2,2,3,5,4,4,1,4,1,3,1,2,1,0,,24,10.6,7.0,0.6,76,4,Stressed,,25,Others,Male,3.59,3,2,0,Good,Moderate,Average,High,In a Relationship,Frequently,Occasionally,No,No,0,Moderate,17,Off-Campus
+S1434,3,29,0,5,1,2,5,1,1,3,5,5,5,2,5,1,3,2,1,1,0,,21,8.3,5.6,0.4,65,10,Stressed,,19,Engineering,Male,3.24,1,3,1,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,1,Moderate,26,Off-Campus
+S1435,12,16,1,12,2,1,2,4,3,2,2,2,2,2,3,3,3,3,2,3,1,,16,3.5,5.9,5.9,66,4,Happy,,26,Medical,Female,3.77,3,2,0,Average,Moderate,Poor,High,In a Relationship,Never,Occasionally,No,No,5,Moderate,29,Off-Campus
+S1436,3,28,0,2,1,2,4,1,1,3,4,5,4,1,4,1,3,1,2,1,0,,17,2.7,5.5,3.8,89,4,Happy,,21,Business,Female,3.3,2,5,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,2,Moderate,16,Off-Campus
+S1437,21,3,0,19,0,3,3,0,3,0,1,5,5,4,2,3,0,2,2,0,1,,20,6.4,5.9,5.2,29,1,Happy,,23,Medical,Male,4.0,2,1,3,Good,Moderate,Average,Low,In a Relationship,Never,Occasionally,Yes,No,1,Moderate,27,Off-Campus
+S1438,4,21,1,5,0,3,1,0,3,2,1,0,4,1,1,0,0,1,4,5,1,,18,5.0,4.4,1.6,78,6,Stressed,,23,Engineering,Male,3.65,3,2,0,Good,Moderate,Good,High,Married,Never,Occasionally,No,No,4,Moderate,17,On-Campus
+S1439,7,26,0,6,1,2,4,1,1,3,5,5,5,1,4,1,3,1,2,1,0,,25,4.7,8.5,4.3,21,2,Happy,,22,Computer Science,Female,3.55,1,5,1,Poor,Moderate,Good,Moderate,In a Relationship,Never,Never,Yes,No,3,Moderate,15,On-Campus
+S1440,7,25,0,2,1,2,5,2,1,3,4,5,5,2,5,1,3,2,2,1,0,,20,2.6,8.5,5.4,86,8,Neutral,,19,Others,Male,3.59,2,0,1,Good,High,Average,High,Single,Occasionally,Never,No,No,5,High,24,Off-Campus
+S1441,3,4,0,7,0,3,5,1,1,3,3,5,3,1,2,4,0,2,1,2,1,,16,7.1,8.9,1.8,4,3,Stressed,,18,Business,Female,3.47,3,1,1,Average,Low,Average,Moderate,Single,Never,Occasionally,No,No,4,Moderate,24,Off-Campus
+S1442,3,28,0,2,1,2,4,1,1,4,4,5,4,1,5,1,3,1,2,1,0,,17,5.1,6.9,0.9,46,9,Happy,,21,Medical,Female,3.67,3,2,2,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,3,High,19,Off-Campus
+S1443,15,13,1,18,3,3,1,4,3,1,1,1,2,3,1,4,1,5,4,4,2,,25,6.5,4.8,4.6,30,10,Neutral,,22,Medical,Female,3.08,0,2,0,Average,Low,Poor,Low,Married,Never,Never,No,No,3,Moderate,28,With Family
+S1444,11,15,0,12,2,1,3,4,3,2,2,3,3,2,3,3,2,3,2,2,1,,22,2.6,5.9,5.4,83,8,Stressed,,21,Others,Male,3.39,2,0,5,Good,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,No,3,Low,15,Off-Campus
+S1445,21,11,1,18,3,3,1,3,4,2,2,1,2,3,2,4,1,5,5,5,2,,21,10.3,4.7,4.8,0,6,Happy,,18,Others,Female,3.5,0,0,5,Poor,Moderate,Average,Moderate,Single,Occasionally,Never,No,No,1,High,23,On-Campus
+S1446,16,15,1,23,3,3,1,4,3,2,2,2,1,3,2,4,1,4,4,4,2,,21,2.8,5.5,4.8,20,3,Happy,,28,Business,Female,3.48,3,5,1,Good,Moderate,Average,Moderate,Married,Occasionally,Never,No,No,4,High,26,Off-Campus
+S1447,18,9,1,23,4,3,1,4,4,2,1,2,2,5,2,4,1,5,4,4,2,,22,10.6,6.5,3.6,11,7,Stressed,,21,Engineering,Female,3.32,5,4,1,Good,Low,Average,Moderate,Married,Frequently,Never,No,No,0,Low,27,With Family
+S1448,21,13,1,16,4,3,1,4,5,1,1,2,1,5,1,4,1,4,5,4,2,,25,10.6,4.3,4.0,35,8,Stressed,,22,Others,Female,3.97,3,4,0,Average,Low,Good,Moderate,In a Relationship,Never,Never,No,No,2,Low,27,On-Campus
+S1449,20,28,0,8,3,3,2,0,1,0,4,3,5,3,0,2,1,3,4,5,0,,24,8.2,6.2,4.1,51,8,Happy,,18,Law,Male,3.56,1,0,5,Good,Moderate,Poor,Moderate,Single,Never,Never,Yes,No,0,Low,29,With Family
+S1450,15,14,1,19,5,3,1,5,3,2,1,2,2,5,2,5,1,5,5,5,2,,17,7.1,6.1,4.3,45,3,Happy,,18,Medical,Female,2.88,5,0,3,Good,Moderate,Good,Low,Single,Never,Occasionally,No,No,4,Low,25,Off-Campus
+S1451,7,30,0,5,1,2,4,2,1,4,4,4,4,1,4,1,3,2,2,1,0,,22,6.6,6.4,3.9,85,3,Happy,,35,Others,Male,3.42,4,1,3,Average,High,Average,High,In a Relationship,Never,Never,No,No,2,Low,23,Off-Campus
+S1452,18,4,0,1,1,3,0,1,5,2,1,4,0,2,0,2,0,0,3,5,1,,25,7.5,4.4,6.0,50,4,Stressed,,18,Business,Female,3.51,1,2,1,Average,Moderate,Average,Moderate,Married,Never,Never,No,No,2,Low,28,Off-Campus
+S1453,17,9,1,27,3,3,1,5,5,2,2,1,1,5,2,4,1,5,5,4,2,,19,9.9,5.3,1.6,51,4,Happy,,22,Engineering,Female,3.83,0,4,0,Poor,High,Average,Low,Single,Never,Never,No,No,4,Moderate,18,On-Campus
+S1454,1,19,0,5,0,3,3,5,1,2,0,4,4,3,1,0,1,0,3,3,0,,20,11.0,5.2,2.5,75,1,Neutral,,25,Others,Male,4.0,0,2,3,Good,Low,Average,Moderate,Single,Never,Never,No,No,2,Low,23,Off-Campus
+S1455,12,10,0,21,4,3,5,0,2,4,2,4,2,1,2,5,1,2,4,4,0,,16,6.5,7.1,2.3,25,7,Happy,,25,Others,Male,3.78,2,2,1,Good,Low,Average,High,Single,Never,Never,No,No,4,Moderate,17,Off-Campus
+S1456,3,29,0,7,1,2,4,1,1,3,4,5,5,1,5,1,3,1,1,1,0,,22,10.1,7.0,0.2,66,1,Neutral,,20,Medical,Male,3.46,0,1,1,Good,Low,Poor,Moderate,In a Relationship,Occasionally,Occasionally,Yes,No,3,Moderate,23,On-Campus
+S1457,5,2,1,6,3,3,5,0,4,2,1,2,1,2,1,5,1,1,1,0,1,,16,8.5,5.0,4.2,1,5,Stressed,,20,Law,Female,3.6,0,0,3,Good,High,Poor,High,Married,Never,Occasionally,No,No,0,High,17,On-Campus
+S1458,14,17,1,10,2,1,2,4,3,3,2,3,2,2,2,3,3,3,2,3,1,,24,5.2,4.5,3.4,90,7,Happy,,27,Medical,Female,3.59,5,1,1,Good,Moderate,Poor,Moderate,Single,Never,Never,Yes,No,0,High,22,Off-Campus
+S1459,13,2,0,5,1,3,2,4,0,1,1,5,1,2,4,4,0,0,5,0,1,,24,6.8,5.5,1.1,8,4,Stressed,,26,Others,Female,3.23,4,1,1,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,1,Moderate,15,With Family
+S1460,18,0,1,21,3,3,1,5,3,2,2,2,2,4,1,5,1,4,5,4,2,,19,3.5,8.7,4.4,11,4,Happy,,18,Computer Science,Female,2.84,5,3,0,Average,High,Good,Moderate,Single,Never,Never,No,No,1,High,18,On-Campus
+S1461,15,12,1,19,3,3,1,5,3,2,2,1,1,5,2,4,1,4,5,4,2,,21,2.6,5.7,1.3,70,4,Happy,,21,Engineering,Female,3.52,1,4,0,Good,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,No,0,High,20,Off-Campus
+S1462,11,23,0,13,3,1,2,2,3,2,2,2,3,2,3,3,2,2,2,2,1,,22,3.0,7.1,3.2,36,2,Happy,,18,Medical,Male,3.68,4,1,0,Poor,Moderate,Average,Moderate,Married,Never,Never,Yes,No,3,Moderate,15,Off-Campus
+S1463,14,18,0,12,3,1,2,4,3,3,2,3,3,2,2,3,3,2,3,2,1,,17,11.0,8.0,4.7,71,3,Neutral,,20,Medical,Male,3.59,1,5,0,Poor,Low,Average,Moderate,Married,Never,Never,No,No,2,High,24,On-Campus
+S1464,15,13,1,15,3,3,1,4,4,1,2,1,1,5,2,5,1,5,5,5,2,,21,5.4,5.6,5.4,74,8,Stressed,,20,Medical,Female,3.39,1,0,3,Average,Moderate,Good,Low,Single,Never,Occasionally,No,No,5,Low,21,With Family
+S1465,3,26,0,8,1,2,4,1,2,3,4,5,5,2,4,1,3,1,1,1,0,,25,9.1,5.7,4.0,44,10,Stressed,,26,Medical,Female,3.32,5,5,2,Good,High,Poor,Moderate,Single,Occasionally,Never,No,No,4,Moderate,15,With Family
+S1466,18,6,1,23,5,3,1,5,4,2,2,1,1,3,2,4,1,5,4,5,2,,21,7.0,8.1,3.0,44,8,Happy,,20,Computer Science,Female,3.25,4,4,2,Poor,Low,Average,Moderate,Single,Never,Never,No,No,4,Low,25,On-Campus
+S1467,19,9,1,24,4,3,1,4,4,1,1,1,2,4,1,5,1,4,4,4,2,,17,3.7,8.3,5.1,35,6,Happy,,21,Others,Male,3.26,0,3,0,Average,Moderate,Good,High,In a Relationship,Never,Never,No,No,4,Low,20,Off-Campus
+S1468,17,23,1,4,1,3,3,1,4,1,3,0,4,0,0,0,0,5,2,5,2,,20,4.5,8.9,5.0,28,8,Happy,,30,Engineering,Male,3.49,2,2,2,Good,Moderate,Average,High,In a Relationship,Never,Never,Yes,No,4,Low,26,With Family
+S1469,18,7,1,22,5,3,1,5,5,1,2,1,1,3,1,4,1,5,4,5,2,,24,6.4,4.7,5.3,77,4,Neutral,,25,Medical,Male,3.35,4,3,0,Average,Low,Average,Low,Single,Never,Never,No,No,1,Moderate,16,Off-Campus
+S1470,16,11,1,17,5,3,1,3,4,2,2,1,2,5,1,4,1,5,5,5,2,,20,6.4,5.6,1.1,24,7,Neutral,,19,Medical,Male,4.0,3,1,4,Average,Moderate,Good,Moderate,In a Relationship,Never,Never,Yes,No,3,High,21,With Family
+S1471,12,23,0,10,2,1,2,2,2,3,3,2,2,2,2,3,3,2,3,2,1,,22,7.2,8.7,0.6,58,7,Stressed,,18,Medical,Female,3.35,5,2,4,Poor,Low,Average,Low,In a Relationship,Never,Never,Yes,No,4,High,18,Off-Campus
+S1472,8,29,0,7,1,2,5,2,2,3,4,5,5,2,4,1,3,1,1,1,0,,21,3.6,5.0,0.8,51,1,Stressed,,24,Law,Male,3.3,3,1,2,Average,Low,Average,High,Single,Never,Never,Yes,No,5,Moderate,21,On-Campus
+S1473,3,25,0,1,1,2,4,2,2,4,5,4,5,2,4,1,3,1,1,1,0,,22,5.7,5.6,1.6,73,10,Neutral,,18,Medical,Male,3.89,4,2,0,Average,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,4,High,18,Off-Campus
+S1474,6,19,0,14,2,3,4,4,1,2,2,2,4,3,2,5,0,1,3,5,1,,20,4.8,8.8,4.9,0,7,Neutral,,20,Medical,Male,3.43,3,4,0,Good,Moderate,Poor,High,Married,Never,Never,No,No,0,Low,20,With Family
+S1475,2,18,1,13,2,3,3,0,0,5,1,5,5,0,2,5,0,2,1,2,0,,24,6.1,8.8,4.6,33,6,Happy,,19,Medical,Male,3.64,4,3,3,Good,Low,Average,High,Single,Never,Never,No,No,5,High,27,With Family
+S1476,20,9,1,20,2,3,0,5,2,1,3,4,0,4,1,4,0,1,4,3,1,,18,5.4,5.5,1.1,22,7,Stressed,,24,Business,Male,3.49,0,4,2,Average,Low,Average,High,In a Relationship,Occasionally,Never,No,No,2,Moderate,21,Off-Campus
+S1477,17,12,1,22,4,3,1,4,4,2,1,1,2,3,1,5,1,4,4,4,2,,19,8.0,7.5,4.1,52,10,Stressed,,27,Others,Female,4.0,1,2,5,Poor,Moderate,Average,Moderate,Single,Never,Frequently,No,No,4,Low,24,On-Campus
+S1478,13,16,1,14,3,1,2,2,2,2,2,2,3,3,3,3,2,3,2,3,1,,22,9.9,6.5,2.0,64,10,Stressed,,23,Medical,Female,3.99,1,1,3,Good,Low,Average,Moderate,Single,Never,Never,No,No,0,Moderate,16,On-Campus
+S1479,1,29,0,2,1,2,5,1,2,3,4,5,4,2,4,1,3,2,1,1,0,,22,8.5,6.9,0.5,13,10,Happy,,25,Medical,Female,3.36,5,3,0,Average,Moderate,Average,Moderate,Single,Occasionally,Never,Yes,No,3,Moderate,19,On-Campus
+S1480,21,4,1,22,3,3,1,3,3,2,2,1,1,5,1,5,1,4,5,4,2,,18,2.7,5.2,2.1,71,9,Neutral,,33,Business,Female,3.58,2,2,2,Good,Low,Average,Moderate,Single,Never,Never,Yes,Yes,2,Moderate,18,Off-Campus
+S1481,11,16,0,5,5,3,4,1,0,1,2,1,1,4,4,4,1,2,4,0,1,,25,2.9,5.9,4.5,9,9,Happy,,21,Medical,Female,3.88,5,4,4,Good,High,Average,High,Single,Never,Never,Yes,No,4,Low,15,On-Campus
+S1482,16,7,0,6,2,3,0,3,0,4,0,4,4,4,3,0,0,0,3,2,1,,25,8.8,8.1,1.8,64,1,Happy,,19,Others,Female,3.52,2,0,1,Good,Low,Poor,Moderate,Single,Occasionally,Occasionally,No,No,0,High,20,On-Campus
+S1483,15,6,1,21,4,3,1,5,4,2,2,2,1,4,2,4,1,5,4,5,2,,20,4.8,6.0,4.7,37,9,Stressed,,23,Others,Female,4.0,3,4,4,Good,Moderate,Poor,Low,Single,Frequently,Never,Yes,No,5,Moderate,28,With Family
+S1484,20,8,1,17,3,3,1,4,4,2,2,1,1,4,1,5,1,4,5,5,2,,22,9.2,4.6,2.0,43,2,Happy,,22,Law,Male,3.14,1,3,5,Good,Moderate,Good,Moderate,Married,Frequently,Occasionally,No,No,2,Moderate,16,Off-Campus
+S1485,18,10,1,25,3,3,1,3,3,2,1,1,1,5,2,5,1,5,5,4,2,,24,8.6,6.8,1.6,14,8,Neutral,,25,Computer Science,Male,2.8,2,4,3,Good,High,Good,High,Married,Never,Never,No,No,0,High,24,With Family
+S1486,2,26,0,6,1,2,4,1,2,3,5,5,4,2,4,1,3,1,2,1,0,,16,11.1,7.0,1.8,65,8,Happy,,21,Medical,Male,3.4,2,0,4,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,5,Moderate,21,With Family
+S1487,16,1,1,27,5,3,4,0,0,2,5,1,4,3,1,5,1,3,2,2,0,,20,10.7,6.7,5.1,32,1,Happy,,19,Computer Science,Female,3.55,4,5,3,Good,Moderate,Poor,Moderate,Single,Occasionally,Frequently,Yes,No,3,Moderate,27,Off-Campus
+S1488,6,18,1,9,3,3,4,0,3,5,2,3,4,5,0,0,0,4,2,0,1,,20,5.3,7.4,2.8,68,4,Neutral,,20,Medical,Female,2.94,3,2,4,Average,Low,Good,Low,Single,Never,Occasionally,Yes,No,5,High,18,Off-Campus
+S1489,14,17,1,11,3,1,2,2,3,3,3,2,2,2,2,2,3,2,3,2,1,,19,7.8,6.8,5.2,73,9,Happy,,19,Law,Female,3.75,4,2,3,Good,High,Average,Low,In a Relationship,Never,Never,Yes,No,2,Moderate,25,With Family
+S1490,15,11,1,18,3,3,1,4,4,1,2,1,2,5,1,5,1,4,4,4,2,,22,3.4,8.8,3.5,32,9,Neutral,,24,Computer Science,Male,3.73,3,2,3,Good,Low,Average,Moderate,Single,Never,Never,No,No,5,Low,22,Off-Campus
+S1491,19,5,1,24,3,3,1,4,3,1,1,2,1,3,1,4,1,5,5,5,2,,25,5.5,6.3,5.7,88,7,Happy,,23,Law,Male,3.71,3,0,3,Good,High,Good,High,Single,Frequently,Never,No,No,0,High,28,Off-Campus
+S1492,13,17,1,11,3,1,3,4,3,2,3,3,3,3,2,2,3,3,3,2,1,,25,11.7,7.5,0.4,56,1,Stressed,,26,Others,Female,3.39,1,3,4,Good,Low,Average,Moderate,Single,Never,Never,No,No,3,High,29,With Family
+S1493,13,14,0,0,4,3,5,5,2,0,2,3,1,5,3,3,0,1,3,3,1,,21,9.0,6.2,5.3,48,9,Neutral,,32,Engineering,Male,3.03,1,2,1,Average,High,Average,High,Single,Never,Occasionally,No,No,4,Moderate,29,With Family
+S1494,4,2,0,27,4,3,0,3,5,1,5,2,3,3,0,2,1,3,3,0,0,,23,5.9,5.5,3.0,72,7,Stressed,,33,Computer Science,Male,3.51,1,5,1,Good,Moderate,Average,Low,Single,Never,Occasionally,Yes,No,5,Moderate,19,On-Campus
+S1495,13,19,0,11,2,1,2,4,3,2,2,2,3,2,2,3,2,3,3,3,1,,23,8.0,7.5,5.2,61,9,Happy,,24,Others,Male,3.4,3,1,2,Average,Low,Average,Moderate,Single,Never,Occasionally,No,No,2,Low,15,Off-Campus
+S1496,13,14,1,21,5,3,3,3,0,1,1,3,0,1,0,0,0,4,5,0,0,,23,11.4,8.1,2.3,31,1,Neutral,,21,Law,Female,3.62,5,1,2,Good,High,Average,Moderate,In a Relationship,Never,Never,No,No,2,Moderate,28,On-Campus
+S1497,0,27,0,5,1,2,5,1,1,4,5,4,5,1,4,1,3,1,2,1,0,,19,5.1,8.0,1.8,43,4,Happy,,24,Computer Science,Male,3.19,3,3,1,Good,High,Average,High,Single,Frequently,Occasionally,Yes,Yes,2,Moderate,24,On-Campus
+S1498,14,19,1,10,2,1,2,4,3,2,3,3,2,2,2,2,2,2,3,3,1,,24,5.8,6.0,0.3,58,5,Stressed,,23,Law,Male,3.47,3,2,2,Good,High,Average,High,In a Relationship,Never,Never,No,No,2,High,28,On-Campus
+S1499,15,13,1,22,5,3,1,3,4,1,1,1,1,4,2,4,1,5,5,4,2,,23,9.9,6.5,5.1,87,8,Happy,,24,Law,Male,3.36,3,0,4,Good,High,Good,Moderate,In a Relationship,Never,Never,Yes,No,2,High,17,Off-Campus
+S1500,3,27,0,1,1,2,4,2,1,3,5,4,5,1,4,1,3,1,2,1,0,,18,10.1,7.2,0.8,58,7,Happy,,28,Medical,Male,3.57,3,1,4,Good,High,Average,Moderate,In a Relationship,Never,Never,Yes,No,4,Moderate,18,With Family
+S1501,19,11,1,27,3,3,1,4,4,2,1,2,2,3,1,5,1,4,5,5,2,,17,8.7,5.2,1.2,75,5,Happy,,27,Engineering,Male,3.7,0,0,0,Good,High,Poor,Moderate,Single,Frequently,Never,No,No,5,Moderate,24,Off-Campus
+S1502,6,29,0,5,1,2,5,2,2,3,4,5,4,2,5,1,3,2,1,1,0,,20,10.3,7.3,2.5,3,5,Stressed,,26,Computer Science,Female,4.0,0,5,0,Poor,Moderate,Poor,Moderate,Single,Frequently,Never,Yes,No,1,Moderate,17,On-Campus
+S1503,5,2,1,10,5,3,3,4,3,1,3,0,1,5,1,4,0,5,1,5,1,,24,9.4,7.6,3.4,61,8,Stressed,,21,Computer Science,Female,3.75,2,4,0,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,0,Moderate,22,With Family
+S1504,16,12,1,23,5,3,1,3,4,2,1,2,2,4,2,4,1,4,5,4,2,,25,8.9,7.9,5.4,14,3,Neutral,,33,Computer Science,Male,3.54,2,4,2,Good,Moderate,Good,Moderate,Single,Never,Frequently,No,No,1,Moderate,23,With Family
+S1505,2,27,0,7,1,2,4,1,2,3,5,4,4,1,5,1,3,1,1,1,0,,21,7.3,4.4,2.7,33,7,Happy,,22,Medical,Female,4.0,5,0,4,Good,Low,Average,Moderate,Single,Never,Occasionally,Yes,No,4,Moderate,15,Off-Campus
+S1506,13,18,0,13,3,1,2,2,3,2,3,2,3,3,2,3,2,2,3,2,1,,17,8.5,9.0,1.9,8,5,Happy,,20,Law,Male,3.69,2,2,5,Average,Low,Good,Low,Single,Never,Never,No,No,5,Low,22,On-Campus
+S1507,9,17,0,10,2,1,2,4,3,2,2,2,2,3,3,2,2,2,3,2,1,,19,6.2,6.4,4.3,48,10,Neutral,,26,Law,Male,3.21,0,0,5,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,3,Moderate,22,On-Campus
+S1508,18,6,1,22,3,3,1,5,3,2,2,1,1,3,2,4,1,5,4,4,2,,20,5.6,6.0,4.7,81,1,Happy,,21,Law,Male,3.37,2,3,1,Good,Moderate,Poor,Moderate,Married,Never,Occasionally,No,No,1,Low,23,Off-Campus
+S1509,11,6,0,10,0,3,5,2,2,1,1,1,5,1,4,3,0,2,4,0,2,,19,5.6,6.5,2.9,28,9,Happy,,26,Business,Male,3.76,3,0,2,Good,High,Average,Moderate,In a Relationship,Never,Frequently,No,No,5,Moderate,24,Off-Campus
+S1510,1,25,0,3,1,2,5,1,1,4,5,4,4,1,4,1,3,1,2,1,0,,19,3.8,8.6,3.8,86,3,Happy,,18,Medical,Male,3.78,3,4,2,Average,Low,Poor,Moderate,In a Relationship,Never,Never,No,No,1,Moderate,15,On-Campus
+S1511,18,16,1,11,4,3,0,2,3,0,3,5,3,2,1,4,0,2,3,0,2,,18,4.1,7.5,1.1,89,8,Happy,,19,Medical,Male,3.5,1,1,2,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,1,High,29,Off-Campus
+S1512,5,26,0,3,1,2,4,1,2,3,4,5,4,2,5,1,3,2,2,1,0,,16,11.5,6.7,3.8,29,8,Happy,,24,Medical,Male,3.3,3,3,5,Good,Moderate,Average,High,Married,Never,Occasionally,Yes,No,4,Low,29,On-Campus
+S1513,20,15,1,22,5,3,1,3,3,2,1,2,1,3,2,4,1,4,5,4,2,,16,6.9,8.0,0.0,40,2,Stressed,,24,Medical,Male,3.49,3,3,5,Average,Low,Poor,High,In a Relationship,Never,Occasionally,No,No,5,Moderate,24,On-Campus
+S1514,13,22,1,10,3,1,3,4,3,2,2,2,2,2,2,2,2,2,3,3,1,,19,4.3,5.8,1.6,52,9,Stressed,,24,Medical,Female,3.49,4,1,2,Average,Low,Poor,Low,Single,Never,Occasionally,No,No,0,Low,15,Off-Campus
+S1515,12,23,1,13,2,1,2,4,2,3,3,3,2,2,2,3,3,2,3,2,1,,23,3.4,8.5,4.6,45,2,Stressed,,27,Medical,Female,3.33,1,2,2,Good,Low,Good,Moderate,In a Relationship,Never,Frequently,No,No,0,Moderate,24,On-Campus
+S1516,8,30,0,19,1,3,4,0,2,5,4,4,2,4,0,0,0,5,3,1,0,,25,2.8,6.7,1.0,66,3,Neutral,,22,Business,Female,3.72,1,4,0,Average,Low,Average,Moderate,Married,Never,Never,Yes,Yes,3,Moderate,28,Off-Campus
+S1517,0,28,0,4,1,2,5,1,2,4,5,5,5,1,5,1,3,1,2,1,0,,17,10.4,7.2,4.6,68,10,Neutral,,23,Medical,Female,3.51,5,3,1,Poor,Moderate,Average,Low,Single,Never,Occasionally,No,No,3,Low,28,On-Campus
+S1518,20,6,1,25,5,3,1,4,3,2,1,1,2,4,2,5,1,5,5,5,2,,23,3.0,4.4,2.9,1,9,Stressed,,18,Medical,Female,3.34,5,4,0,Average,Low,Good,Moderate,Single,Never,Occasionally,No,No,3,Moderate,24,On-Campus
+S1519,10,16,0,9,3,1,2,4,2,3,2,2,3,3,3,3,3,2,3,3,1,,22,9.7,7.8,4.6,89,3,Neutral,,20,Medical,Male,3.49,4,3,4,Good,Moderate,Good,Low,Single,Frequently,Never,Yes,No,2,High,26,Off-Campus
+S1520,19,23,0,3,4,3,5,3,1,5,5,3,2,3,1,5,0,1,0,4,1,,25,10.4,7.3,0.5,33,7,Stressed,,19,Medical,Female,3.54,4,1,3,Average,Low,Good,Moderate,Single,Never,Never,No,No,0,Low,17,With Family
+S1521,12,17,1,25,3,3,3,4,0,0,2,4,3,5,0,3,0,0,0,5,0,,19,10.8,5.8,3.7,31,7,Happy,,24,Engineering,Female,3.61,4,1,0,Average,Low,Average,High,In a Relationship,Never,Frequently,Yes,No,4,Low,15,Off-Campus
+S1522,13,23,0,9,3,1,3,4,2,2,2,2,2,2,3,3,2,3,2,2,1,,22,2.4,7.2,3.8,36,6,Happy,,18,Medical,Female,3.7,5,3,0,Good,Low,Average,Low,In a Relationship,Never,Never,Yes,No,0,Low,23,Off-Campus
+S1523,15,12,1,24,5,3,1,4,5,1,1,2,1,4,2,4,1,5,4,4,2,,23,5.4,4.2,2.4,11,8,Happy,,26,Law,Female,2.95,3,1,3,Good,Low,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,2,Moderate,19,Off-Campus
+S1524,10,18,1,9,2,1,3,2,3,2,3,2,3,3,2,3,3,3,3,2,1,,22,9.7,8.9,5.8,51,1,Stressed,,20,Medical,Male,3.65,4,5,2,Average,High,Average,High,Married,Never,Occasionally,No,No,0,Moderate,27,Off-Campus
+S1525,13,15,1,12,2,1,2,2,2,3,3,2,2,2,2,3,2,2,2,3,1,,19,3.3,7.4,2.3,86,3,Neutral,,24,Law,Male,3.41,1,2,3,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,0,Low,28,Off-Campus
+S1526,7,29,0,5,1,2,4,1,1,3,4,4,5,1,5,1,3,2,1,1,0,,18,5.8,6.0,0.2,43,8,Stressed,,25,Others,Female,3.75,2,4,2,Good,Moderate,Poor,Moderate,Single,Never,Occasionally,No,No,1,Low,29,On-Campus
+S1527,16,15,1,21,5,3,1,3,3,1,2,1,1,4,1,5,1,5,5,5,2,,16,3.6,7.8,1.2,9,10,Neutral,,19,Law,Male,3.94,3,4,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,3,Moderate,18,Off-Campus
+S1528,11,18,1,9,3,1,2,4,2,3,2,3,3,3,3,2,2,2,3,3,1,,17,10.3,8.8,2.2,70,4,Neutral,,19,Law,Female,3.67,3,0,1,Good,Moderate,Poor,Moderate,Single,Never,Never,No,No,5,Moderate,21,On-Campus
+S1529,4,28,0,0,1,2,5,2,1,3,4,5,5,1,4,1,3,2,1,1,0,,22,9.7,6.2,0.1,22,8,Happy,,19,Medical,Male,3.46,0,2,5,Good,Moderate,Average,Moderate,Single,Never,Frequently,No,No,3,Moderate,18,Off-Campus
+S1530,6,28,0,8,1,2,4,2,2,3,5,4,5,1,4,1,3,1,1,1,0,,19,10.1,4.1,1.9,60,2,Happy,,24,Others,Male,3.18,5,4,1,Poor,Moderate,Average,Low,In a Relationship,Never,Never,No,No,1,Low,17,With Family
+S1531,11,22,1,14,2,1,3,4,2,3,2,3,3,3,3,3,3,2,3,3,1,,18,3.7,5.3,5.0,40,5,Stressed,,24,Medical,Male,4.0,5,2,0,Average,Low,Average,Low,Married,Never,Never,No,No,4,High,23,Off-Campus
+S1532,9,17,0,13,2,1,2,4,3,3,3,2,2,3,3,3,3,3,3,3,1,,24,6.4,6.6,1.1,45,6,Stressed,,20,Business,Female,3.61,2,1,2,Good,High,Average,High,Single,Never,Occasionally,No,No,0,Low,21,On-Campus
+S1533,7,25,0,8,1,2,5,2,1,4,4,4,4,2,4,1,3,1,1,1,0,,23,6.1,6.6,4.1,27,3,Happy,,20,Computer Science,Male,3.14,2,4,3,Good,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,4,High,18,With Family
+S1534,10,20,1,6,1,3,3,1,5,4,4,3,1,4,2,0,0,0,1,3,0,,16,8.8,6.9,3.8,73,2,Stressed,,26,Medical,Male,3.22,1,2,3,Good,Moderate,Average,Moderate,Single,Occasionally,Never,Yes,No,1,Low,18,Off-Campus
+S1535,17,11,1,21,5,3,1,4,3,2,1,1,1,4,1,5,1,5,4,4,2,,24,4.4,6.9,1.5,34,2,Happy,,21,Medical,Male,3.85,3,1,1,Good,High,Poor,Low,In a Relationship,Never,Frequently,No,No,5,Moderate,20,On-Campus
+S1536,11,21,1,14,3,1,3,4,3,2,3,3,2,2,2,2,3,3,3,3,1,,19,6.4,6.2,4.2,23,2,Stressed,,27,Medical,Male,2.88,4,1,2,Good,Low,Good,Low,Single,Never,Never,No,No,4,Moderate,27,With Family
+S1537,19,14,1,19,4,3,1,3,5,2,1,2,1,5,2,4,1,5,4,4,2,,17,4.8,6.0,2.1,87,8,Neutral,,24,Business,Male,3.89,2,3,3,Average,Moderate,Good,High,Single,Never,Never,Yes,Yes,4,Low,25,On-Campus
+S1538,18,11,1,26,3,3,1,5,3,2,1,2,2,4,2,5,1,5,4,4,2,,23,9.5,7.9,0.8,24,6,Stressed,,21,Law,Female,3.3,1,1,3,Average,Moderate,Average,Low,In a Relationship,Never,Never,No,No,0,Moderate,25,On-Campus
+S1539,21,2,1,22,5,3,1,3,5,1,1,1,2,3,1,5,1,4,4,4,2,,18,6.5,6.9,2.3,63,2,Happy,,20,Law,Female,3.51,1,2,5,Average,Low,Average,Moderate,Single,Never,Never,No,No,4,Moderate,20,With Family
+S1540,19,14,1,24,3,3,1,3,4,1,1,1,1,5,2,4,1,5,5,4,2,,23,7.3,6.5,3.5,25,9,Stressed,,18,Others,Male,4.0,1,0,4,Good,High,Average,High,Single,Never,Occasionally,No,No,2,High,25,On-Campus
+S1541,6,30,0,7,1,2,5,2,1,4,4,4,4,1,4,1,3,2,2,1,0,,24,5.1,5.7,1.0,30,7,Neutral,,26,Others,Male,3.55,2,3,3,Good,High,Average,High,In a Relationship,Never,Frequently,No,No,0,Moderate,26,On-Campus
+S1542,16,4,1,15,5,3,1,3,3,1,2,2,2,5,1,5,1,4,4,4,2,,24,10.1,4.1,4.9,30,9,Neutral,,21,Engineering,Male,3.15,1,4,0,Good,High,Average,Moderate,Single,Never,Never,Yes,No,2,Moderate,17,With Family
+S1543,6,27,0,5,1,2,4,1,1,4,4,5,5,1,5,1,3,1,2,1,0,,25,6.7,4.5,1.8,33,10,Neutral,,25,Medical,Female,3.3,5,1,0,Average,Moderate,Average,High,Married,Never,Never,No,No,0,Moderate,19,Off-Campus
+S1544,7,27,0,8,1,2,4,1,2,3,4,4,5,2,4,1,3,2,1,1,0,,21,10.4,6.1,1.7,26,3,Happy,,24,Others,Male,3.24,2,4,0,Good,Moderate,Poor,High,In a Relationship,Never,Occasionally,No,No,4,Low,26,On-Campus
+S1545,17,23,0,10,5,3,1,0,1,4,0,2,1,3,3,5,0,3,1,1,2,,23,5.7,8.8,4.4,29,7,Stressed,,19,Medical,Female,3.67,4,0,2,Poor,Moderate,Average,Low,Single,Never,Occasionally,Yes,Yes,1,Low,20,On-Campus
+S1546,12,21,1,12,2,1,3,2,3,3,3,3,3,3,3,2,2,3,3,2,1,,25,11.5,4.6,3.6,25,9,Happy,,22,Medical,Female,3.36,4,5,1,Good,Moderate,Poor,Low,Married,Never,Never,No,No,2,Low,27,On-Campus
+S1547,5,30,0,3,1,2,5,1,1,3,4,4,5,2,4,1,3,1,1,1,0,,24,11.8,8.7,2.0,31,7,Happy,,28,Medical,Male,3.75,2,2,3,Good,Moderate,Average,High,Single,Never,Never,Yes,No,1,Moderate,20,On-Campus
+S1548,11,20,1,9,2,1,2,4,3,2,2,2,3,2,3,3,2,2,3,2,1,,22,6.6,4.7,5.3,79,1,Happy,,18,Law,Female,3.22,2,0,3,Good,Low,Average,Moderate,Married,Never,Never,No,No,0,Low,20,Off-Campus
+S1549,11,15,0,14,2,1,3,2,3,2,2,3,2,2,3,2,3,2,3,3,1,,24,4.8,5.6,6.0,45,3,Stressed,,18,Law,Male,2.89,1,3,5,Good,Low,Average,Low,Single,Never,Occasionally,No,No,4,Moderate,28,Off-Campus
+S1550,8,29,0,6,1,2,5,2,2,3,4,5,4,1,5,1,3,2,1,1,0,,23,5.8,6.3,2.1,19,6,Happy,,19,Medical,Male,3.54,4,5,3,Poor,Moderate,Average,High,In a Relationship,Occasionally,Never,No,No,3,Low,22,With Family
+S1551,12,17,0,13,3,1,2,2,3,2,3,2,3,2,2,3,2,3,2,3,1,,18,7.3,5.0,5.4,13,10,Stressed,,20,Medical,Male,3.71,5,5,2,Good,High,Good,Low,In a Relationship,Never,Never,No,No,0,High,28,Off-Campus
+S1552,7,26,0,0,1,2,5,2,2,3,4,5,4,2,4,1,3,1,2,1,0,,23,11.7,6.4,2.2,15,3,Neutral,,25,Medical,Female,3.23,3,1,0,Good,Low,Average,Low,Married,Never,Never,No,No,3,High,19,Off-Campus
+S1553,10,24,1,10,2,1,2,2,2,2,3,3,2,3,3,2,2,3,3,3,1,,23,10.2,6.4,1.1,10,3,Stressed,,24,Engineering,Female,3.79,3,3,3,Average,High,Average,Low,Single,Never,Never,Yes,No,5,Low,28,With Family
+S1554,14,30,0,9,2,3,5,5,1,4,1,3,5,0,0,4,1,2,3,0,0,,20,10.0,6.2,5.7,86,3,Stressed,,21,Law,Female,3.46,1,5,4,Good,Moderate,Poor,High,Single,Never,Never,No,No,0,Moderate,15,Off-Campus
+S1555,4,28,0,8,1,2,5,1,1,4,5,4,5,1,4,1,3,1,2,1,0,,19,3.4,7.5,5.5,84,3,Happy,,22,Engineering,Female,3.37,1,0,1,Good,High,Good,Low,Married,Never,Never,Yes,No,2,Moderate,19,Off-Campus
+S1556,8,26,0,8,1,2,5,2,2,3,5,5,4,2,5,1,3,1,2,1,0,,20,4.5,5.6,2.4,63,1,Neutral,,20,Computer Science,Female,3.44,2,4,1,Good,Low,Good,Moderate,In a Relationship,Never,Never,No,No,1,Low,23,Off-Campus
+S1557,15,11,1,24,4,3,1,4,3,2,2,1,1,3,2,4,1,4,4,5,2,,24,8.4,5.5,1.4,78,7,Stressed,,18,Engineering,Female,3.34,5,1,0,Poor,Moderate,Average,High,Single,Never,Never,Yes,No,0,High,26,On-Campus
+S1558,16,13,1,12,2,3,0,1,0,0,5,5,2,4,0,1,1,0,0,2,0,,23,10.7,8.1,4.4,0,5,Stressed,,22,Medical,Female,2.82,2,2,2,Good,Low,Average,Moderate,Single,Never,Never,No,No,2,High,28,Off-Campus
+S1559,0,30,0,0,1,2,5,1,2,4,4,5,5,2,4,1,3,2,1,1,0,,19,7.5,4.6,0.8,69,5,Happy,,26,Medical,Female,3.73,5,1,5,Average,Moderate,Average,High,Single,Never,Never,No,No,2,High,23,With Family
+S1560,9,18,0,13,2,1,2,2,2,3,2,2,3,2,2,2,2,3,2,3,1,,20,3.0,8.2,4.4,5,8,Neutral,,22,Medical,Male,2.98,0,1,0,Good,High,Average,High,Single,Never,Never,Yes,No,1,Low,20,On-Campus
+S1561,14,16,0,12,3,1,3,4,2,2,2,2,2,3,3,2,2,2,3,2,1,,23,10.5,7.2,3.5,61,5,Happy,,28,Engineering,Male,3.31,5,1,2,Average,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,1,High,20,Off-Campus
+S1562,16,10,1,26,3,3,1,3,5,2,2,1,1,4,1,4,1,4,5,5,2,,17,10.5,7.4,1.0,47,3,Happy,,25,Engineering,Female,4.0,1,2,5,Good,Moderate,Average,High,Single,Never,Occasionally,No,No,1,High,15,On-Campus
+S1563,19,14,1,26,5,3,1,5,5,2,2,2,2,5,1,4,1,4,4,4,2,,20,4.9,4.8,2.2,79,2,Happy,,35,Law,Male,3.83,4,3,2,Good,Moderate,Average,High,In a Relationship,Never,Occasionally,No,No,5,Moderate,28,Off-Campus
+S1564,9,19,1,10,2,1,2,2,3,3,2,2,3,2,3,3,3,3,3,3,1,,19,9.6,8.9,3.9,40,3,Happy,,25,Others,Male,3.21,1,1,0,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,2,High,20,On-Campus
+S1565,10,24,0,12,2,1,3,2,2,2,3,2,2,2,2,3,3,3,3,2,1,,20,4.7,5.2,0.2,63,4,Stressed,,21,Others,Female,3.59,0,2,3,Average,Moderate,Poor,Moderate,Single,Never,Never,No,No,2,High,25,Off-Campus
+S1566,2,25,0,4,1,2,5,1,1,4,4,5,4,1,5,1,3,2,2,1,0,,21,11.1,4.9,5.3,73,1,Neutral,,20,Business,Female,3.65,3,1,5,Average,Low,Average,Moderate,Single,Never,Occasionally,No,No,4,Low,15,With Family
+S1567,17,3,1,16,3,3,1,4,4,2,2,1,2,4,2,4,1,4,4,4,2,,21,3.5,4.8,1.5,35,10,Neutral,,25,Others,Female,3.24,1,0,1,Average,Moderate,Poor,Moderate,Single,Never,Occasionally,No,No,4,Moderate,17,On-Campus
+S1568,8,30,0,2,1,2,4,1,1,4,4,5,4,2,4,1,3,1,2,1,0,,24,6.4,6.8,3.2,62,5,Happy,,19,Business,Female,3.56,3,2,0,Poor,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,24,On-Campus
+S1569,13,25,1,13,3,1,3,2,2,2,3,3,2,3,2,2,3,3,3,3,1,,17,11.5,8.8,0.3,23,1,Happy,,21,Business,Male,3.09,0,1,2,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,4,Low,29,Off-Campus
+S1570,13,22,1,11,3,1,2,2,2,3,3,3,2,2,2,3,2,2,3,2,1,,18,4.2,5.2,6.0,65,8,Stressed,,31,Computer Science,Male,3.19,0,5,1,Average,High,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,3,Moderate,27,Off-Campus
+S1571,5,8,0,8,1,3,3,1,3,5,3,5,2,2,3,3,1,1,5,1,2,,18,6.5,6.0,4.0,35,8,Happy,,22,Engineering,Male,3.57,2,4,2,Good,Low,Average,Low,Single,Never,Never,Yes,No,3,Moderate,27,Off-Campus
+S1572,19,0,1,27,5,3,1,5,3,2,1,1,1,4,2,4,1,4,5,4,2,,19,5.5,4.9,3.9,50,8,Happy,,19,Computer Science,Female,3.01,3,2,2,Average,High,Poor,Moderate,Married,Frequently,Never,No,No,2,Moderate,26,Off-Campus
+S1573,5,25,0,3,1,2,4,2,2,4,4,4,4,1,4,1,3,2,1,1,0,,22,2.3,7.2,0.1,28,9,Stressed,,18,Engineering,Female,3.7,0,4,2,Good,High,Average,High,Married,Never,Frequently,No,No,4,Moderate,17,With Family
+S1574,18,26,1,18,5,3,5,4,0,4,4,5,2,1,0,5,0,1,1,5,0,,18,2.5,6.2,4.1,73,1,Neutral,,19,Medical,Female,3.78,0,5,3,Average,High,Average,Moderate,Single,Never,Occasionally,No,No,0,Moderate,21,On-Campus
+S1575,10,20,0,14,2,1,3,2,3,2,2,2,3,3,2,3,3,3,3,3,1,,19,7.0,4.1,2.5,16,10,Neutral,,20,Law,Female,4.0,3,2,5,Average,Moderate,Average,Moderate,In a Relationship,Frequently,Never,No,No,2,Low,21,On-Campus
+S1576,6,29,0,4,1,2,4,1,1,3,5,5,4,1,5,1,3,1,1,1,0,,17,4.4,7.1,2.3,6,8,Happy,,22,Law,Female,3.63,3,4,1,Poor,High,Average,High,Single,Never,Occasionally,No,No,4,Moderate,29,Off-Campus
+S1577,7,11,0,9,3,3,2,5,3,0,2,1,2,2,4,2,0,3,1,3,0,,22,11.9,5.0,3.3,67,4,Neutral,,22,Others,Female,3.13,3,2,4,Good,Moderate,Poor,Moderate,Single,Never,Never,No,No,2,Low,15,On-Campus
+S1578,13,23,1,11,3,1,3,4,3,3,2,2,3,3,2,2,3,3,2,2,1,,22,5.7,7.0,2.8,54,4,Neutral,,25,Engineering,Female,3.55,1,0,3,Good,Low,Average,Moderate,In a Relationship,Occasionally,Never,Yes,No,2,Low,27,On-Campus
+S1579,4,28,0,7,1,2,5,2,2,4,4,5,5,1,5,1,3,2,1,1,0,,21,2.3,5.9,0.9,61,10,Neutral,,23,Law,Female,3.02,1,4,5,Poor,Moderate,Average,High,Single,Never,Occasionally,No,No,3,High,17,With Family
+S1580,20,14,1,15,5,3,1,5,4,2,2,2,2,4,2,5,1,5,5,5,2,,24,11.3,7.5,4.2,69,8,Stressed,,26,Business,Female,2.97,1,4,0,Good,Moderate,Good,Moderate,Married,Never,Never,No,No,2,Moderate,22,On-Campus
+S1581,0,25,0,1,1,2,4,2,2,4,4,5,4,1,4,1,3,2,1,1,0,,23,10.4,5.0,3.8,4,8,Neutral,,22,Law,Female,3.38,0,4,3,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,1,Moderate,27,On-Campus
+S1582,7,25,0,4,1,2,5,1,2,3,5,5,5,1,4,1,3,1,1,1,0,,22,8.5,7.8,1.8,64,7,Happy,,22,Others,Female,2.73,3,1,1,Poor,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,Yes,1,Moderate,23,On-Campus
+S1583,1,24,0,19,3,3,2,3,4,5,4,2,4,5,1,2,1,0,1,0,0,,16,9.9,8.0,4.0,44,8,Happy,,21,Medical,Male,3.35,0,1,5,Good,Moderate,Average,High,In a Relationship,Never,Occasionally,Yes,No,4,High,28,On-Campus
+S1584,0,25,0,0,1,2,4,1,1,3,4,4,4,1,4,1,3,2,2,1,0,,19,3.4,4.3,4.0,50,2,Stressed,,18,Business,Male,3.26,1,1,3,Poor,Low,Average,High,Single,Frequently,Never,No,No,2,Moderate,15,With Family
+S1585,12,24,1,9,2,1,2,2,2,2,3,2,2,2,3,2,2,3,2,2,1,,22,4.9,4.5,1.6,87,10,Happy,,30,Medical,Female,3.36,2,3,1,Average,Low,Average,Moderate,Single,Occasionally,Occasionally,No,No,3,Moderate,28,Off-Campus
+S1586,7,29,0,3,1,2,4,1,1,3,5,4,4,1,5,1,3,2,1,1,0,,22,10.3,8.4,3.6,22,10,Stressed,,23,Business,Female,3.59,4,2,1,Good,Moderate,Good,Moderate,In a Relationship,Never,Never,Yes,No,0,Low,19,Off-Campus
+S1587,20,1,1,19,5,3,1,3,3,2,2,1,1,3,1,4,1,4,4,4,2,,25,9.0,4.9,0.8,58,1,Happy,,20,Engineering,Female,3.3,1,5,0,Good,Low,Average,Moderate,Married,Never,Frequently,No,No,2,Moderate,25,Off-Campus
+S1588,1,26,0,3,1,2,4,1,2,4,4,4,5,2,4,1,3,1,1,1,0,,16,3.4,5.6,5.0,15,4,Happy,,20,Medical,Female,3.33,1,2,0,Average,Moderate,Poor,Moderate,Married,Never,Never,No,No,4,High,24,On-Campus
+S1589,5,1,1,18,4,3,3,2,2,0,4,0,1,0,0,3,1,2,4,0,2,,25,9.1,6.3,0.6,89,9,Happy,,25,Engineering,Female,3.64,0,3,1,Average,Low,Good,Low,Married,Never,Occasionally,No,No,3,Moderate,25,Off-Campus
+S1590,14,15,1,12,3,1,3,4,2,3,3,2,3,3,2,2,3,2,3,2,1,,22,6.5,5.3,4.3,66,5,Neutral,,24,Computer Science,Male,3.63,0,2,1,Average,Moderate,Poor,Low,Single,Never,Occasionally,No,No,0,High,29,On-Campus
+S1591,19,2,1,18,4,3,1,3,5,1,2,2,1,3,1,5,1,5,5,4,2,,23,2.1,8.3,0.7,58,10,Stressed,,19,Law,Male,3.53,5,3,1,Good,High,Good,Moderate,In a Relationship,Never,Occasionally,No,No,3,Low,22,Off-Campus
+S1592,5,15,1,7,0,3,1,1,3,5,3,1,1,1,4,3,1,2,5,5,2,,16,2.8,6.6,0.7,40,9,Happy,,25,Medical,Female,3.89,4,2,1,Average,Low,Average,Low,Married,Occasionally,Frequently,No,No,1,Moderate,15,On-Campus
+S1593,19,15,1,27,5,3,1,4,5,2,2,2,2,5,1,4,1,4,5,5,2,,21,4.6,7.2,0.6,88,4,Happy,,26,Law,Male,3.12,4,1,2,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,5,High,28,On-Campus
+S1594,11,18,1,13,3,1,2,4,3,3,3,3,2,3,2,2,3,2,3,2,1,,20,10.3,7.0,1.2,1,1,Happy,,26,Computer Science,Female,2.92,3,3,3,Poor,Low,Poor,Moderate,Single,Never,Never,No,No,1,Low,16,Off-Campus
+S1595,9,22,1,13,2,1,2,2,3,3,3,2,3,2,3,2,3,3,2,3,1,,22,7.5,7.1,1.2,1,3,Stressed,,22,Law,Male,3.38,3,3,3,Average,Moderate,Good,Moderate,Single,Never,Occasionally,Yes,No,5,Moderate,22,On-Campus
+S1596,19,6,1,18,3,3,1,4,4,1,1,2,2,4,1,5,1,5,5,4,2,,22,9.3,6.9,1.6,86,3,Neutral,,24,Computer Science,Male,3.75,3,5,2,Good,Low,Poor,Low,In a Relationship,Never,Never,No,No,2,Moderate,26,On-Campus
+S1597,4,11,0,20,5,3,1,2,5,3,4,1,2,5,1,3,1,5,0,2,1,,24,7.3,5.7,3.1,26,1,Stressed,,18,Others,Male,3.34,1,3,3,Good,High,Average,High,Single,Never,Never,No,No,3,Moderate,28,With Family
+S1598,11,18,1,10,2,1,3,2,2,3,2,2,3,2,2,3,3,2,3,3,1,,24,3.1,8.2,1.2,48,6,Stressed,,20,Computer Science,Male,3.5,0,2,1,Average,Moderate,Poor,High,Single,Occasionally,Never,No,Yes,5,Low,18,Off-Campus
+S1599,7,25,0,2,1,2,5,1,2,4,5,4,4,2,5,1,3,1,1,1,0,,25,4.9,7.1,4.2,74,1,Neutral,,22,Medical,Female,3.55,3,2,1,Average,Moderate,Good,Moderate,Single,Never,Occasionally,No,No,3,Low,16,Off-Campus
+S1600,5,25,0,6,1,2,4,1,2,4,4,4,4,2,4,1,3,2,1,1,0,,19,5.0,8.1,1.8,12,3,Neutral,,20,Computer Science,Female,3.84,3,5,2,Good,Moderate,Average,Low,In a Relationship,Never,Never,No,No,2,Moderate,15,On-Campus
+S1601,20,5,1,19,4,3,1,3,4,1,1,2,2,4,1,4,1,5,5,5,2,,23,2.5,7.5,0.2,41,1,Happy,,28,Engineering,Male,3.33,0,0,4,Average,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,2,Low,18,On-Campus
+S1602,21,7,1,23,5,3,1,5,3,1,1,1,2,4,2,4,1,4,5,5,2,,19,6.2,5.5,3.0,46,10,Stressed,,20,Law,Male,3.36,0,0,3,Good,Moderate,Good,High,Single,Never,Occasionally,No,No,3,Moderate,23,With Family
+S1603,13,17,1,11,3,1,3,2,3,3,3,2,2,3,3,2,3,2,3,3,1,,20,9.9,7.1,1.2,78,10,Stressed,,19,Business,Female,3.44,3,5,4,Average,Low,Average,Low,In a Relationship,Never,Never,No,No,0,Low,24,Off-Campus
+S1604,0,27,0,4,1,2,4,2,2,3,4,5,5,2,4,1,3,1,1,1,0,,22,6.6,4.4,5.6,33,5,Neutral,,31,Engineering,Female,3.11,1,2,2,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,5,High,21,On-Campus
+S1605,2,29,0,1,1,2,4,1,1,3,5,5,5,1,5,1,3,1,2,1,0,,23,3.1,4.7,2.0,23,6,Happy,,28,Others,Female,3.15,0,5,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,2,Moderate,28,On-Campus
+S1606,19,27,0,1,0,3,5,3,4,4,2,0,0,2,2,2,1,5,0,3,2,,16,11.1,4.6,0.0,70,2,Happy,,19,Medical,Female,3.78,4,2,0,Average,Low,Average,Moderate,Single,Occasionally,Never,No,No,3,High,28,Off-Campus
+S1607,2,15,1,17,0,3,5,4,3,0,4,0,2,0,0,0,1,3,0,5,0,,22,8.0,5.5,4.0,33,1,Neutral,,22,Medical,Female,3.23,3,1,2,Average,Low,Average,Moderate,In a Relationship,Never,Never,No,No,1,Moderate,27,Off-Campus
+S1608,12,22,0,13,2,1,2,2,2,2,3,3,3,3,3,3,3,2,2,3,1,,21,2.2,4.9,5.4,30,2,Happy,,18,Engineering,Male,3.28,3,1,2,Average,Moderate,Average,High,Single,Never,Occasionally,No,No,2,Low,18,Off-Campus
+S1609,2,27,0,8,1,2,5,1,2,4,4,5,5,2,4,1,3,1,1,1,0,,22,7.2,7.5,5.0,34,7,Happy,,21,Others,Female,3.43,4,1,4,Good,High,Good,High,Married,Never,Occasionally,No,Yes,4,Moderate,26,Off-Campus
+S1610,9,16,1,10,2,1,3,2,3,3,3,3,3,3,2,2,2,3,2,3,1,,18,4.4,6.6,4.0,60,3,Happy,,18,Computer Science,Female,2.88,5,3,2,Good,Low,Poor,High,In a Relationship,Never,Never,No,No,5,Moderate,21,With Family
+S1611,9,25,0,11,2,1,2,2,2,2,2,3,2,2,2,2,2,2,3,3,1,,23,3.4,6.1,0.9,78,3,Stressed,,18,Medical,Female,3.48,5,1,1,Good,Moderate,Average,Moderate,Married,Never,Never,Yes,No,1,Moderate,15,Off-Campus
+S1612,13,22,1,9,2,1,2,2,3,3,2,2,2,2,2,3,3,2,2,2,1,,18,6.3,4.7,0.5,43,5,Neutral,,21,Medical,Female,3.88,5,3,1,Good,High,Average,High,Single,Never,Occasionally,Yes,No,4,Moderate,17,Off-Campus
+S1613,1,29,0,4,1,2,5,2,1,3,5,4,5,2,5,1,3,1,2,1,0,,25,8.1,5.9,3.1,46,10,Happy,,23,Medical,Male,3.5,3,0,1,Good,Moderate,Average,Moderate,Married,Never,Occasionally,No,No,0,Low,15,On-Campus
+S1614,1,30,0,3,1,2,4,1,2,3,5,5,5,1,5,1,3,1,2,1,0,,24,4.4,4.9,4.3,23,10,Neutral,,27,Medical,Female,4.0,5,3,4,Good,Low,Average,Moderate,Married,Occasionally,Occasionally,No,No,4,Low,29,On-Campus
+S1615,11,25,1,10,2,1,3,2,2,2,3,2,3,3,3,3,3,2,2,2,1,,16,6.2,7.2,0.6,63,10,Happy,,20,Medical,Female,3.51,1,5,4,Average,Moderate,Average,Low,In a Relationship,Frequently,Occasionally,Yes,No,2,Low,19,Off-Campus
+S1616,20,15,1,26,4,3,1,4,4,2,2,2,1,5,1,4,1,5,5,4,2,,22,8.6,7.5,1.5,54,9,Happy,,20,Business,Female,3.16,0,0,2,Good,Low,Poor,Moderate,Married,Never,Frequently,No,No,3,High,25,On-Campus
+S1617,11,19,1,10,2,1,3,2,2,2,3,3,3,3,3,2,2,3,3,3,1,,25,2.9,7.2,1.4,26,3,Neutral,,23,Medical,Male,3.68,5,1,3,Good,High,Average,Moderate,Single,Frequently,Frequently,No,No,5,High,15,With Family
+S1618,9,23,0,14,3,1,3,2,2,3,2,3,2,2,3,2,2,2,2,2,1,,25,11.7,9.0,5.9,53,8,Stressed,,22,Law,Female,3.36,3,0,3,Poor,Low,Average,High,In a Relationship,Never,Occasionally,No,No,4,High,29,With Family
+S1619,14,19,0,14,2,1,3,2,2,3,3,3,2,3,3,3,3,3,2,3,1,,16,2.7,6.8,1.8,89,10,Neutral,,26,Computer Science,Male,3.09,1,5,2,Poor,Moderate,Average,High,Single,Never,Never,No,No,5,Moderate,28,On-Campus
+S1620,13,17,0,14,3,1,3,2,2,2,3,2,2,3,3,3,2,2,3,3,1,,17,7.3,6.4,2.8,47,6,Happy,,23,Law,Male,3.78,3,4,3,Good,High,Average,Moderate,Single,Never,Never,No,No,0,Moderate,24,On-Campus
+S1621,4,29,0,3,1,2,5,2,1,3,5,4,5,1,5,1,3,2,2,1,0,,22,7.1,4.7,0.6,46,1,Neutral,,19,Law,Male,3.53,1,2,3,Good,Moderate,Good,Moderate,In a Relationship,Never,Frequently,No,No,1,Moderate,27,On-Campus
+S1622,11,24,1,12,2,1,3,4,2,3,2,2,2,2,2,2,3,3,3,2,1,,18,11.9,5.6,1.0,51,2,Happy,,24,Engineering,Female,3.25,1,3,4,Average,Moderate,Average,Low,Single,Never,Never,No,No,3,Moderate,27,On-Campus
+S1623,12,17,0,12,2,1,2,4,3,3,2,3,2,2,3,2,3,3,2,2,1,,23,7.5,6.3,0.2,35,5,Happy,,22,Medical,Male,3.37,2,0,4,Good,Moderate,Poor,High,In a Relationship,Never,Frequently,No,No,5,Moderate,25,On-Campus
+S1624,2,30,0,8,1,2,5,2,1,3,5,5,4,2,5,1,3,2,1,1,0,,18,5.9,4.3,1.7,57,6,Stressed,,22,Computer Science,Female,3.51,3,3,1,Good,Moderate,Average,High,Single,Never,Occasionally,No,No,0,Low,18,On-Campus
+S1625,13,15,0,13,3,1,3,4,3,2,3,2,3,3,2,2,3,3,2,2,1,,16,6.7,5.8,4.8,23,6,Neutral,,23,Medical,Male,3.43,5,2,3,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,1,Moderate,22,Off-Campus
+S1626,10,22,0,10,3,1,2,2,2,3,2,3,2,2,3,2,2,2,2,2,1,,20,8.4,4.0,1.9,73,7,Happy,,21,Medical,Female,2.96,4,1,3,Good,Moderate,Poor,Low,Married,Frequently,Never,Yes,No,4,Moderate,19,Off-Campus
+S1627,10,22,0,11,2,1,3,4,2,2,3,2,2,2,3,2,2,2,2,3,1,,22,11.8,4.7,4.4,16,2,Neutral,,22,Medical,Male,3.66,3,0,1,Average,High,Average,High,Single,Never,Occasionally,Yes,No,0,Moderate,24,Off-Campus
+S1628,0,26,0,4,1,2,5,2,2,3,4,4,5,1,5,1,3,1,1,1,0,,21,4.5,8.1,0.6,73,7,Neutral,,25,Law,Female,3.46,3,3,2,Good,Low,Good,Moderate,Single,Never,Never,No,No,0,Low,24,On-Campus
+S1629,10,25,1,14,3,1,2,2,2,3,2,3,2,3,2,3,2,2,2,3,1,,19,2.2,8.8,4.5,87,9,Happy,,20,Others,Female,3.51,1,1,0,Good,Moderate,Poor,High,Single,Never,Occasionally,No,No,0,Moderate,23,With Family
+S1630,3,28,0,3,1,2,4,1,1,4,5,4,4,2,4,1,3,2,2,1,0,,23,9.9,6.5,0.3,29,2,Neutral,,18,Others,Male,2.84,0,3,3,Good,Moderate,Poor,Moderate,In a Relationship,Occasionally,Never,No,No,4,Moderate,16,Off-Campus
+S1631,19,13,1,25,3,3,1,3,5,1,1,1,1,3,2,5,1,4,4,4,2,,21,5.4,6.5,5.1,12,5,Stressed,,20,Engineering,Female,3.46,5,2,1,Good,Low,Average,Moderate,Single,Never,Frequently,No,No,5,Low,28,With Family
+S1632,4,30,0,5,2,3,4,4,4,4,1,1,2,0,4,5,0,5,0,2,0,,21,9.3,7.4,4.0,34,8,Happy,,20,Law,Female,3.51,0,2,3,Poor,Low,Average,High,Single,Occasionally,Frequently,No,No,3,Moderate,17,With Family
+S1633,15,6,1,26,3,3,1,5,4,1,1,2,1,4,1,5,1,5,5,5,2,,22,8.3,6.1,1.0,30,3,Stressed,,28,Computer Science,Female,3.74,5,4,0,Good,High,Average,Moderate,Single,Never,Frequently,No,Yes,3,Moderate,25,Off-Campus
+S1634,11,5,1,10,2,3,5,5,1,1,5,0,2,4,1,1,1,3,4,4,1,,20,9.7,8.2,2.1,71,2,Neutral,,28,Medical,Female,3.77,1,0,2,Good,Low,Average,Low,In a Relationship,Never,Occasionally,Yes,No,3,Moderate,17,On-Campus
+S1635,20,2,1,22,3,3,1,4,5,2,1,2,1,3,1,5,1,4,4,4,2,,22,9.4,6.4,2.6,55,5,Neutral,,22,Medical,Female,3.71,3,2,1,Poor,Moderate,Good,Moderate,Married,Never,Never,No,No,0,Low,28,Off-Campus
+S1636,10,24,1,14,3,1,2,2,3,3,3,2,2,2,2,2,2,2,2,3,1,,20,5.3,4.4,3.7,48,6,Happy,,18,Medical,Female,3.59,5,1,1,Good,Low,Average,Low,Married,Occasionally,Occasionally,Yes,No,4,Moderate,29,Off-Campus
+S1637,6,29,0,0,0,3,2,5,0,3,4,0,2,5,2,0,1,4,0,2,1,,17,2.4,4.2,5.3,25,9,Neutral,,21,Engineering,Female,3.07,0,5,1,Average,Low,Average,High,In a Relationship,Never,Never,No,No,0,Moderate,29,On-Campus
+S1638,0,26,0,3,1,2,4,1,1,3,4,4,5,1,5,1,3,2,1,1,0,,23,7.5,7.8,0.6,18,7,Happy,,27,Law,Female,3.3,2,3,3,Good,High,Average,High,Single,Never,Never,No,Yes,3,Low,18,Off-Campus
+S1639,10,21,0,9,2,1,2,2,3,2,3,3,2,3,3,2,3,3,3,3,1,,16,10.1,5.5,4.9,19,9,Happy,,21,Law,Male,3.45,0,2,1,Good,Moderate,Average,Moderate,Married,Never,Frequently,No,No,4,Moderate,27,Off-Campus
+S1640,5,30,0,2,1,2,4,1,1,3,5,4,4,1,4,1,3,1,1,1,0,,24,3.8,5.4,1.1,60,4,Stressed,,24,Law,Male,3.44,0,1,1,Good,Low,Poor,Low,In a Relationship,Frequently,Never,No,No,5,Low,23,Off-Campus
+S1641,21,7,1,25,5,3,1,3,3,2,2,1,2,3,1,4,1,5,4,4,2,,16,9.8,6.7,2.4,1,4,Stressed,,18,Medical,Male,3.67,4,2,2,Average,High,Average,High,Single,Never,Occasionally,Yes,No,3,Moderate,27,On-Campus
+S1642,17,10,1,22,4,3,1,3,3,1,2,1,1,5,1,5,1,5,5,5,2,,21,6.6,4.8,5.8,22,10,Happy,,25,Law,Male,3.58,2,2,2,Good,Low,Average,Moderate,Single,Occasionally,Never,No,No,3,Low,15,On-Campus
+S1643,5,30,0,3,1,2,5,2,1,4,4,5,5,2,5,1,3,1,1,1,0,,19,9.0,6.3,1.6,53,1,Neutral,,25,Medical,Male,3.33,3,1,3,Good,High,Good,Moderate,In a Relationship,Never,Never,Yes,No,0,High,17,Off-Campus
+S1644,18,10,1,23,3,3,1,5,5,1,1,2,2,4,1,4,1,4,4,4,2,,17,8.3,7.7,2.3,63,2,Happy,,19,Law,Female,3.28,3,3,2,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,0,Moderate,28,On-Campus
+S1645,9,16,0,13,3,1,3,4,2,2,2,3,2,2,3,3,3,2,2,2,1,,16,10.1,7.8,5.1,17,10,Happy,,23,Law,Male,3.86,0,5,3,Average,High,Average,Moderate,Single,Never,Never,No,No,1,Moderate,17,On-Campus
+S1646,2,27,0,0,1,2,4,2,1,4,5,5,4,2,4,1,3,2,2,1,0,,16,2.6,6.7,4.8,80,9,Neutral,,28,Engineering,Female,3.17,1,0,3,Average,High,Good,High,Single,Frequently,Occasionally,No,No,1,High,20,Off-Campus
+S1647,3,26,0,8,1,2,4,2,1,4,5,5,4,2,4,1,3,1,1,1,0,,19,9.8,4.6,3.9,66,2,Neutral,,29,Medical,Female,3.44,5,2,0,Good,Low,Average,Moderate,Single,Never,Never,No,No,3,Moderate,17,Off-Campus
+S1648,6,16,1,11,3,3,3,0,5,0,3,5,5,4,4,1,1,2,4,0,0,,19,6.6,4.6,4.8,68,8,Neutral,,18,Medical,Male,3.2,1,0,1,Good,Moderate,Average,Moderate,Single,Occasionally,Never,No,No,3,High,27,Off-Campus
+S1649,9,29,1,26,5,3,0,1,2,0,5,0,1,4,0,0,1,5,2,5,1,,16,4.9,7.9,0.7,40,10,Happy,,21,Business,Female,3.33,0,1,1,Good,Low,Average,High,In a Relationship,Never,Never,No,No,2,Low,16,Off-Campus
+S1650,7,25,0,8,1,2,5,2,2,3,4,4,4,2,4,1,3,2,2,1,0,,25,2.4,8.1,4.2,62,5,Neutral,,24,Medical,Male,3.48,3,1,4,Good,Moderate,Average,Low,In a Relationship,Never,Never,No,No,1,Low,26,With Family
+S1651,6,30,0,6,1,2,5,2,1,4,4,4,5,1,5,1,3,2,1,1,0,,18,4.0,5.8,0.4,38,7,Happy,,20,Law,Female,3.57,1,2,4,Poor,Low,Average,Low,In a Relationship,Never,Never,Yes,No,5,Moderate,24,On-Campus
+S1652,8,25,0,5,1,2,4,1,2,4,5,4,4,1,4,1,3,1,2,1,0,,19,2.4,8.1,5.7,32,10,Neutral,,27,Business,Female,3.5,4,2,1,Good,Moderate,Average,Moderate,Married,Frequently,Occasionally,No,No,0,High,27,Off-Campus
+S1653,8,28,0,5,1,2,5,1,2,3,4,5,4,1,5,1,3,1,1,1,0,,18,11.3,4.2,1.0,71,6,Stressed,,19,Medical,Male,3.21,2,5,4,Good,Low,Good,Moderate,Single,Never,Never,No,No,1,Low,19,With Family
+S1654,1,27,0,6,1,2,4,1,1,4,5,5,5,1,5,1,3,1,2,1,0,,23,7.2,7.6,2.5,72,5,Happy,,26,Others,Male,3.55,2,0,0,Average,Low,Average,High,Single,Never,Never,Yes,No,4,Moderate,17,With Family
+S1655,13,17,0,10,2,1,3,4,2,2,3,3,2,2,2,2,2,3,2,2,1,,17,11.9,6.7,3.5,6,9,Stressed,,25,Engineering,Male,3.72,1,1,3,Poor,Moderate,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,3,High,23,Off-Campus
+S1656,21,8,1,26,4,3,1,4,5,2,2,2,1,3,1,4,1,4,5,4,2,,25,7.4,8.9,4.8,50,10,Stressed,,18,Law,Male,3.46,2,2,5,Poor,High,Average,High,Single,Occasionally,Frequently,No,No,4,High,17,On-Campus
+S1657,2,25,0,1,1,2,4,1,2,4,5,4,5,1,5,1,3,2,1,1,0,,19,4.5,4.5,4.1,12,10,Happy,,25,Medical,Male,3.84,2,3,3,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,18,Off-Campus
+S1658,9,16,0,13,3,1,3,4,2,2,2,2,3,2,2,3,2,2,3,2,1,,23,9.5,8.2,1.1,88,6,Stressed,,35,Engineering,Male,3.24,3,3,5,Average,High,Good,Moderate,Single,Never,Never,Yes,No,4,Moderate,16,Off-Campus
+S1659,11,23,1,12,2,1,2,2,3,3,2,2,3,2,3,2,3,2,2,3,1,,20,3.9,7.8,2.3,20,3,Stressed,,33,Medical,Male,3.43,4,0,2,Good,High,Good,High,Single,Never,Occasionally,No,No,5,Moderate,27,On-Campus
+S1660,10,20,1,9,3,1,2,4,2,3,2,2,2,2,2,2,3,3,3,3,1,,21,5.6,5.5,2.2,7,10,Happy,,27,Medical,Male,3.33,4,3,0,Average,Low,Average,Moderate,Married,Occasionally,Never,No,No,0,Moderate,19,Off-Campus
+S1661,21,11,1,22,4,3,1,4,5,2,1,1,2,3,1,5,1,5,4,5,2,,18,9.8,9.0,0.2,27,10,Happy,,28,Business,Male,3.61,1,1,3,Good,Low,Average,Moderate,Single,Never,Occasionally,Yes,No,3,Moderate,20,Off-Campus
+S1662,17,13,1,23,3,3,1,3,5,1,2,2,1,3,2,4,1,4,4,5,2,,25,10.7,6.2,4.1,32,8,Neutral,,25,Law,Female,3.7,3,0,5,Average,Low,Average,Moderate,Single,Never,Never,Yes,No,5,High,16,On-Campus
+S1663,0,25,0,2,1,2,5,1,2,4,4,5,5,2,4,1,3,2,2,1,0,,25,5.3,5.7,5.0,60,9,Stressed,,24,Law,Female,3.16,2,0,5,Average,High,Average,Moderate,Single,Never,Never,No,No,3,Moderate,21,On-Campus
+S1664,6,26,0,7,1,2,4,2,1,3,5,5,5,2,4,1,3,1,1,1,0,,17,3.2,8.1,5.8,80,8,Neutral,,22,Engineering,Female,3.19,0,2,2,Average,High,Average,Moderate,In a Relationship,Never,Occasionally,No,No,2,Low,17,Off-Campus
+S1665,10,15,0,10,2,1,2,2,3,3,3,3,2,3,3,3,2,2,3,3,1,,18,5.7,6.2,0.8,12,8,Happy,,26,Business,Female,3.48,3,5,4,Poor,Low,Average,Moderate,Single,Never,Never,No,No,4,Moderate,17,Off-Campus
+S1666,10,18,0,12,2,1,2,4,2,3,2,3,2,2,3,2,2,2,2,2,1,,20,10.9,9.0,5.5,57,3,Stressed,,28,Law,Male,3.25,2,2,3,Average,Moderate,Good,High,In a Relationship,Never,Never,No,No,2,Low,19,On-Campus
+S1667,7,25,0,8,1,2,5,2,1,3,5,5,5,2,5,1,3,1,2,1,0,,17,9.4,7.9,0.7,42,10,Neutral,,18,Law,Female,3.32,3,2,5,Good,Moderate,Average,High,In a Relationship,Never,Never,Yes,No,1,High,25,Off-Campus
+S1668,12,17,1,5,2,3,2,0,4,3,1,0,0,5,1,5,1,0,0,4,0,,25,10.9,5.2,2.5,33,4,Neutral,,20,Law,Female,3.93,5,3,3,Good,Moderate,Average,Moderate,Married,Never,Occasionally,No,Yes,1,Moderate,22,On-Campus
+S1669,1,11,1,8,0,3,4,2,2,1,3,5,2,4,1,1,1,4,3,4,0,,16,5.9,8.1,0.3,46,5,Neutral,,19,Computer Science,Female,3.6,2,4,5,Good,Moderate,Good,Moderate,In a Relationship,Never,Occasionally,No,No,4,Low,20,On-Campus
+S1670,10,18,1,10,3,1,3,2,2,3,2,2,3,3,3,3,3,3,2,3,1,,20,11.7,6.9,1.6,46,4,Happy,,26,Others,Male,3.34,3,5,1,Average,High,Good,Low,In a Relationship,Never,Occasionally,No,Yes,3,Low,24,On-Campus
+S1671,8,26,0,2,1,2,5,2,2,4,5,5,5,2,4,1,3,1,2,1,0,,25,7.0,5.8,1.9,71,1,Stressed,,24,Medical,Male,3.03,1,3,2,Good,Moderate,Good,Moderate,In a Relationship,Never,Never,Yes,No,2,Moderate,15,Off-Campus
+S1672,7,26,0,2,1,2,4,1,1,3,4,4,5,2,4,1,3,1,1,1,0,,22,7.0,7.6,4.2,71,2,Neutral,,27,Engineering,Male,3.29,1,1,2,Poor,Moderate,Good,Low,In a Relationship,Never,Occasionally,Yes,No,5,Moderate,25,Off-Campus
+S1673,14,24,0,11,2,1,3,4,2,2,3,2,3,2,2,2,3,3,2,3,1,,22,11.2,7.2,4.1,32,1,Stressed,,26,Medical,Male,3.05,4,1,5,Good,Moderate,Poor,High,Married,Never,Occasionally,Yes,No,2,Moderate,15,On-Campus
+S1674,14,17,0,13,3,1,2,4,3,2,3,2,3,3,2,3,2,3,2,3,1,,19,7.2,4.8,4.6,44,8,Happy,,20,Medical,Male,3.3,4,5,5,Average,Low,Poor,Moderate,Married,Never,Never,No,No,1,High,28,With Family
+S1675,2,6,0,27,5,3,5,4,4,5,4,5,1,5,2,4,1,5,4,1,2,,17,10.0,4.7,3.5,2,2,Happy,,29,Others,Female,3.59,0,2,3,Good,Low,Average,Moderate,Married,Never,Never,No,No,0,Low,24,On-Campus
+S1676,9,21,0,12,2,1,3,4,3,2,3,3,3,3,2,3,3,3,3,2,1,,25,9.3,5.0,3.4,52,4,Neutral,,32,Computer Science,Female,3.39,2,3,3,Poor,Moderate,Average,Low,In a Relationship,Never,Never,No,No,3,Moderate,29,Off-Campus
+S1677,21,11,1,16,5,3,1,3,3,1,1,1,2,5,1,4,1,4,5,5,2,,19,2.8,5.0,5.9,15,10,Neutral,,20,Medical,Female,3.37,5,2,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,3,Moderate,29,Off-Campus
+S1678,1,20,0,19,2,3,2,5,2,4,1,3,4,3,3,1,1,5,2,1,0,,17,8.0,4.3,4.0,44,7,Stressed,,21,Computer Science,Female,3.96,5,3,0,Good,Low,Average,Moderate,Single,Never,Occasionally,No,No,5,Low,20,Off-Campus
+S1679,11,23,0,12,2,1,3,4,3,2,3,2,3,3,2,3,3,3,3,2,1,,20,10.2,5.8,2.0,86,7,Happy,,30,Others,Male,3.82,4,0,1,Poor,High,Average,High,Single,Never,Never,Yes,No,2,Low,22,On-Campus
+S1680,15,0,1,27,3,3,1,5,5,2,2,1,1,4,2,4,1,4,4,4,2,,25,7.5,5.4,3.1,77,1,Stressed,,19,Medical,Male,2.97,2,0,1,Average,Moderate,Poor,Moderate,Single,Never,Never,Yes,No,1,Low,15,On-Campus
+S1681,7,26,0,0,1,2,5,2,2,3,5,5,5,1,4,1,3,2,1,1,0,,17,5.2,6.7,4.2,25,6,Happy,,20,Law,Male,3.65,5,0,2,Good,Moderate,Average,Moderate,Married,Never,Frequently,No,No,5,Moderate,27,On-Campus
+S1682,14,15,0,10,2,1,2,4,2,3,2,2,2,3,2,3,2,3,3,2,1,,25,2.8,5.6,0.6,73,6,Stressed,,18,Law,Male,3.73,1,3,3,Good,Moderate,Average,Low,In a Relationship,Never,Never,Yes,No,3,Moderate,23,On-Campus
+S1683,7,25,0,0,1,2,5,2,1,4,5,5,4,2,5,1,3,1,1,1,0,,16,8.6,7.5,4.0,73,9,Happy,,20,Engineering,Female,3.08,1,5,2,Average,Low,Average,High,In a Relationship,Never,Never,Yes,No,3,Low,28,With Family
+S1684,11,15,1,11,2,1,2,4,2,3,3,3,2,2,2,3,3,2,3,2,1,,21,5.1,5.4,1.5,83,4,Neutral,,26,Law,Male,3.42,0,1,2,Good,High,Average,Moderate,In a Relationship,Occasionally,Never,No,No,5,Moderate,21,On-Campus
+S1685,4,27,0,5,1,2,4,2,1,4,5,4,4,2,5,1,3,1,2,1,0,,24,8.0,5.3,2.1,83,1,Happy,,19,Engineering,Female,3.45,1,3,0,Good,Moderate,Average,Moderate,In a Relationship,Occasionally,Never,No,No,0,High,21,On-Campus
+S1686,16,9,1,17,3,3,1,3,4,1,2,1,1,3,1,5,1,5,4,4,2,,22,6.3,8.3,4.1,68,4,Happy,,22,Computer Science,Female,3.69,0,2,0,Average,Moderate,Average,Moderate,Married,Never,Frequently,No,No,0,Moderate,23,On-Campus
+S1687,21,8,1,27,4,3,1,5,5,1,2,2,1,5,2,5,1,4,4,5,2,,21,8.9,8.9,2.3,22,5,Neutral,,24,Medical,Male,3.73,5,5,1,Average,Moderate,Average,High,Single,Never,Frequently,Yes,No,0,High,18,With Family
+S1688,3,26,0,1,1,2,5,2,2,3,4,5,4,1,5,1,3,2,1,1,0,,17,5.5,7.4,5.0,36,5,Stressed,,27,Law,Male,3.37,2,5,4,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,2,Low,20,With Family
+S1689,16,11,1,21,5,3,1,5,5,1,1,2,2,3,2,5,1,4,5,4,2,,24,2.4,4.5,3.4,45,2,Stressed,,18,Law,Female,3.3,1,5,3,Good,High,Good,Moderate,Single,Frequently,Never,Yes,No,4,Moderate,22,On-Campus
+S1690,0,27,0,0,4,3,3,4,2,3,2,0,0,3,3,5,0,5,4,5,2,,21,10.7,8.8,5.9,41,5,Happy,,19,Computer Science,Male,3.13,3,0,4,Average,High,Average,Low,In a Relationship,Never,Frequently,Yes,No,0,Moderate,28,On-Campus
+S1691,12,1,0,4,2,3,5,1,4,1,3,0,5,1,0,4,0,5,1,3,2,,16,5.5,7.9,0.3,86,5,Neutral,,31,Medical,Male,3.73,5,3,3,Average,Moderate,Average,High,Single,Never,Never,No,No,4,Moderate,18,On-Campus
+S1692,6,21,0,16,1,3,5,5,5,1,0,1,4,4,1,5,1,0,1,1,1,,22,12.0,8.6,3.9,65,9,Stressed,,20,Engineering,Male,3.28,5,3,2,Good,Low,Average,High,Married,Never,Occasionally,No,No,0,Moderate,19,Off-Campus
+S1693,7,27,0,5,1,2,5,2,1,4,5,4,4,1,5,1,3,1,1,1,0,,23,4.7,9.0,0.9,62,9,Neutral,,21,Medical,Male,3.51,1,3,5,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,2,Moderate,18,With Family
+S1694,8,25,0,5,1,2,5,2,1,3,5,4,5,1,4,1,3,2,2,1,0,,17,11.8,8.3,5.1,57,6,Neutral,,28,Business,Female,3.67,1,3,0,Poor,Moderate,Good,Moderate,In a Relationship,Never,Never,Yes,No,2,High,21,On-Campus
+S1695,0,25,0,8,1,2,4,2,1,3,4,5,5,2,4,1,3,2,1,1,0,,22,11.5,4.6,5.1,10,1,Stressed,,21,Engineering,Male,3.62,1,3,0,Poor,Low,Average,High,In a Relationship,Never,Never,Yes,No,2,Low,27,With Family
+S1696,13,21,0,14,2,1,2,4,3,3,2,2,3,2,3,3,3,2,3,3,1,,21,2.8,8.3,5.2,48,2,Happy,,30,Computer Science,Male,3.58,0,3,3,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,2,High,22,Off-Campus
+S1697,1,30,0,0,1,2,4,1,1,3,5,4,4,2,4,1,3,2,1,1,0,,23,8.4,5.2,0.4,78,6,Neutral,,26,Law,Female,3.65,0,5,4,Poor,Low,Average,Moderate,Married,Never,Never,Yes,No,1,Moderate,22,With Family
+S1698,18,8,1,19,3,3,1,3,4,1,1,1,2,3,2,4,1,4,4,5,2,,18,5.6,7.6,2.9,36,6,Neutral,,20,Business,Male,3.99,2,2,0,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,1,High,23,Off-Campus
+S1699,15,13,1,22,5,3,1,3,4,1,1,1,2,4,1,4,1,5,4,4,2,,22,10.0,8.1,1.4,59,7,Happy,,18,Law,Male,3.37,5,1,3,Poor,Moderate,Average,High,In a Relationship,Frequently,Frequently,No,No,2,Low,27,Off-Campus
+S1700,19,1,1,17,4,3,1,4,3,1,1,1,1,5,2,5,1,5,4,5,2,,18,8.8,7.8,5.8,80,10,Happy,,20,Law,Female,3.51,4,0,3,Good,Moderate,Average,High,Single,Never,Never,No,No,1,Low,24,On-Campus
+S1701,2,29,0,7,1,2,5,2,2,4,4,4,5,1,4,1,3,1,2,1,0,,24,11.5,7.4,0.3,18,10,Stressed,,23,Business,Male,3.74,4,4,0,Good,Low,Average,High,In a Relationship,Frequently,Never,No,No,2,High,24,Off-Campus
+S1702,7,27,0,7,1,2,4,2,2,4,5,4,5,1,5,1,3,1,1,1,0,,20,3.4,6.4,1.3,21,1,Happy,,19,Law,Female,3.63,0,0,5,Poor,Moderate,Average,High,In a Relationship,Never,Occasionally,No,No,3,Moderate,23,Off-Campus
+S1703,10,21,1,13,3,1,2,2,3,3,2,2,2,2,3,2,2,2,3,2,1,,25,8.1,6.9,3.9,81,3,Stressed,,25,Medical,Female,3.73,5,0,0,Good,High,Poor,Moderate,Single,Never,Occasionally,No,No,0,Moderate,19,On-Campus
+S1704,8,30,0,8,1,2,5,2,1,3,4,5,5,1,4,1,3,2,1,1,0,,24,9.8,5.3,2.4,43,4,Stressed,,18,Engineering,Female,3.68,2,3,5,Good,Low,Poor,Moderate,Single,Never,Occasionally,No,No,2,Moderate,22,On-Campus
+S1705,7,27,0,8,1,2,5,1,1,4,5,5,5,2,5,1,3,1,1,1,0,,23,2.3,6.1,1.4,53,6,Neutral,,22,Law,Female,3.22,3,2,5,Poor,Low,Average,High,Single,Never,Occasionally,No,No,3,High,22,On-Campus
+S1706,18,7,1,18,3,3,1,3,4,1,1,1,1,4,1,4,1,4,5,5,2,,23,2.7,6.3,2.8,80,6,Happy,,32,Medical,Female,2.95,3,2,3,Good,Low,Average,High,Single,Frequently,Never,Yes,No,4,Moderate,26,With Family
+S1707,1,27,0,4,1,2,5,2,2,4,5,5,5,1,5,1,3,2,2,1,0,,22,9.8,7.2,4.8,78,8,Happy,,28,Medical,Female,3.78,2,3,2,Average,Moderate,Good,High,In a Relationship,Frequently,Never,No,No,5,Moderate,22,Off-Campus
+S1708,21,7,1,17,3,3,1,4,3,1,1,1,1,3,1,4,1,4,4,5,2,,25,5.7,8.4,2.7,73,8,Neutral,,18,Law,Female,3.24,4,0,4,Good,Low,Average,High,Married,Never,Occasionally,Yes,No,3,High,15,On-Campus
+S1709,20,11,1,27,4,3,1,5,4,2,2,1,2,4,2,4,1,4,5,4,2,,20,5.8,4.5,5.1,51,1,Neutral,,18,Business,Female,3.65,1,0,0,Average,Moderate,Average,Moderate,Married,Never,Occasionally,No,No,0,Moderate,20,With Family
+S1710,7,2,1,1,5,3,5,4,0,1,3,3,2,2,3,2,0,5,2,4,2,,21,7.7,6.6,2.7,9,3,Happy,,21,Medical,Male,3.9,4,4,0,Good,Moderate,Good,Moderate,Single,Never,Occasionally,Yes,Yes,0,High,19,With Family
+S1711,15,1,1,24,4,3,1,5,3,1,2,2,2,5,2,5,1,5,4,5,2,,19,8.1,5.4,0.7,10,8,Stressed,,22,Computer Science,Female,3.87,2,5,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,2,Low,25,Off-Campus
+S1712,9,25,1,9,2,1,2,4,3,2,3,2,3,2,2,3,3,3,3,3,1,,17,8.8,8.7,3.0,20,3,Happy,,24,Law,Male,3.17,0,2,3,Poor,Low,Average,Moderate,Single,Never,Never,No,No,2,Moderate,29,On-Campus
+S1713,19,15,1,18,5,3,1,5,3,2,1,2,2,5,1,5,1,4,5,5,2,,20,11.5,5.8,3.9,43,8,Happy,,27,Law,Male,3.52,5,4,5,Average,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,1,Low,18,With Family
+S1714,17,0,1,17,3,3,1,5,4,1,1,1,2,5,1,5,1,4,4,4,2,,23,5.7,8.8,0.6,29,9,Neutral,,27,Law,Female,3.37,4,5,4,Good,High,Average,Moderate,Single,Never,Never,No,No,1,Moderate,21,Off-Campus
+S1715,1,2,0,10,1,3,3,0,3,4,5,0,4,1,0,4,1,3,5,1,2,,19,9.6,5.6,2.5,40,6,Stressed,,25,Engineering,Male,3.93,2,2,3,Average,Low,Good,Moderate,Single,Never,Never,Yes,No,0,Moderate,23,On-Campus
+S1716,19,0,1,15,5,3,1,4,4,2,1,2,2,5,1,5,1,5,4,5,2,,23,7.7,4.0,3.3,40,8,Neutral,,26,Computer Science,Male,3.49,2,4,2,Good,Low,Average,Moderate,Married,Never,Occasionally,No,No,4,Moderate,21,Off-Campus
+S1717,21,0,1,17,4,3,1,3,4,1,2,2,1,4,2,5,1,5,4,5,2,,25,7.3,7.9,0.0,83,7,Happy,,18,Others,Female,3.25,3,4,3,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,5,Low,21,Off-Campus
+S1718,12,24,1,13,2,1,2,4,3,2,2,3,2,2,3,2,3,2,3,3,1,,25,6.0,7.7,0.5,37,1,Stressed,,23,Engineering,Male,3.56,5,1,4,Average,Moderate,Average,Moderate,Single,Never,Frequently,No,No,3,High,29,Off-Campus
+S1719,13,19,0,9,2,1,2,4,2,3,2,3,2,3,3,2,2,2,3,3,1,,22,8.5,7.7,3.6,90,9,Neutral,,23,Business,Female,3.31,4,5,3,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,3,Low,22,Off-Campus
+S1720,16,9,1,23,4,3,1,3,4,2,2,1,2,5,2,4,1,5,4,4,2,,21,4.5,6.3,3.7,34,5,Stressed,,19,Medical,Female,4.0,4,1,3,Average,Moderate,Average,High,Single,Never,Never,No,No,4,Moderate,19,With Family
+S1721,20,3,1,22,4,3,1,4,3,1,1,1,1,3,1,5,1,5,5,5,2,,16,3.1,7.3,1.8,77,10,Stressed,,18,Law,Female,3.87,3,2,3,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,5,Moderate,18,Off-Campus
+S1722,17,14,1,21,4,3,1,5,5,2,1,2,2,4,1,4,1,4,5,4,2,,23,9.4,5.8,3.1,82,6,Stressed,,21,Medical,Female,3.46,5,2,1,Good,Moderate,Average,High,Single,Never,Occasionally,No,No,0,High,23,On-Campus
+S1723,1,29,0,4,1,2,5,1,2,3,4,5,4,2,4,1,3,1,2,1,0,,21,7.0,4.3,1.2,50,9,Happy,,20,Engineering,Male,3.69,4,2,4,Average,High,Average,Moderate,Married,Frequently,Never,No,No,0,High,28,With Family
+S1724,12,17,1,9,3,1,3,4,3,2,2,3,2,3,3,3,3,3,3,2,1,,18,5.9,6.7,4.0,34,9,Neutral,,20,Law,Male,3.26,1,3,4,Good,Moderate,Average,Moderate,Single,Never,Never,No,Yes,5,Moderate,15,On-Campus
+S1725,13,15,0,13,3,1,3,4,3,2,3,2,3,3,3,2,2,3,3,3,1,,23,7.6,5.1,5.7,56,1,Neutral,,25,Medical,Female,3.14,0,3,5,Good,Low,Poor,High,Married,Occasionally,Never,Yes,No,2,High,21,On-Campus
+S1726,15,6,1,21,5,3,1,5,4,2,2,2,2,3,1,5,1,4,4,4,2,,19,4.6,6.1,2.2,46,4,Happy,,21,Medical,Female,3.74,4,4,5,Good,High,Average,High,Married,Frequently,Never,Yes,No,3,Moderate,15,Off-Campus
+S1727,19,8,1,15,3,3,1,3,5,2,2,2,1,5,2,5,1,5,5,5,2,,21,4.6,5.1,0.3,75,10,Stressed,,26,Law,Male,3.24,2,5,4,Good,Moderate,Poor,Moderate,In a Relationship,Never,Frequently,No,No,0,Low,15,On-Campus
+S1728,18,8,1,25,3,3,1,5,3,1,2,2,1,5,2,5,1,5,5,4,2,,20,6.5,5.3,1.3,66,6,Neutral,,26,Medical,Female,3.51,2,2,3,Good,Moderate,Average,Moderate,Single,Never,Frequently,No,No,0,Moderate,27,With Family
+S1729,3,28,0,5,1,2,5,2,2,3,5,5,5,2,4,1,3,1,2,1,0,,21,12.0,8.1,2.7,57,6,Happy,,22,Engineering,Male,3.52,4,4,1,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,3,Moderate,27,Off-Campus
+S1730,4,26,0,8,1,2,5,1,2,3,5,5,4,1,4,1,3,1,2,1,0,,20,4.9,5.7,3.4,52,2,Neutral,,24,Business,Male,3.47,0,0,2,Average,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,2,High,22,Off-Campus
+S1731,3,30,0,3,1,2,5,1,2,3,4,4,4,2,5,1,3,2,1,1,0,,25,11.2,6.9,3.7,21,3,Stressed,,21,Others,Female,3.68,4,1,0,Poor,Low,Poor,Moderate,Single,Never,Never,No,No,2,Moderate,26,Off-Campus
+S1732,18,13,1,23,5,3,1,3,3,2,1,2,1,4,2,5,1,4,5,4,2,,20,6.9,6.8,2.8,23,5,Neutral,,21,Business,Female,3.87,1,2,0,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Moderate,23,On-Campus
+S1733,9,15,0,14,3,1,3,4,2,2,2,2,2,3,2,3,2,3,2,3,1,,24,3.2,6.4,3.9,2,1,Stressed,,20,Computer Science,Female,3.14,2,2,5,Good,Low,Good,Moderate,Single,Occasionally,Never,Yes,No,0,Moderate,20,With Family
+S1734,14,20,1,10,3,1,3,4,2,2,3,2,2,3,2,2,3,2,3,3,1,,16,10.5,5.7,4.3,16,6,Stressed,,31,Computer Science,Male,3.36,3,5,0,Good,Low,Poor,Moderate,Married,Never,Occasionally,No,No,4,Moderate,17,Off-Campus
+S1735,0,27,0,1,1,2,4,1,2,4,4,5,5,2,5,1,3,1,2,1,0,,24,6.5,7.4,0.7,30,7,Happy,,27,Engineering,Male,3.28,2,3,5,Good,High,Good,High,In a Relationship,Never,Never,No,No,0,Moderate,18,Off-Campus
+S1736,18,9,1,20,5,3,1,4,4,1,2,2,2,4,1,5,1,5,4,5,2,,19,11.0,4.2,4.6,84,9,Stressed,,21,Law,Female,3.19,3,0,2,Good,Low,Average,High,Married,Never,Occasionally,No,No,2,High,19,With Family
+S1737,15,0,1,25,5,3,1,5,4,2,2,2,2,5,2,5,1,4,5,4,2,,17,6.5,4.5,1.3,32,3,Happy,,18,Computer Science,Female,3.26,0,3,0,Average,Moderate,Average,Moderate,Married,Never,Never,No,No,2,Moderate,26,Off-Campus
+S1738,21,6,1,15,5,3,1,4,4,2,2,2,1,5,2,5,1,4,4,4,2,,19,2.9,7.9,2.0,89,10,Neutral,,26,Medical,Female,3.3,5,1,2,Good,High,Average,Moderate,In a Relationship,Never,Never,No,No,2,Low,24,With Family
+S1739,10,19,0,11,3,1,3,4,2,2,2,2,3,3,2,2,3,3,3,3,1,,22,8.8,6.3,5.0,10,10,Stressed,,20,Law,Male,3.82,3,0,4,Average,Low,Average,Moderate,Single,Never,Never,Yes,No,3,High,17,Off-Campus
+S1740,14,22,1,11,2,1,3,2,3,2,3,3,3,2,2,2,2,2,3,3,1,,23,10.5,4.6,5.8,26,7,Neutral,,23,Medical,Male,3.68,2,1,0,Good,High,Average,High,Single,Never,Occasionally,No,No,1,Moderate,20,On-Campus
+S1741,6,29,0,3,1,2,5,1,1,3,4,4,5,1,5,1,3,2,1,1,0,,24,5.2,8.3,1.8,21,3,Stressed,,22,Medical,Male,3.89,3,0,1,Poor,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,No,5,Low,26,Off-Campus
+S1742,12,28,0,24,1,3,2,4,1,2,1,5,4,0,0,2,0,3,5,2,1,,19,5.5,6.2,3.1,50,10,Happy,,21,Others,Female,2.83,5,3,4,Average,Moderate,Average,High,Single,Never,Never,No,Yes,1,Low,17,With Family
+S1743,21,20,1,22,1,3,1,0,4,2,4,2,3,4,3,1,1,0,4,3,2,,23,2.6,4.0,4.2,13,2,Neutral,,22,Law,Female,3.38,5,2,5,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,0,High,22,Off-Campus
+S1744,3,30,0,2,1,2,5,2,1,4,4,4,4,1,4,1,3,2,2,1,0,,23,7.4,8.8,0.3,12,5,Neutral,,26,Law,Female,3.76,0,1,3,Good,Moderate,Average,High,Single,Never,Never,Yes,No,2,Low,19,On-Campus
+S1745,3,21,1,9,4,3,2,1,0,5,5,4,3,4,3,4,1,4,4,3,0,,23,10.9,5.0,1.0,8,6,Neutral,,26,Others,Male,3.67,3,1,2,Average,High,Good,Low,Single,Never,Never,No,No,4,Low,16,On-Campus
+S1746,12,16,1,10,3,1,3,2,2,2,2,3,2,2,3,2,3,3,3,3,1,,16,10.5,7.4,0.8,60,1,Stressed,,19,Computer Science,Female,3.83,2,4,1,Good,Moderate,Average,High,Married,Never,Never,Yes,No,0,Moderate,23,Off-Campus
+S1747,21,12,1,25,3,3,1,3,5,1,1,2,2,4,2,4,1,5,4,4,2,,17,9.1,4.7,4.3,70,5,Stressed,,21,Computer Science,Male,3.35,1,4,0,Average,Moderate,Poor,High,Married,Never,Never,No,No,1,Moderate,20,On-Campus
+S1748,10,17,1,10,3,1,2,2,3,2,3,3,2,2,3,2,3,2,2,2,1,,20,11.3,7.2,4.3,6,7,Stressed,,29,Computer Science,Male,3.41,3,5,4,Average,Low,Average,Moderate,Single,Never,Occasionally,Yes,No,4,High,28,Off-Campus
+S1749,6,27,0,8,1,2,4,2,1,3,4,4,4,1,5,1,3,2,2,1,0,,19,8.4,4.8,0.6,3,2,Stressed,,23,Computer Science,Male,3.77,0,5,4,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,3,Low,15,On-Campus
+S1750,16,15,0,14,4,3,4,5,1,2,2,5,3,1,1,1,1,5,2,2,2,,22,9.9,8.7,3.7,50,8,Happy,,26,Law,Male,3.63,0,1,4,Average,Moderate,Average,High,Single,Never,Occasionally,Yes,No,0,Low,15,Off-Campus
+S1751,6,5,0,19,3,3,0,2,3,1,0,5,4,2,0,4,0,5,3,5,0,,19,7.1,5.4,1.1,67,4,Stressed,,25,Others,Male,3.99,3,4,4,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,0,Low,25,Off-Campus
+S1752,18,24,0,2,2,3,0,1,3,5,1,4,2,0,0,3,1,3,2,3,1,,20,3.2,7.3,5.6,10,6,Happy,,23,Medical,Female,3.15,0,3,1,Good,Low,Average,Moderate,Single,Occasionally,Never,No,No,4,Low,21,Off-Campus
+S1753,2,27,0,2,1,2,5,2,2,4,4,4,5,2,4,1,3,2,2,1,0,,25,4.0,5.3,2.4,13,8,Stressed,,32,Medical,Male,3.58,4,0,2,Average,Low,Average,Low,Single,Occasionally,Frequently,Yes,No,1,Moderate,28,On-Campus
+S1754,21,3,1,25,4,3,1,5,5,1,1,2,2,3,2,4,1,4,4,4,2,,21,3.4,5.9,2.7,33,5,Neutral,,20,Medical,Female,3.0,3,3,4,Average,High,Average,Moderate,Married,Never,Occasionally,No,No,3,High,19,Off-Campus
+S1755,19,14,1,24,3,3,1,3,4,2,2,2,2,3,1,5,1,4,5,5,2,,23,9.9,8.5,4.7,79,4,Stressed,,25,Law,Female,3.48,3,3,5,Average,Low,Average,Moderate,Single,Occasionally,Never,Yes,No,4,Low,19,Off-Campus
+S1756,12,25,1,9,2,1,2,2,3,2,3,2,2,3,2,2,3,3,3,2,1,,24,2.3,4.8,4.3,19,9,Happy,,27,Medical,Female,3.81,1,2,5,Average,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,2,Moderate,19,On-Campus
+S1757,17,6,1,25,3,3,1,3,5,1,2,1,2,4,2,5,1,5,4,4,2,,24,7.5,6.0,0.6,10,5,Stressed,,28,Engineering,Female,3.9,0,1,3,Good,High,Average,High,Single,Never,Never,Yes,No,2,Low,20,With Family
+S1758,3,25,0,0,1,2,4,2,2,4,5,4,4,2,4,1,3,1,2,1,0,,21,5.7,5.5,2.5,83,3,Stressed,,21,Others,Male,3.04,2,2,0,Good,Low,Poor,Moderate,Single,Occasionally,Occasionally,No,No,3,Low,27,With Family
+S1759,10,20,0,13,2,1,2,2,2,3,3,3,3,3,2,2,2,2,2,3,1,,22,10.0,7.5,5.6,49,2,Neutral,,18,Business,Female,3.11,0,3,5,Good,Moderate,Poor,Moderate,Single,Never,Occasionally,Yes,No,0,Moderate,29,On-Campus
+S1760,5,29,0,7,1,2,4,2,1,3,4,5,5,2,4,1,3,2,1,1,0,,24,7.5,5.2,5.0,39,6,Happy,,23,Engineering,Male,3.54,3,5,3,Average,Moderate,Good,Moderate,Married,Never,Occasionally,No,Yes,4,Moderate,21,On-Campus
+S1761,11,17,0,14,3,1,3,4,2,2,3,3,3,3,2,3,2,2,2,2,1,,21,8.1,7.3,3.5,29,1,Happy,,25,Engineering,Male,2.89,1,0,1,Good,High,Good,Moderate,Single,Never,Occasionally,No,Yes,0,Low,15,On-Campus
+S1762,20,0,1,18,4,3,1,4,4,2,2,2,2,4,1,4,1,5,5,5,2,,21,2.9,7.5,4.6,31,4,Neutral,,19,Law,Male,3.19,3,2,4,Poor,Moderate,Poor,Moderate,Single,Never,Occasionally,No,No,1,High,25,Off-Campus
+S1763,13,18,0,9,3,1,2,4,3,3,3,3,2,2,3,2,3,2,2,2,1,,23,5.1,4.0,2.7,36,2,Neutral,,21,Engineering,Female,3.66,5,0,3,Average,Low,Poor,Moderate,In a Relationship,Never,Never,No,No,2,High,19,Off-Campus
+S1764,13,25,1,10,2,1,2,4,3,2,3,2,2,2,3,2,2,3,3,2,1,,20,12.0,6.4,4.0,56,8,Neutral,,29,Others,Female,3.51,1,2,2,Poor,Moderate,Average,High,Married,Never,Never,No,No,5,Moderate,16,Off-Campus
+S1765,9,17,0,14,2,1,3,4,3,2,3,3,3,3,3,3,3,3,3,3,1,,20,9.2,4.7,5.7,80,9,Stressed,,22,Computer Science,Male,3.56,3,0,0,Good,High,Poor,High,In a Relationship,Never,Never,No,No,0,Moderate,18,Off-Campus
+S1766,2,25,0,2,1,2,4,2,1,4,5,5,5,1,4,1,3,1,2,1,0,,20,7.3,5.1,0.8,16,1,Happy,,21,Engineering,Male,3.84,4,5,2,Average,Moderate,Good,High,Married,Frequently,Frequently,Yes,No,2,Moderate,24,On-Campus
+S1767,21,4,1,24,3,3,1,4,3,1,2,2,1,5,1,5,1,5,5,5,2,,19,9.7,7.4,3.0,16,8,Neutral,,20,Law,Male,3.15,4,3,4,Good,Low,Poor,High,Married,Never,Frequently,No,No,3,Low,18,On-Campus
+S1768,0,27,0,22,4,3,3,2,4,3,5,5,5,5,2,0,1,2,5,0,2,,17,10.2,4.0,3.2,67,9,Neutral,,18,Medical,Female,3.78,4,2,4,Good,Low,Poor,Low,Single,Never,Never,No,No,0,Low,18,Off-Campus
+S1769,20,6,1,21,5,3,1,4,4,1,1,2,2,3,1,5,1,5,4,4,2,,19,2.7,7.5,0.3,21,3,Happy,,27,Business,Female,3.41,1,1,2,Good,Moderate,Good,High,Married,Never,Never,Yes,No,5,Low,27,On-Campus
+S1770,8,28,0,6,1,2,4,1,2,3,4,5,5,1,5,1,3,1,1,1,0,,21,11.7,8.1,5.6,3,4,Stressed,,26,Computer Science,Female,3.68,3,4,3,Good,High,Poor,Low,Single,Occasionally,Frequently,No,No,3,Low,21,With Family
+S1771,14,25,0,11,2,1,3,2,3,3,3,2,2,2,2,3,3,2,2,2,1,,17,8.4,8.9,5.0,4,6,Stressed,,18,Others,Male,3.45,0,0,2,Average,Moderate,Average,High,In a Relationship,Never,Never,No,No,1,Low,20,On-Campus
+S1772,1,25,0,6,1,2,5,2,1,4,4,5,4,2,4,1,3,2,2,1,0,,24,6.5,6.1,2.9,84,8,Stressed,,26,Others,Male,3.75,0,1,1,Good,Low,Average,Moderate,Single,Never,Never,No,No,2,Low,27,Off-Campus
+S1773,18,1,1,20,4,3,1,5,5,2,2,1,1,5,2,5,1,4,4,5,2,,18,8.8,4.7,3.0,45,9,Happy,,24,Computer Science,Male,3.7,1,4,1,Good,High,Average,High,Single,Never,Frequently,Yes,No,1,Low,15,Off-Campus
+S1774,0,28,0,4,1,2,4,2,1,3,4,4,4,1,4,1,3,2,2,1,0,,19,5.4,4.4,5.5,41,5,Stressed,,22,Engineering,Female,3.12,0,4,4,Average,Moderate,Average,Moderate,Married,Never,Never,No,No,0,Moderate,23,On-Campus
+S1775,14,30,0,10,0,3,0,5,4,1,3,3,5,0,3,0,0,1,4,5,2,,19,10.8,5.9,1.1,60,6,Stressed,,28,Medical,Female,3.86,3,4,3,Good,Low,Average,High,Single,Never,Never,Yes,No,4,Moderate,24,With Family
+S1776,3,25,0,8,1,2,4,2,1,4,5,4,4,2,5,1,3,1,1,1,0,,23,9.8,7.7,3.5,59,3,Happy,,24,Computer Science,Male,3.28,0,3,0,Poor,Low,Poor,Low,Single,Never,Never,No,No,1,Low,17,Off-Campus
+S1777,16,10,1,18,5,3,1,3,3,1,2,2,2,4,1,5,1,5,4,4,2,,20,8.4,4.5,4.4,69,2,Happy,,20,Medical,Female,3.8,5,1,1,Average,Low,Average,Moderate,Single,Never,Never,No,No,5,Low,18,Off-Campus
+S1778,15,8,1,23,4,3,1,5,4,1,2,2,1,5,2,5,1,5,4,4,2,,25,3.8,5.6,0.8,34,9,Neutral,,18,Computer Science,Female,3.66,2,5,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,3,Moderate,20,With Family
+S1779,2,10,0,3,1,3,2,5,5,2,2,1,2,1,2,4,0,4,5,1,0,,24,11.7,8.4,2.3,70,3,Happy,,18,Computer Science,Female,3.4,5,5,0,Good,Moderate,Poor,High,Married,Occasionally,Never,No,No,1,Moderate,20,With Family
+S1780,19,3,1,20,4,3,1,4,5,1,2,1,1,3,2,5,1,4,5,5,2,,25,6.3,4.7,3.6,56,4,Stressed,,21,Medical,Female,3.42,4,3,0,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,1,Low,23,With Family
+S1781,2,25,0,2,1,2,4,2,2,3,5,5,5,2,5,1,3,2,1,1,0,,20,11.1,7.9,5.3,17,1,Happy,,27,Computer Science,Female,4.0,1,2,5,Good,High,Average,Moderate,Single,Never,Occasionally,No,No,5,Moderate,15,Off-Campus
+S1782,14,17,0,11,3,1,3,2,3,3,2,3,3,2,3,3,3,2,2,3,1,,17,2.6,7.8,3.0,89,8,Stressed,,20,Law,Female,3.06,5,1,0,Average,Moderate,Average,High,Single,Never,Frequently,No,No,0,High,23,On-Campus
+S1783,2,30,0,5,1,2,4,2,2,3,4,5,4,1,5,1,3,1,1,1,0,,19,3.2,4.7,2.3,69,7,Neutral,,20,Medical,Female,3.65,4,3,2,Average,High,Good,High,In a Relationship,Never,Never,No,No,4,Moderate,23,On-Campus
+S1784,7,15,1,3,5,3,1,1,0,4,3,1,0,5,2,3,1,4,0,1,0,,20,3.5,9.0,5.9,22,9,Stressed,,30,Business,Male,3.55,2,2,0,Good,Moderate,Average,Low,Single,Never,Occasionally,Yes,No,5,High,26,On-Campus
+S1785,21,3,1,27,5,3,1,5,3,1,1,2,1,5,1,4,1,5,4,5,2,,19,3.6,4.7,5.5,75,2,Stressed,,24,Medical,Male,3.78,3,2,2,Good,Moderate,Poor,Low,Single,Never,Occasionally,No,No,1,Moderate,28,With Family
+S1786,13,24,0,13,2,1,3,4,2,3,3,3,2,3,2,2,3,2,3,2,1,,21,5.2,6.7,4.6,76,1,Stressed,,22,Medical,Female,4.0,5,1,0,Good,Moderate,Good,High,In a Relationship,Never,Never,Yes,Yes,2,Moderate,28,Off-Campus
+S1787,8,26,0,2,1,2,5,2,2,4,5,4,5,2,5,1,3,2,2,1,0,,18,9.1,4.0,1.6,58,5,Happy,,20,Medical,Male,3.53,4,2,5,Average,Low,Average,High,Single,Never,Never,Yes,No,0,Moderate,23,With Family
+S1788,10,24,0,12,2,1,2,2,2,3,2,3,3,2,2,2,2,3,2,3,1,,20,5.5,7.3,5.8,80,1,Stressed,,25,Medical,Male,3.61,4,3,2,Average,Low,Average,High,Married,Never,Occasionally,No,No,5,Moderate,22,With Family
+S1789,15,1,1,18,3,3,1,5,5,1,1,1,2,4,1,4,1,4,5,5,2,,16,11.4,6.2,5.8,81,10,Happy,,20,Engineering,Female,3.42,3,3,1,Good,Moderate,Average,High,Single,Occasionally,Never,No,Yes,4,Low,20,On-Campus
+S1790,19,13,1,26,3,3,1,5,5,2,1,1,2,5,2,4,1,4,4,4,2,,24,10.9,7.6,2.7,72,2,Neutral,,27,Medical,Male,3.45,1,0,5,Average,Moderate,Average,High,Single,Never,Never,No,No,1,Moderate,21,With Family
+S1791,19,14,0,23,5,3,5,1,3,5,1,4,1,5,2,2,0,2,5,2,2,,18,10.5,7.1,0.8,55,6,Neutral,,18,Law,Female,3.35,2,0,5,Poor,Moderate,Average,High,Single,Never,Frequently,No,No,1,Moderate,17,On-Campus
+S1792,17,2,1,20,3,3,1,5,4,1,2,1,1,3,1,4,1,5,5,5,2,,20,4.5,4.8,2.5,67,8,Neutral,,24,Law,Female,3.86,4,3,4,Poor,Low,Average,High,In a Relationship,Never,Frequently,No,No,4,Moderate,22,Off-Campus
+S1793,9,21,1,12,2,1,2,4,3,3,3,3,2,2,3,2,2,3,2,2,1,,16,8.4,6.1,4.2,81,1,Stressed,,26,Engineering,Female,3.9,2,3,5,Average,Moderate,Average,Moderate,Married,Never,Never,No,Yes,1,Low,18,Off-Campus
+S1794,18,8,1,25,4,3,1,3,1,1,3,5,1,2,2,1,1,4,3,2,0,,16,7.5,7.4,4.5,81,2,Stressed,,18,Engineering,Male,3.52,1,3,3,Poor,Moderate,Good,Moderate,Single,Frequently,Never,Yes,No,3,Moderate,18,On-Campus
+S1795,13,17,1,10,2,1,2,4,2,3,3,2,2,2,3,3,2,2,2,3,1,,24,3.3,8.3,1.8,68,9,Neutral,,20,Engineering,Female,2.98,2,1,3,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,2,High,20,With Family
+S1796,8,30,0,7,1,2,5,1,2,3,4,4,5,2,4,1,3,2,1,1,0,,20,5.0,4.4,4.2,39,5,Neutral,,31,Medical,Male,3.8,2,4,4,Average,Moderate,Average,High,Single,Never,Never,Yes,No,5,Moderate,28,With Family
+S1797,19,6,1,24,4,3,1,3,4,2,1,1,1,3,1,4,1,4,4,5,2,,18,7.3,4.5,5.2,44,1,Happy,,23,Medical,Male,3.65,3,3,0,Good,Moderate,Poor,Moderate,In a Relationship,Never,Never,Yes,No,3,Moderate,22,On-Campus
+S1798,10,16,1,12,2,1,2,2,3,3,3,2,2,2,3,2,2,3,2,3,1,,23,7.0,7.8,4.3,61,10,Happy,,35,Business,Male,3.89,3,0,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,0,Moderate,24,Off-Campus
+S1799,19,1,1,27,4,3,1,3,5,1,1,1,2,4,2,4,1,4,5,4,2,,17,3.7,6.9,5.6,69,5,Neutral,,33,Law,Female,3.35,0,0,5,Poor,High,Good,Moderate,In a Relationship,Never,Never,No,No,5,Low,28,On-Campus
+S1800,19,12,0,13,0,3,2,3,0,3,2,3,5,5,4,4,1,0,5,0,0,,16,11.4,5.9,3.8,29,4,Neutral,,21,Business,Female,3.28,5,3,5,Poor,Moderate,Average,Moderate,Single,Never,Never,No,No,3,Low,27,With Family
+S1801,13,6,0,26,1,3,0,4,0,3,3,5,1,1,1,5,1,0,5,5,0,,25,3.5,8.8,1.2,11,6,Neutral,,23,Business,Male,3.72,0,0,1,Good,Moderate,Poor,Moderate,Single,Never,Never,Yes,No,1,High,16,On-Campus
+S1802,4,30,0,7,1,2,4,1,2,4,5,4,4,2,4,1,3,1,2,1,0,,20,8.6,5.6,3.7,56,4,Neutral,,22,Law,Male,3.83,1,1,2,Average,Moderate,Good,Moderate,Single,Never,Occasionally,No,No,2,Moderate,17,On-Campus
+S1803,11,21,0,12,3,1,2,4,3,2,2,3,3,3,3,2,2,3,2,3,1,,23,9.2,4.7,1.7,39,4,Stressed,,25,Computer Science,Male,3.62,0,2,0,Good,Low,Average,Low,In a Relationship,Never,Occasionally,Yes,No,5,Low,18,Off-Campus
+S1804,20,10,1,17,4,3,1,4,4,2,2,1,2,4,1,5,1,4,5,5,2,,23,8.1,5.4,2.1,46,5,Stressed,,25,Business,Male,3.68,3,5,5,Good,Moderate,Average,High,Married,Never,Occasionally,No,No,1,Low,23,Off-Campus
+S1805,21,13,1,18,3,3,1,3,5,1,1,2,1,4,2,5,1,4,5,4,2,,23,10.4,4.4,4.0,52,5,Happy,,24,Law,Male,4.0,3,2,4,Average,High,Good,Moderate,Single,Never,Frequently,No,No,0,Moderate,19,With Family
+S1806,16,1,1,25,5,3,1,3,3,2,2,2,1,5,1,5,1,5,4,5,2,,21,7.6,6.8,5.9,33,9,Neutral,,18,Medical,Female,3.48,3,1,1,Average,Low,Average,Moderate,Married,Never,Never,Yes,No,3,Moderate,19,With Family
+S1807,3,28,0,0,1,2,4,1,1,4,5,5,5,1,5,1,3,1,2,1,0,,18,10.3,7.0,3.9,19,6,Stressed,,26,Business,Male,3.41,2,3,4,Average,Moderate,Poor,Low,Married,Never,Never,Yes,No,2,Moderate,26,Off-Campus
+S1808,18,10,1,18,5,3,1,4,5,1,1,2,2,5,2,4,1,4,5,5,2,,16,2.3,7.0,5.7,38,8,Stressed,,20,Engineering,Male,3.57,2,3,0,Good,Moderate,Good,High,In a Relationship,Never,Occasionally,No,No,4,Moderate,21,With Family
+S1809,18,12,0,0,5,3,5,0,4,0,3,1,4,2,3,4,0,0,0,0,2,,20,2.5,7.9,3.0,1,2,Stressed,,19,Others,Female,3.92,5,1,3,Average,Moderate,Poor,High,Single,Never,Never,No,No,1,Moderate,18,On-Campus
+S1810,12,24,1,14,3,1,3,2,3,3,2,2,2,3,2,3,3,3,2,2,1,,23,8.4,7.5,4.2,0,5,Stressed,,21,Law,Female,3.39,3,4,1,Average,Moderate,Average,Moderate,Single,Never,Frequently,No,No,0,Low,16,On-Campus
+S1811,10,24,0,15,5,3,0,4,3,2,5,2,2,0,3,4,1,1,1,2,2,,17,7.8,8.2,1.9,66,3,Neutral,,18,Others,Male,2.97,1,3,1,Average,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,4,Low,17,With Family
+S1812,9,16,1,14,3,1,3,2,3,3,3,2,2,3,3,2,2,2,2,3,1,,17,8.5,7.3,0.7,17,3,Neutral,,31,Computer Science,Female,3.55,0,3,3,Good,High,Poor,Moderate,In a Relationship,Frequently,Never,No,No,3,Moderate,22,On-Campus
+S1813,5,25,0,2,1,2,5,1,2,3,4,5,4,2,5,1,3,1,2,1,0,,22,9.7,5.5,2.1,44,5,Stressed,,19,Law,Male,3.5,0,4,0,Good,Moderate,Good,Moderate,Single,Frequently,Never,No,No,4,Low,20,Off-Campus
+S1814,11,23,0,14,2,1,2,4,2,3,3,3,3,2,2,3,3,2,3,3,1,,23,6.2,6.6,2.9,36,2,Neutral,,18,Medical,Male,3.51,4,1,0,Good,High,Average,Low,Single,Frequently,Frequently,No,No,1,High,28,On-Campus
+S1815,8,6,0,10,5,3,2,2,4,5,4,0,3,2,3,4,0,4,3,4,0,,17,8.4,6.5,3.4,60,1,Stressed,,25,Medical,Male,3.31,3,2,1,Good,Low,Average,Moderate,In a Relationship,Never,Never,Yes,No,4,Low,19,Off-Campus
+S1816,17,28,1,18,2,3,4,4,1,3,1,4,5,4,0,4,0,3,1,5,1,,25,7.0,7.7,4.0,68,10,Stressed,,25,Law,Male,3.78,5,1,5,Average,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,3,Low,29,With Family
+S1817,8,28,0,2,1,2,5,1,2,3,4,5,5,2,5,1,3,1,2,1,0,,16,8.3,5.5,2.5,1,9,Happy,,20,Law,Female,3.34,0,2,5,Good,Low,Average,Moderate,Single,Never,Never,No,No,4,Low,17,On-Campus
+S1818,13,16,1,13,3,1,2,4,3,2,2,3,3,2,3,3,3,3,2,2,1,,18,4.9,4.3,4.5,88,9,Happy,,24,Law,Female,4.0,4,3,4,Good,High,Average,High,Married,Never,Never,No,No,0,Moderate,16,Off-Campus
+S1819,16,8,1,21,5,3,1,5,4,1,2,2,1,4,2,5,1,5,4,4,2,,18,11.6,8.5,5.0,62,2,Neutral,,18,Others,Male,3.78,2,0,2,Poor,Low,Average,High,In a Relationship,Never,Never,Yes,No,4,High,23,On-Campus
+S1820,13,16,1,11,2,1,3,2,2,3,3,2,3,2,3,3,2,3,2,3,1,,25,6.8,8.8,1.7,61,4,Happy,,26,Medical,Male,3.94,1,3,0,Average,Moderate,Average,Moderate,Single,Never,Occasionally,No,No,3,Low,19,With Family
+S1821,21,28,0,20,0,3,0,0,5,4,4,4,2,4,2,0,0,5,0,5,1,,20,10.0,6.5,5.1,38,9,Happy,,30,Computer Science,Female,3.23,5,5,1,Poor,Low,Average,High,In a Relationship,Occasionally,Never,No,No,0,Low,15,On-Campus
+S1822,12,19,0,12,3,1,2,2,2,2,3,2,2,3,2,2,2,3,3,2,1,,17,8.8,4.6,4.8,1,6,Neutral,,26,Business,Female,3.33,0,3,2,Good,Moderate,Poor,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,28,With Family
+S1823,14,25,1,12,3,1,2,4,2,2,2,2,2,3,2,3,3,2,3,3,1,,19,5.0,6.5,3.1,55,9,Happy,,20,Engineering,Male,3.24,0,4,1,Good,Low,Average,High,In a Relationship,Occasionally,Occasionally,No,No,5,Moderate,29,On-Campus
+S1824,14,21,0,14,3,1,2,2,2,2,2,2,2,3,2,3,3,2,2,3,1,,17,2.7,7.0,0.2,37,6,Neutral,,20,Computer Science,Male,3.45,2,4,1,Good,Moderate,Average,Moderate,Single,Never,Never,Yes,No,0,Moderate,24,Off-Campus
+S1825,6,20,0,16,5,3,1,2,5,5,0,0,4,0,0,0,1,4,2,2,2,,24,2.6,6.6,0.9,76,5,Happy,,25,Medical,Female,3.35,4,0,4,Poor,Low,Average,Moderate,Single,Never,Occasionally,No,No,4,Moderate,26,On-Campus
+S1826,18,5,1,24,4,3,2,3,3,3,3,5,3,4,2,5,1,1,1,2,2,,22,6.4,8.9,4.0,29,3,Happy,,23,Law,Female,3.72,0,4,5,Good,High,Poor,Moderate,Married,Never,Never,No,No,5,Moderate,27,On-Campus
+S1827,14,18,0,13,3,1,2,2,2,3,2,2,3,2,3,3,3,2,2,3,1,,25,6.8,8.9,1.2,0,5,Happy,,21,Medical,Male,3.33,5,0,0,Average,Moderate,Average,High,In a Relationship,Never,Never,Yes,No,1,Low,25,Off-Campus
+S1828,12,25,0,27,1,3,4,0,2,5,5,4,0,3,1,1,1,3,5,0,2,,25,4.0,8.7,4.5,70,10,Neutral,,24,Law,Male,3.28,2,0,3,Average,Moderate,Average,Moderate,Single,Frequently,Occasionally,No,No,4,Low,29,On-Campus
+S1829,5,27,0,1,1,2,5,1,1,3,4,5,4,1,4,1,3,2,1,1,0,,25,8.1,4.7,1.0,47,4,Happy,,20,Engineering,Female,4.0,1,2,0,Average,Low,Poor,Moderate,Single,Never,Never,No,No,2,Moderate,17,Off-Campus
+S1830,3,28,0,6,1,2,5,1,1,4,4,5,4,2,5,1,3,2,1,1,0,,19,5.1,8.3,1.7,24,3,Stressed,,21,Law,Female,3.45,0,5,2,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,0,Moderate,29,Off-Campus
+S1831,13,24,0,10,2,1,2,2,3,2,2,2,3,3,3,3,3,2,3,3,1,,24,9.2,6.8,1.5,52,2,Happy,,18,Law,Female,3.25,0,0,5,Average,High,Poor,High,In a Relationship,Never,Never,No,No,0,Low,27,Off-Campus
+S1832,15,12,0,20,4,3,0,2,3,1,4,5,5,3,2,5,1,1,4,0,2,,22,9.3,5.8,5.0,71,5,Neutral,,21,Law,Male,3.43,2,1,5,Average,High,Average,Low,Single,Never,Occasionally,Yes,No,5,Moderate,22,With Family
+S1833,6,26,0,8,1,2,5,1,2,3,4,4,4,1,4,1,3,2,2,1,0,,23,10.6,7.4,4.1,55,10,Happy,,29,Others,Male,3.79,1,3,4,Good,Low,Average,High,Single,Never,Never,No,No,3,High,26,Off-Campus
+S1834,18,10,1,17,3,3,1,5,3,1,1,2,1,5,2,4,1,4,5,4,2,,23,11.8,7.8,1.8,50,6,Happy,,23,Engineering,Male,3.37,4,4,0,Poor,Low,Average,Moderate,In a Relationship,Never,Frequently,Yes,No,0,Moderate,27,With Family
+S1835,11,22,1,12,2,1,2,2,3,2,2,2,3,2,3,3,2,3,3,2,1,,20,3.3,8.8,4.5,31,9,Stressed,,28,Law,Female,3.02,0,2,5,Good,Low,Average,High,Single,Never,Never,Yes,No,0,High,23,On-Campus
+S1836,21,4,1,26,4,3,1,5,3,1,1,2,2,4,2,4,1,4,4,5,2,,25,5.7,7.9,0.2,20,8,Stressed,,20,Others,Male,2.7,0,0,4,Good,Moderate,Good,Low,In a Relationship,Never,Occasionally,Yes,No,5,High,25,With Family
+S1837,12,21,1,11,2,1,3,4,3,2,2,2,2,2,2,3,2,3,3,3,1,,22,7.6,4.1,4.9,82,1,Happy,,18,Business,Male,3.3,0,0,3,Average,Moderate,Average,High,In a Relationship,Occasionally,Never,No,No,3,Low,26,With Family
+S1838,8,30,0,7,1,2,4,2,2,4,5,5,4,2,4,1,3,1,1,1,0,,20,5.2,4.3,0.6,49,3,Neutral,,21,Others,Male,3.55,4,0,0,Average,Moderate,Average,Low,In a Relationship,Never,Occasionally,Yes,No,3,Moderate,21,Off-Campus
+S1839,10,21,0,11,3,1,3,2,2,2,3,2,3,3,3,2,3,2,2,2,1,,25,6.7,5.3,5.2,48,1,Neutral,,27,Others,Male,3.43,3,3,3,Good,Moderate,Average,High,In a Relationship,Never,Never,No,No,2,Moderate,18,On-Campus
+S1840,9,22,0,14,3,1,3,4,2,3,2,2,2,2,2,2,2,3,2,3,1,,25,4.7,4.2,4.4,28,8,Stressed,,32,Others,Female,3.09,0,2,3,Average,Moderate,Average,Low,In a Relationship,Never,Never,No,No,5,High,24,Off-Campus
+S1841,20,3,1,26,3,3,1,3,3,1,1,2,1,4,1,5,1,4,5,5,2,,16,4.5,4.3,5.2,33,1,Stressed,,18,Computer Science,Female,3.62,0,3,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,No,Yes,3,Low,23,On-Campus
+S1842,11,16,0,14,3,1,2,2,3,2,3,3,3,2,3,3,3,2,3,3,1,,25,3.0,7.9,4.5,10,2,Happy,,34,Engineering,Male,3.36,3,1,4,Poor,Low,Average,Low,Single,Never,Never,Yes,No,3,Moderate,17,With Family
+S1843,1,25,0,7,1,2,5,1,2,4,4,5,5,2,5,1,3,1,2,1,0,,17,4.9,6.5,3.4,54,7,Neutral,,20,Computer Science,Female,3.59,2,2,4,Average,Moderate,Average,High,Married,Never,Never,Yes,Yes,3,Low,27,Off-Campus
+S1844,15,10,1,17,4,3,1,5,5,1,1,2,1,5,1,4,1,5,4,5,2,,19,5.8,7.1,1.4,80,1,Neutral,,19,Law,Male,3.35,2,5,2,Average,Moderate,Average,Moderate,Single,Never,Never,Yes,No,1,Moderate,16,Off-Campus
+S1845,17,2,1,23,4,3,1,3,3,1,2,2,1,4,2,4,1,4,5,4,2,,19,8.2,6.5,4.7,30,2,Neutral,,21,Medical,Male,3.36,4,2,2,Good,Moderate,Average,Moderate,Married,Never,Occasionally,No,No,1,Moderate,28,On-Campus
+S1846,8,30,0,4,1,2,4,1,1,3,5,4,5,2,4,1,3,2,1,1,0,,20,4.5,6.1,4.8,66,7,Neutral,,24,Computer Science,Male,3.55,2,5,1,Good,Moderate,Good,Low,Single,Never,Never,No,No,2,Low,28,Off-Campus
+S1847,20,4,1,22,5,3,1,5,5,2,2,1,1,5,2,5,1,5,5,4,2,,17,10.7,7.5,1.7,78,7,Stressed,,18,Medical,Female,3.74,3,3,3,Good,Low,Good,Moderate,Single,Never,Frequently,No,No,4,Moderate,19,On-Campus
+S1848,8,7,1,1,0,3,5,4,2,3,5,2,2,0,2,4,0,5,2,0,0,,18,3.6,4.4,4.0,88,3,Stressed,,31,Medical,Male,3.33,0,4,4,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,5,Moderate,26,On-Campus
+S1849,5,26,0,3,1,2,4,1,2,4,5,5,4,2,5,1,3,2,1,1,0,,19,5.3,6.7,5.6,87,10,Happy,,22,Others,Male,3.93,4,3,2,Good,Moderate,Average,High,Married,Frequently,Frequently,No,No,5,High,29,With Family
+S1850,14,16,0,13,2,1,2,4,3,2,2,3,2,3,2,3,2,2,3,3,1,,18,7.8,7.1,2.3,34,10,Neutral,,26,Medical,Female,3.52,3,3,0,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,5,Low,20,With Family
+S1851,10,20,0,13,3,1,2,2,3,3,3,3,3,3,2,3,3,2,3,2,1,,24,5.1,5.4,5.7,36,8,Happy,,35,Engineering,Female,3.03,0,3,1,Good,Low,Average,Low,Married,Never,Never,Yes,No,1,Moderate,29,With Family
+S1852,18,0,1,22,3,3,1,5,5,1,2,2,2,5,2,5,1,5,4,4,2,,17,9.6,5.5,5.9,83,10,Happy,,23,Computer Science,Female,3.15,0,5,2,Good,Low,Poor,Low,Married,Never,Never,No,No,5,Low,19,Off-Campus
+S1853,21,19,1,24,2,3,4,4,3,4,0,0,3,3,3,2,0,3,1,5,1,,18,7.0,6.6,1.9,68,6,Happy,,23,Medical,Male,3.92,5,0,5,Good,Moderate,Poor,Moderate,Single,Never,Frequently,No,No,3,High,22,On-Campus
+S1854,4,27,0,6,1,2,5,2,2,3,4,4,4,2,4,1,3,2,2,1,0,,16,7.1,5.0,3.3,34,5,Happy,,20,Business,Male,3.71,5,0,2,Good,High,Average,High,Single,Never,Frequently,Yes,No,5,Low,28,Off-Campus
+S1855,12,16,1,7,4,3,5,4,2,1,2,1,2,4,4,0,1,2,3,0,2,,22,7.0,8.0,0.1,52,6,Stressed,,25,Law,Male,3.59,0,5,3,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,4,Low,24,With Family
+S1856,14,21,1,11,2,1,2,4,3,3,2,2,3,3,2,2,2,2,3,2,1,,23,5.1,6.7,1.5,24,4,Stressed,,21,Computer Science,Male,3.82,0,4,2,Poor,Moderate,Poor,Low,In a Relationship,Never,Never,No,No,4,Low,16,Off-Campus
+S1857,7,13,1,18,4,3,5,0,0,0,0,0,1,5,4,2,0,2,5,5,2,,25,2.2,6.0,3.7,8,9,Neutral,,25,Engineering,Male,3.32,1,1,2,Average,Low,Average,Low,Married,Never,Frequently,No,No,1,Moderate,27,Off-Campus
+S1858,19,25,1,6,1,3,5,1,5,1,1,1,1,3,0,2,0,2,2,5,0,,23,11.5,7.2,4.7,23,2,Neutral,,18,Medical,Male,3.22,2,5,1,Average,Low,Average,Moderate,In a Relationship,Frequently,Occasionally,No,No,0,Moderate,17,On-Campus
+S1859,18,28,1,7,0,3,5,2,0,5,4,4,1,5,3,5,0,0,0,5,2,,20,7.1,8.2,5.2,17,8,Stressed,,21,Computer Science,Male,3.56,3,3,4,Good,High,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,3,Moderate,18,Off-Campus
+S1860,10,15,1,11,3,1,3,2,2,3,3,3,3,3,2,2,2,2,3,2,1,,16,11.7,7.4,5.0,37,10,Neutral,,22,Others,Female,3.66,5,0,2,Average,Moderate,Poor,High,Married,Never,Never,No,No,3,High,25,With Family
+S1861,11,22,1,24,2,3,4,2,4,0,1,3,0,3,1,1,0,1,4,1,2,,19,4.2,4.3,5.5,14,3,Stressed,,26,Law,Male,3.01,4,1,1,Good,Moderate,Average,Moderate,Single,Never,Occasionally,Yes,No,2,Low,19,On-Campus
+S1862,15,7,1,19,3,3,1,3,3,2,1,1,1,5,1,4,1,4,4,5,2,,20,5.5,7.5,4.2,81,2,Stressed,,21,Computer Science,Female,3.39,3,3,3,Average,High,Average,High,Single,Never,Frequently,No,No,1,Moderate,18,Off-Campus
+S1863,5,27,0,8,1,2,4,2,2,4,4,4,4,2,5,1,3,2,2,1,0,,20,2.5,7.6,3.9,58,8,Neutral,,24,Law,Female,3.08,1,2,5,Good,Moderate,Poor,Low,Married,Never,Occasionally,No,No,2,Moderate,25,Off-Campus
+S1864,14,16,0,13,3,1,2,2,3,3,3,2,3,3,3,3,2,3,2,3,1,,23,6.9,8.2,4.5,79,2,Neutral,,32,Law,Female,3.39,5,2,4,Average,Low,Average,High,In a Relationship,Never,Never,No,No,3,Low,21,Off-Campus
+S1865,2,30,0,19,3,3,0,0,1,0,2,3,0,0,1,5,1,2,3,1,0,,17,10.8,4.3,3.3,57,8,Stressed,,18,Computer Science,Male,3.63,1,5,3,Average,Moderate,Average,Moderate,Married,Never,Occasionally,No,No,3,Moderate,24,With Family
+S1866,3,9,0,8,4,3,1,3,5,1,0,3,2,1,0,4,1,3,1,1,2,,19,8.5,4.4,3.6,34,5,Stressed,,33,Law,Male,3.4,2,3,2,Good,Low,Good,Moderate,Single,Frequently,Occasionally,No,No,5,Low,21,Off-Campus
+S1867,14,23,1,10,2,1,2,4,3,3,2,3,3,3,3,3,2,3,2,3,1,,20,6.7,6.2,4.7,89,8,Stressed,,20,Computer Science,Male,3.47,0,3,2,Good,Moderate,Average,Low,Single,Never,Occasionally,Yes,No,4,Low,25,Off-Campus
+S1868,1,26,0,3,1,2,4,1,2,4,5,4,5,2,5,1,3,2,1,1,0,,25,7.4,6.3,5.8,79,8,Stressed,,19,Law,Female,3.78,3,2,3,Good,Moderate,Average,High,Married,Never,Never,No,No,3,Moderate,29,With Family
+S1869,12,22,0,9,2,1,2,2,3,3,2,3,3,3,3,3,3,2,3,3,1,,19,10.5,7.0,1.8,62,4,Stressed,,29,Computer Science,Male,3.53,2,0,1,Average,Low,Poor,Moderate,In a Relationship,Never,Never,No,No,5,Moderate,23,Off-Campus
+S1870,10,20,1,14,3,1,2,4,3,2,2,2,3,2,2,2,3,2,3,3,1,,22,6.3,5.5,1.1,24,4,Neutral,,30,Business,Male,3.96,2,3,4,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Moderate,18,Off-Campus
+S1871,14,19,0,11,3,1,2,2,2,3,2,3,3,3,2,2,2,3,2,3,1,,17,10.8,7.7,4.1,41,3,Neutral,,27,Engineering,Female,3.73,5,1,1,Good,Low,Average,Moderate,In a Relationship,Never,Never,No,No,4,Low,21,With Family
+S1872,12,17,1,12,3,1,3,4,3,2,3,2,2,2,2,2,2,2,2,3,1,,24,9.3,7.7,1.1,2,10,Neutral,,18,Medical,Male,3.29,1,3,4,Good,Moderate,Good,Moderate,In a Relationship,Never,Frequently,No,No,3,High,25,Off-Campus
+S1873,7,26,0,7,1,2,5,1,2,4,4,5,4,1,4,1,3,1,1,1,0,,19,9.6,4.6,1.0,19,5,Stressed,,21,Medical,Female,3.03,3,2,0,Good,Moderate,Average,Moderate,Married,Occasionally,Frequently,Yes,No,0,High,19,Off-Campus
+S1874,3,25,0,5,1,2,5,1,1,4,4,4,5,1,4,1,3,1,1,1,0,,18,5.7,7.5,3.1,6,6,Happy,,29,Others,Female,3.33,2,0,1,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,3,Moderate,26,On-Campus
+S1875,12,17,1,13,3,1,3,2,3,3,2,2,2,3,3,3,3,2,3,2,1,,20,6.0,7.5,2.3,68,7,Neutral,,22,Computer Science,Male,3.45,3,4,2,Good,High,Poor,Low,Single,Never,Never,No,No,2,Moderate,16,Off-Campus
+S1876,13,17,0,11,3,1,3,4,2,2,2,3,2,3,3,2,2,3,3,3,1,,18,7.7,4.8,2.6,2,3,Happy,,24,Business,Male,3.72,1,4,0,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,0,Low,29,On-Campus
+S1877,0,27,0,7,1,2,5,1,2,4,4,5,4,1,4,1,3,1,2,1,0,,17,3.9,8.8,3.3,23,6,Neutral,,28,Engineering,Male,3.36,5,3,2,Average,Low,Average,Low,Single,Never,Never,No,No,5,High,24,On-Campus
+S1878,9,17,1,9,3,1,2,4,2,3,2,3,3,2,3,3,2,2,3,2,1,,16,7.5,6.6,0.8,13,6,Happy,,25,Engineering,Male,3.42,2,0,5,Poor,Moderate,Average,High,In a Relationship,Never,Occasionally,No,No,1,High,21,Off-Campus
+S1879,3,26,0,4,1,2,4,2,2,4,5,5,4,1,4,1,3,2,2,1,0,,18,2.7,7.9,3.5,36,8,Neutral,,28,Medical,Male,3.29,2,3,3,Good,Low,Good,Moderate,Single,Occasionally,Frequently,No,No,0,Low,20,Off-Campus
+S1880,9,24,0,14,3,1,2,2,3,3,3,3,3,2,3,3,2,2,2,3,1,,20,7.0,7.6,1.5,34,8,Neutral,,22,Law,Male,3.65,0,1,5,Average,High,Average,Low,In a Relationship,Never,Never,No,No,5,Moderate,17,Off-Campus
+S1881,14,23,0,13,2,1,2,2,3,2,3,3,2,3,2,3,2,2,2,2,1,,25,9.6,4.8,2.0,16,1,Neutral,,21,Others,Female,3.21,2,2,4,Good,High,Average,Moderate,In a Relationship,Occasionally,Never,Yes,No,4,Moderate,22,Off-Campus
+S1882,8,29,0,7,1,2,5,1,1,3,4,5,4,2,4,1,3,2,1,1,0,,25,4.8,4.6,4.3,56,2,Happy,,28,Medical,Female,3.3,3,5,3,Good,Low,Average,High,In a Relationship,Never,Never,Yes,No,2,Moderate,21,Off-Campus
+S1883,0,28,0,6,1,2,5,1,1,3,4,5,4,2,4,1,3,2,1,1,0,,20,11.9,7.9,0.9,1,8,Happy,,21,Law,Male,3.6,2,1,4,Average,High,Average,Moderate,Single,Never,Occasionally,No,No,5,Moderate,24,Off-Campus
+S1884,15,30,0,7,3,3,4,0,0,0,0,2,5,2,2,4,0,5,4,1,1,,23,8.8,5.3,0.9,29,2,Neutral,,24,Medical,Male,3.3,3,2,1,Good,High,Average,High,In a Relationship,Frequently,Never,No,No,1,Moderate,24,With Family
+S1885,16,13,1,25,3,3,1,4,4,1,1,2,1,4,2,4,1,4,4,4,2,,17,3.2,8.4,1.9,11,6,Neutral,,28,Engineering,Male,3.7,3,1,0,Good,Moderate,Good,High,In a Relationship,Never,Occasionally,No,No,2,High,26,Off-Campus
+S1886,3,30,0,8,1,2,4,2,1,4,4,5,4,1,5,1,3,2,1,1,0,,23,11.8,7.9,0.3,19,8,Neutral,,21,Computer Science,Male,3.82,1,4,3,Average,High,Average,High,In a Relationship,Never,Never,No,No,1,Low,22,Off-Campus
+S1887,8,4,1,16,5,3,4,2,3,0,3,4,4,0,2,1,0,1,5,1,2,,20,5.9,4.1,5.6,1,8,Happy,,20,Law,Female,3.24,0,1,5,Average,Moderate,Average,High,Married,Never,Occasionally,No,No,1,Moderate,28,Off-Campus
+S1888,14,25,0,13,2,1,2,2,2,2,3,3,2,3,2,2,3,2,2,2,1,,22,9.9,8.0,3.7,63,3,Stressed,,26,Engineering,Male,3.41,2,3,2,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,1,Moderate,23,With Family
+S1889,16,14,1,19,4,3,1,3,3,1,1,1,1,3,1,4,1,4,5,4,2,,20,5.4,5.4,4.0,27,5,Happy,,23,Others,Male,3.54,5,3,0,Average,Moderate,Average,High,Single,Never,Never,No,No,3,High,18,Off-Campus
+S1890,18,15,1,25,5,3,1,4,5,2,2,1,1,3,2,5,1,4,4,5,2,,24,11.4,4.3,2.9,43,6,Stressed,,18,Law,Male,3.17,3,3,2,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,4,Low,28,Off-Campus
+S1891,15,6,1,22,5,3,1,4,3,2,1,1,1,5,1,4,1,4,5,4,2,,24,9.5,7.6,3.4,53,10,Stressed,,20,Business,Male,3.31,3,5,3,Poor,Moderate,Good,High,Married,Never,Occasionally,No,No,0,High,29,On-Campus
+S1892,21,9,1,17,4,3,1,3,3,2,2,1,1,3,2,4,1,5,5,5,2,,23,4.0,6.9,2.1,39,10,Neutral,,22,Computer Science,Male,3.75,2,2,0,Good,Low,Average,High,In a Relationship,Never,Never,Yes,No,1,Moderate,19,Off-Campus
+S1893,13,23,0,13,2,1,3,2,3,2,3,3,3,3,2,2,2,2,3,3,1,,23,7.1,4.4,4.7,63,3,Happy,,30,Law,Male,3.45,0,4,4,Average,Moderate,Average,Moderate,Single,Frequently,Occasionally,No,No,3,High,19,On-Campus
+S1894,16,4,1,27,3,3,1,5,4,2,0,1,3,2,2,0,1,5,3,4,2,,17,7.0,6.3,1.9,47,9,Happy,,32,Business,Male,3.22,0,2,2,Good,Low,Average,Moderate,Single,Never,Occasionally,No,No,2,Moderate,19,With Family
+S1895,17,5,1,19,4,3,1,4,4,2,2,2,1,3,2,5,1,5,4,5,2,,25,2.5,5.8,1.3,59,2,Stressed,,30,Law,Male,3.18,1,0,1,Good,Low,Poor,Low,Married,Never,Never,No,No,2,Moderate,18,Off-Campus
+S1896,14,16,0,10,2,1,3,4,3,2,2,2,3,2,2,2,2,2,2,3,1,,16,3.4,6.5,1.1,89,7,Stressed,,31,Computer Science,Female,3.43,2,3,1,Good,Low,Poor,Low,Married,Frequently,Never,No,No,5,High,17,With Family
+S1897,15,6,0,9,1,3,3,5,0,4,1,4,1,4,2,1,0,0,2,2,0,,22,5.3,6.8,0.4,4,2,Stressed,,20,Engineering,Male,3.78,0,1,0,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,2,High,15,With Family
+S1898,20,11,0,8,0,3,1,4,3,1,0,5,0,0,4,4,1,3,1,2,0,,21,6.7,5.8,3.0,42,6,Happy,,25,Business,Male,3.61,1,2,1,Average,Low,Average,Moderate,Married,Never,Never,No,No,0,Moderate,16,On-Campus
+S1899,8,30,0,2,1,2,5,1,2,3,5,4,4,1,4,1,3,1,1,1,0,,25,6.6,5.3,2.5,10,9,Happy,,18,Others,Male,3.41,5,5,4,Average,Low,Average,Moderate,Single,Never,Never,No,No,4,Moderate,28,Off-Campus
+S1900,1,26,0,2,1,2,4,2,1,4,4,5,4,1,5,1,3,1,1,1,0,,20,8.1,4.5,3.2,18,2,Happy,,20,Medical,Male,3.95,5,2,2,Good,Moderate,Good,High,In a Relationship,Frequently,Never,No,No,1,Moderate,16,With Family
+S1901,6,25,0,6,1,2,5,1,2,3,4,5,5,1,4,1,3,2,1,1,0,,16,7.2,6.9,0.6,7,5,Happy,,20,Medical,Female,3.14,5,4,1,Average,Moderate,Good,Low,Single,Frequently,Never,No,No,1,Moderate,19,On-Campus
+S1902,21,10,0,21,1,3,1,5,4,3,1,0,2,5,0,5,0,2,2,1,1,,17,5.3,7.6,1.3,34,9,Happy,,18,Law,Male,3.5,3,2,1,Average,Moderate,Average,Moderate,In a Relationship,Never,Never,Yes,No,3,Low,23,Off-Campus
+S1903,1,25,0,6,1,2,4,1,1,3,4,5,5,2,5,1,3,1,2,1,0,,19,8.1,5.1,1.3,50,8,Neutral,,19,Business,Male,3.31,3,0,3,Good,Moderate,Average,Moderate,Married,Never,Never,No,No,3,Moderate,22,With Family
+S1904,15,11,1,21,3,3,1,4,3,2,1,1,2,3,1,5,1,5,5,4,2,,25,3.6,6.5,2.0,9,7,Stressed,,18,Engineering,Female,3.7,3,1,1,Good,Moderate,Average,Moderate,In a Relationship,Never,Frequently,No,Yes,2,Low,20,Off-Campus
+S1905,8,29,0,1,1,2,5,1,2,4,4,4,5,1,4,1,3,2,1,1,0,,25,11.9,4.2,2.2,69,10,Happy,,21,Computer Science,Male,3.55,4,5,3,Average,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,No,5,Moderate,20,Off-Campus
+S1906,10,21,1,10,2,1,3,2,2,2,2,3,3,2,3,3,3,3,2,3,1,,16,9.4,8.3,1.3,60,7,Neutral,,20,Engineering,Male,3.16,3,0,3,Average,Moderate,Average,Moderate,Single,Occasionally,Never,Yes,No,3,Low,15,On-Campus
+S1907,4,27,0,3,1,2,4,2,1,3,5,4,5,1,5,1,3,1,1,1,0,,20,5.0,5.2,4.5,23,4,Neutral,,25,Computer Science,Male,3.57,3,1,0,Average,Moderate,Average,Moderate,Married,Never,Never,No,No,5,Low,28,On-Campus
+S1908,18,7,1,25,4,3,1,3,3,2,1,2,2,4,1,5,1,4,4,4,2,,25,5.4,6.4,3.2,24,10,Neutral,,26,Law,Male,3.11,1,1,0,Good,Moderate,Average,Low,Single,Never,Never,Yes,No,5,High,25,With Family
+S1909,18,8,1,19,3,3,1,3,4,1,1,2,2,5,1,4,1,5,5,5,2,,16,10.3,5.9,6.0,32,4,Happy,,18,Law,Male,3.6,1,1,3,Average,Moderate,Average,High,Married,Never,Never,No,No,3,Moderate,17,On-Campus
+S1910,6,25,0,8,1,2,5,1,1,4,5,4,4,2,5,1,3,2,2,1,0,,18,7.3,4.8,4.9,48,9,Happy,,22,Business,Male,3.55,1,3,2,Average,Moderate,Average,Low,In a Relationship,Never,Never,Yes,No,1,High,26,With Family
+S1911,1,28,0,5,1,2,4,2,1,4,4,4,5,1,5,1,3,1,2,1,0,,23,9.1,8.7,5.9,1,3,Stressed,,21,Medical,Male,3.61,4,4,0,Good,Moderate,Average,Low,Single,Never,Never,No,No,2,Low,16,On-Campus
+S1912,3,27,0,7,1,2,5,2,1,4,5,4,4,2,5,1,3,1,1,1,0,,24,5.0,8.3,0.1,15,8,Stressed,,30,Medical,Female,3.18,3,4,4,Good,Moderate,Average,Low,Single,Never,Occasionally,No,No,4,Moderate,27,With Family
+S1913,14,25,0,9,2,1,2,2,3,3,2,2,2,3,3,3,2,3,3,3,1,,23,10.2,6.8,4.0,31,7,Happy,,21,Medical,Male,3.23,5,2,0,Good,Moderate,Average,High,Single,Never,Occasionally,No,No,1,High,28,On-Campus
+S1914,9,21,0,12,2,1,2,4,3,3,2,3,2,3,2,2,3,2,3,2,1,,20,5.7,8.6,2.7,49,2,Stressed,,28,Engineering,Male,3.58,1,1,3,Good,Moderate,Average,High,Single,Never,Never,Yes,Yes,0,Moderate,27,On-Campus
+S1915,18,12,1,23,5,3,1,3,4,2,2,1,1,3,1,4,1,4,5,5,2,,18,8.7,7.7,5.4,56,6,Neutral,,21,Medical,Male,3.2,3,2,1,Good,Low,Good,High,Single,Never,Never,Yes,Yes,4,Moderate,26,On-Campus
+S1916,8,28,0,5,1,2,5,1,2,4,5,4,4,2,4,1,3,1,2,1,0,,25,11.8,6.1,3.7,31,4,Neutral,,25,Engineering,Female,3.56,1,0,5,Average,Moderate,Poor,Moderate,In a Relationship,Never,Never,No,No,2,Moderate,26,With Family
+S1917,3,9,0,22,1,3,4,0,2,3,1,0,4,0,4,2,1,2,1,0,1,,22,7.8,5.6,3.7,4,10,Happy,,21,Medical,Female,3.26,4,0,2,Average,High,Average,High,In a Relationship,Never,Occasionally,Yes,No,3,Low,21,On-Campus
+S1918,13,16,0,14,2,1,2,2,2,2,2,2,2,3,2,2,3,2,3,2,1,,23,10.0,6.1,5.8,25,7,Neutral,,33,Others,Male,3.64,3,1,2,Average,Low,Average,Moderate,Single,Never,Occasionally,No,No,2,Moderate,24,On-Campus
+S1919,7,22,0,1,5,3,5,3,5,5,2,2,2,5,3,4,0,1,4,4,2,,17,9.3,7.6,4.1,58,7,Neutral,,25,Medical,Female,3.56,5,3,5,Good,Moderate,Good,High,Single,Occasionally,Never,No,No,2,Moderate,17,Off-Campus
+S1920,12,25,0,11,3,1,2,2,2,3,2,3,3,3,2,3,2,2,2,3,1,,23,8.9,5.4,1.9,12,10,Stressed,,24,Others,Male,3.61,0,3,1,Average,High,Average,Moderate,Married,Never,Frequently,Yes,No,5,Low,15,On-Campus
+S1921,14,23,1,10,3,1,3,4,2,2,2,3,2,3,3,3,2,2,2,3,1,,21,2.3,4.4,5.5,66,6,Happy,,26,Computer Science,Male,3.24,1,5,2,Good,Moderate,Average,High,Single,Never,Never,No,No,2,Low,18,Off-Campus
+S1922,17,2,1,17,4,3,1,3,5,1,2,2,2,4,1,5,1,5,4,4,2,,22,6.7,5.9,5.7,85,9,Stressed,,25,Law,Female,3.43,0,5,5,Average,Moderate,Average,Low,Single,Never,Never,Yes,No,5,Moderate,28,On-Campus
+S1923,0,27,0,3,1,2,4,2,1,3,5,4,5,1,4,1,3,2,2,1,0,,21,11.7,6.5,2.3,26,4,Neutral,,18,Others,Male,3.4,1,4,4,Good,Moderate,Good,Moderate,Single,Never,Never,No,No,4,Moderate,23,On-Campus
+S1924,18,13,1,18,5,3,1,4,5,2,1,1,1,3,2,4,1,4,5,4,2,,21,9.8,8.5,3.2,60,3,Happy,,20,Others,Male,4.0,2,0,2,Good,Moderate,Average,High,Single,Never,Occasionally,No,No,3,Low,19,With Family
+S1925,12,19,0,9,2,1,3,2,3,2,3,3,2,2,3,3,3,2,2,3,1,,17,9.8,4.9,1.7,49,2,Happy,,25,Engineering,Female,3.21,0,3,2,Good,High,Good,Moderate,Single,Never,Never,No,No,0,Low,27,Off-Campus
+S1926,13,21,1,12,2,1,2,2,3,3,3,3,2,2,2,2,3,2,2,2,1,,18,7.8,8.0,5.5,87,10,Neutral,,23,Computer Science,Female,2.88,1,2,2,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,2,High,19,On-Campus
+S1927,11,20,0,11,3,1,2,4,2,2,3,2,3,3,2,2,2,2,3,2,1,,21,9.2,8.9,4.9,39,8,Neutral,,27,Medical,Male,3.37,4,2,3,Average,Low,Average,Moderate,Married,Never,Occasionally,No,No,0,Moderate,24,On-Campus
+S1928,15,3,1,27,4,3,1,3,3,2,1,2,1,4,2,5,1,5,4,4,2,,22,7.8,8.8,2.2,41,2,Happy,,26,Computer Science,Male,3.34,1,2,2,Poor,Moderate,Good,Low,In a Relationship,Never,Never,No,No,0,High,19,On-Campus
+S1929,9,20,1,9,3,1,2,4,2,2,3,2,2,3,3,2,3,2,2,3,1,,23,3.7,4.3,4.8,20,10,Neutral,,26,Others,Female,3.65,1,5,3,Good,Moderate,Poor,High,Married,Never,Never,No,No,5,Low,24,Off-Campus
+S1930,2,25,0,7,1,2,4,1,1,4,5,4,5,1,5,1,3,2,1,1,0,,20,8.3,6.3,2.7,80,10,Neutral,,19,Law,Female,3.64,1,4,2,Good,Moderate,Poor,Moderate,Single,Never,Occasionally,No,No,0,Moderate,17,Off-Campus
+S1931,19,13,1,26,3,3,1,5,3,2,2,2,2,3,2,5,1,5,5,5,2,,22,8.2,5.4,0.3,5,8,Happy,,29,Medical,Female,3.78,3,5,0,Good,Low,Poor,Moderate,Married,Never,Never,No,No,3,Moderate,15,Off-Campus
+S1932,19,9,1,16,5,3,1,3,5,1,2,2,2,3,2,4,1,4,4,4,2,,24,10.4,8.2,5.4,70,6,Happy,,30,Computer Science,Male,3.87,1,2,3,Good,Low,Poor,Moderate,In a Relationship,Never,Occasionally,No,No,0,Low,18,With Family
+S1933,17,12,1,16,3,3,1,5,3,1,2,2,2,4,1,5,1,5,5,5,2,,16,3.5,5.6,1.2,66,9,Stressed,,18,Business,Female,4.0,0,0,4,Good,Low,Poor,Moderate,Single,Occasionally,Occasionally,No,No,1,High,15,On-Campus
+S1934,10,25,1,9,2,1,2,4,3,2,2,2,3,3,2,2,3,2,3,3,1,,23,8.8,6.8,3.1,15,2,Stressed,,32,Medical,Female,3.64,5,3,2,Average,Moderate,Average,Low,Single,Never,Never,No,No,0,Moderate,20,With Family
+S1935,6,27,0,5,1,2,5,1,1,4,5,5,4,2,4,1,3,1,2,1,0,,17,2.3,4.0,5.7,32,8,Stressed,,22,Law,Male,3.55,5,1,3,Average,Low,Average,Low,Single,Never,Never,Yes,No,5,Low,19,Off-Campus
+S1936,4,25,0,2,1,2,4,2,1,4,4,4,5,2,4,1,3,2,2,1,0,,21,11.5,5.0,1.0,61,3,Neutral,,22,Medical,Male,3.51,4,3,3,Good,High,Average,Moderate,Single,Occasionally,Never,No,Yes,4,High,17,On-Campus
+S1937,20,0,1,22,5,3,1,4,5,2,1,1,1,3,2,5,1,5,4,5,2,,20,3.1,6.8,5.7,81,5,Stressed,,20,Computer Science,Male,3.16,1,5,1,Average,Low,Average,High,Single,Never,Occasionally,Yes,No,3,Moderate,20,On-Campus
+S1938,9,23,0,13,2,1,2,2,2,2,2,3,3,3,3,2,3,3,3,2,1,,21,2.2,5.5,3.2,38,7,Stressed,,21,Law,Female,3.24,3,2,5,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,4,Moderate,22,On-Campus
+S1939,21,11,1,26,5,3,1,4,3,1,2,2,2,4,2,4,1,5,4,5,2,,17,5.1,7.1,0.0,25,2,Neutral,,23,Law,Male,3.08,0,1,4,Average,Low,Good,High,In a Relationship,Never,Never,Yes,No,3,Low,28,With Family
+S1940,11,20,0,12,2,1,3,2,2,3,3,2,3,3,3,2,3,3,2,3,1,,22,3.5,6.3,0.4,46,10,Neutral,,24,Medical,Female,3.8,4,3,3,Good,High,Average,Low,Married,Never,Never,Yes,No,0,Low,29,Off-Campus
+S1941,2,27,0,7,1,2,4,1,1,4,4,5,4,1,5,1,3,1,1,1,0,,24,8.9,7.0,4.0,6,2,Neutral,,19,Law,Male,3.68,1,2,5,Average,Moderate,Average,Moderate,Single,Never,Never,No,No,2,Moderate,25,On-Campus
+S1942,10,23,1,11,3,1,2,4,2,3,2,3,3,3,2,2,2,2,2,3,1,,16,6.1,6.5,4.6,85,10,Stressed,,27,Medical,Male,2.76,4,0,3,Good,Moderate,Average,Low,Single,Never,Never,No,No,5,Moderate,19,Off-Campus
+S1943,15,3,1,24,5,3,1,3,3,2,1,2,1,4,2,4,1,5,5,4,2,,24,9.7,7.9,5.2,27,7,Stressed,,18,Law,Female,3.95,2,2,0,Good,Low,Average,Low,Married,Never,Never,No,No,4,Moderate,24,On-Campus
+S1944,17,15,1,27,3,3,1,3,4,2,2,2,2,5,1,5,1,5,4,4,2,,23,11.2,5.0,2.5,14,6,Happy,,19,Others,Female,3.45,0,4,1,Average,Moderate,Good,High,Single,Never,Never,Yes,No,2,Moderate,16,Off-Campus
+S1945,19,13,1,21,5,3,1,4,4,2,1,1,2,5,2,5,1,4,5,4,2,,22,10.7,8.5,0.6,30,8,Stressed,,22,Medical,Female,3.65,5,0,3,Good,High,Average,Moderate,Single,Occasionally,Occasionally,No,No,3,Moderate,19,Off-Campus
+S1946,12,0,0,5,3,3,3,2,5,5,3,2,0,1,4,0,1,4,1,1,2,,16,9.4,7.8,3.2,81,1,Stressed,,18,Engineering,Female,3.32,0,1,3,Good,Moderate,Good,High,Married,Frequently,Never,No,No,4,High,25,Off-Campus
+S1947,17,1,1,15,4,3,1,5,5,2,2,2,2,3,2,5,1,5,4,4,2,,19,2.6,5.2,4.2,55,2,Neutral,,25,Law,Male,3.68,4,2,4,Good,Moderate,Good,Moderate,In a Relationship,Never,Never,No,No,1,Low,18,With Family
+S1948,20,6,1,17,4,3,1,5,3,1,2,2,2,4,2,4,1,5,4,4,2,,24,3.4,4.0,5.9,41,4,Neutral,,26,Business,Male,3.52,3,1,0,Poor,Moderate,Average,Moderate,Single,Never,Never,Yes,No,3,Low,21,Off-Campus
+S1949,20,10,1,21,3,3,1,4,3,1,2,2,2,4,1,4,1,4,4,5,2,,21,4.1,6.1,4.7,1,3,Stressed,,20,Engineering,Female,3.67,0,3,5,Average,Moderate,Average,Moderate,Single,Occasionally,Occasionally,No,No,2,Moderate,15,Off-Campus
+S1950,10,24,0,10,2,1,3,4,3,2,3,2,2,2,2,3,3,3,2,3,1,,25,5.3,5.2,3.9,21,10,Happy,,28,Engineering,Female,4.0,2,3,4,Average,Low,Average,High,Married,Frequently,Occasionally,No,No,4,Moderate,26,Off-Campus
+S1951,18,11,1,26,3,3,1,5,4,2,2,1,2,5,2,5,1,4,4,5,2,,23,8.6,5.7,5.6,35,1,Stressed,,26,Medical,Female,4.0,5,0,4,Average,Low,Average,Moderate,In a Relationship,Occasionally,Never,Yes,No,1,Low,22,Off-Campus
+S1952,19,13,1,21,5,3,1,5,5,2,2,2,1,3,1,4,1,5,5,5,2,,23,7.3,8.2,4.5,74,3,Neutral,,26,Engineering,Male,3.72,5,1,5,Average,High,Average,High,In a Relationship,Never,Occasionally,Yes,No,0,Moderate,21,Off-Campus
+S1953,18,6,1,18,3,3,1,5,3,1,1,1,1,5,2,5,1,4,5,5,2,,16,5.1,8.4,0.9,15,3,Happy,,21,Business,Female,3.63,0,0,0,Good,High,Average,Moderate,Single,Never,Never,No,No,3,High,22,With Family
+S1954,1,27,0,6,1,2,5,2,2,3,4,4,5,1,4,1,3,1,1,1,0,,19,3.7,8.8,2.8,50,8,Happy,,19,Business,Male,3.74,4,1,3,Good,Moderate,Average,High,Single,Never,Never,No,No,1,Moderate,17,With Family
+S1955,10,25,0,12,3,1,2,4,3,3,2,3,3,3,3,3,3,3,2,2,1,,20,11.1,4.0,2.0,31,9,Stressed,,22,Law,Male,3.46,0,3,4,Good,Low,Average,Low,Single,Never,Never,No,No,4,Low,28,Off-Campus
+S1956,21,12,1,15,4,3,1,5,5,2,1,2,1,3,1,4,1,4,4,4,2,,24,5.4,7.3,0.5,1,5,Stressed,,26,Computer Science,Female,3.54,1,3,0,Average,Low,Poor,High,In a Relationship,Never,Never,Yes,No,5,Moderate,15,With Family
+S1957,15,6,1,18,3,3,1,3,4,2,1,2,1,3,2,5,1,5,5,4,2,,18,5.5,8.2,0.3,5,7,Happy,,33,Medical,Male,3.6,4,2,0,Average,Low,Poor,Moderate,Married,Never,Occasionally,Yes,No,1,Low,18,With Family
+S1958,3,27,0,3,1,2,4,2,2,4,4,5,4,1,5,1,3,2,2,1,0,,20,9.7,7.6,4.8,74,10,Neutral,,28,Others,Female,3.33,1,2,4,Good,Low,Good,High,Single,Never,Occasionally,Yes,No,4,Moderate,28,On-Campus
+S1959,6,29,0,0,1,2,5,1,2,4,5,4,4,2,4,1,3,2,1,1,0,,23,9.2,4.5,3.3,88,10,Happy,,24,Computer Science,Female,3.71,2,5,0,Average,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,2,Moderate,22,On-Campus
+S1960,21,5,1,23,5,3,1,4,5,1,2,1,1,3,1,5,1,4,4,4,2,,23,8.4,6.6,3.4,60,8,Neutral,,18,Medical,Female,3.37,5,0,2,Poor,High,Average,Low,In a Relationship,Never,Occasionally,No,No,3,Moderate,28,Off-Campus
+S1961,18,14,1,24,3,3,1,5,4,1,1,1,2,3,1,5,1,5,5,4,2,,17,8.9,5.2,1.4,88,4,Stressed,,19,Engineering,Female,4.0,0,4,1,Good,Moderate,Average,High,Single,Never,Never,Yes,No,1,High,26,On-Campus
+S1962,6,30,0,4,1,2,5,2,1,3,4,4,5,1,4,1,3,2,1,1,0,,16,8.1,6.5,1.6,76,4,Happy,,20,Law,Male,3.52,3,1,0,Good,Low,Average,High,Single,Never,Never,Yes,No,0,High,18,Off-Campus
+S1963,17,9,1,18,3,3,1,4,3,1,2,2,1,3,1,5,1,4,4,5,2,,25,3.9,4.3,2.3,19,6,Neutral,,22,Law,Female,3.66,3,4,3,Good,Low,Average,Moderate,Single,Never,Occasionally,Yes,Yes,2,Moderate,15,Off-Campus
+S1964,4,28,0,4,1,2,5,1,2,3,4,5,5,2,5,1,3,1,1,1,0,,19,4.5,9.0,3.8,47,5,Neutral,,28,Computer Science,Male,3.78,3,1,2,Average,Moderate,Average,High,Married,Never,Occasionally,Yes,No,4,Moderate,20,With Family
+S1965,9,24,1,14,2,1,3,4,2,2,2,2,3,2,2,2,2,3,2,3,1,,18,7.6,7.6,2.6,11,10,Happy,,35,Engineering,Male,3.51,2,3,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,Yes,No,5,Moderate,20,On-Campus
+S1966,16,14,1,18,4,3,1,5,5,1,1,2,2,3,1,4,1,5,4,4,2,,20,4.2,4.5,0.1,31,5,Neutral,,29,Others,Female,3.46,2,1,0,Average,High,Average,Low,Married,Never,Frequently,No,No,3,Moderate,21,Off-Campus
+S1967,10,20,0,14,2,1,3,2,2,2,2,2,2,3,2,3,3,2,2,3,1,,24,11.7,8.6,4.0,20,7,Happy,,18,Law,Male,3.23,5,3,4,Average,Low,Poor,Moderate,Single,Never,Never,No,No,1,Low,19,With Family
+S1968,4,29,0,6,1,2,5,1,2,3,5,4,5,2,5,1,3,2,2,1,0,,16,5.0,8.5,3.2,63,6,Stressed,,19,Medical,Female,3.35,3,2,2,Average,Moderate,Good,High,Single,Never,Frequently,No,No,1,High,17,With Family
+S1969,11,20,1,11,2,1,2,2,2,3,2,2,3,2,3,2,3,2,3,3,1,,24,4.9,6.6,3.8,11,2,Stressed,,26,Others,Female,3.76,4,3,3,Poor,Moderate,Average,Moderate,Married,Never,Occasionally,Yes,Yes,4,Low,22,On-Campus
+S1970,13,25,1,11,3,1,2,4,3,2,2,2,2,3,3,2,2,3,2,2,1,,22,4.1,7.5,3.7,87,10,Happy,,18,Engineering,Male,3.5,0,2,2,Average,Low,Poor,High,Single,Never,Occasionally,Yes,No,1,Low,17,On-Campus
+S1971,17,2,1,24,4,3,1,5,5,2,2,2,1,3,2,5,1,4,4,4,2,,17,9.0,5.9,4.5,79,1,Stressed,,18,Business,Male,3.68,2,0,3,Good,Moderate,Good,Moderate,Single,Never,Occasionally,No,No,1,Low,23,With Family
+S1972,7,25,0,5,1,2,5,1,1,4,5,4,5,1,5,1,3,2,1,1,0,,19,5.2,8.9,3.5,43,10,Stressed,,18,Computer Science,Female,3.52,3,4,3,Good,High,Average,Moderate,Married,Never,Never,Yes,No,5,Low,17,With Family
+S1973,21,1,1,19,5,3,1,3,5,2,2,1,1,3,1,5,1,5,4,4,2,,17,5.5,4.4,4.2,80,9,Happy,,28,Engineering,Male,3.39,2,1,1,Good,High,Average,Low,Married,Never,Never,Yes,No,2,Moderate,19,Off-Campus
+S1974,1,26,0,0,1,2,5,1,2,4,4,4,5,2,4,1,3,2,2,1,0,,23,11.3,4.5,0.4,7,7,Neutral,,26,Computer Science,Male,3.86,0,4,2,Average,High,Good,Low,Single,Never,Never,No,No,4,Low,27,Off-Campus
+S1975,20,11,1,26,4,3,1,4,5,2,2,1,2,3,1,5,1,4,4,4,2,,17,10.0,4.7,5.6,7,3,Happy,,27,Law,Female,3.8,5,4,4,Good,Moderate,Poor,Low,In a Relationship,Occasionally,Occasionally,No,No,0,Moderate,23,Off-Campus
+S1976,6,25,0,7,1,2,4,1,1,4,5,5,5,1,4,1,3,1,2,1,0,,18,4.7,8.1,0.6,45,5,Happy,,23,Law,Male,3.48,3,0,4,Good,Low,Average,Low,Single,Never,Never,No,No,3,High,29,Off-Campus
+S1977,10,21,1,11,3,1,3,2,2,3,2,3,3,2,2,2,2,3,2,2,1,,23,3.2,4.4,4.7,82,1,Happy,,20,Medical,Female,3.17,4,3,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,2,Moderate,22,With Family
+S1978,17,24,1,12,3,3,1,0,3,4,3,0,5,5,3,2,0,3,1,1,2,,20,8.8,6.8,1.8,19,6,Stressed,,28,Medical,Male,3.65,5,5,1,Good,Moderate,Average,High,Single,Never,Never,Yes,No,3,Low,19,Off-Campus
+S1979,18,2,1,24,3,3,1,3,4,2,2,2,2,5,2,4,1,4,5,4,2,,24,5.8,6.2,0.5,89,9,Neutral,,23,Others,Female,3.42,2,3,2,Good,High,Average,Low,In a Relationship,Never,Occasionally,Yes,No,2,Moderate,27,Off-Campus
+S1980,7,26,0,3,1,2,5,2,1,3,4,5,5,2,4,1,3,2,1,1,0,,20,11.8,8.8,4.6,68,1,Stressed,,29,Computer Science,Male,3.73,1,4,0,Average,Moderate,Average,Low,In a Relationship,Never,Never,No,No,2,Moderate,22,On-Campus
+S1981,10,20,0,13,2,1,2,4,2,3,2,3,2,2,3,3,3,2,3,3,1,,22,10.2,5.2,2.6,13,1,Stressed,,22,Engineering,Female,3.48,5,4,3,Average,Moderate,Good,Low,Single,Never,Occasionally,No,Yes,0,Moderate,18,On-Campus
+S1982,17,10,1,27,4,3,1,4,4,1,2,1,1,5,2,4,1,5,5,4,2,,23,11.5,5.3,2.4,16,9,Happy,,23,Engineering,Female,3.73,2,0,3,Average,Moderate,Poor,Low,Married,Never,Never,Yes,No,4,Low,22,With Family
+S1983,19,2,1,23,3,3,1,3,4,2,2,2,2,3,1,4,1,4,5,4,2,,23,10.0,5.6,4.0,62,6,Stressed,,25,Business,Female,3.82,2,1,0,Good,High,Average,High,Single,Never,Occasionally,No,No,0,Moderate,23,With Family
+S1984,9,29,0,6,3,3,4,0,5,0,2,4,5,5,1,3,1,5,4,0,0,,19,4.9,8.0,2.8,29,2,Neutral,,18,Business,Female,3.6,1,5,0,Average,High,Average,Moderate,Single,Never,Occasionally,No,No,3,Low,18,On-Campus
+S1985,19,10,1,15,4,3,1,4,5,1,1,1,1,4,1,4,1,4,4,5,2,,23,4.9,7.5,3.2,40,5,Happy,,19,Law,Female,3.27,5,4,0,Poor,High,Poor,Moderate,Married,Occasionally,Occasionally,Yes,No,2,Low,17,Off-Campus
+S1986,21,3,1,23,5,3,1,3,5,2,1,2,1,4,2,5,1,5,5,5,2,,24,9.1,7.7,0.8,71,1,Neutral,,24,Medical,Female,3.43,4,3,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Never,No,No,2,Moderate,25,On-Campus
+S1987,8,28,0,2,1,2,4,2,1,4,5,4,5,1,4,1,3,1,1,1,0,,18,5.5,5.6,2.3,82,4,Neutral,,20,Medical,Male,3.76,5,1,2,Average,Low,Poor,Moderate,Single,Never,Occasionally,No,No,4,Moderate,25,With Family
+S1988,21,8,1,21,5,3,1,5,5,2,1,2,2,5,2,5,1,5,5,4,2,,22,6.4,5.4,4.8,44,7,Stressed,,30,Medical,Male,3.54,4,1,0,Average,Moderate,Good,High,Single,Frequently,Occasionally,Yes,No,4,Moderate,23,With Family
+S1989,2,30,0,27,1,3,5,2,1,5,3,3,4,0,4,2,1,2,5,3,0,,19,4.6,4.4,3.3,56,10,Stressed,,35,Medical,Male,3.3,5,0,4,Average,Low,Good,Moderate,In a Relationship,Never,Never,No,No,0,Moderate,22,On-Campus
+S1990,9,23,1,10,2,1,2,2,3,2,2,3,3,3,2,2,3,2,2,2,1,,25,6.8,5.0,5.8,24,7,Stressed,,18,Computer Science,Male,3.78,0,4,2,Good,Moderate,Average,High,Single,Never,Frequently,Yes,No,2,High,28,Off-Campus
+S1991,9,17,0,9,2,1,2,4,2,3,2,3,3,2,2,2,2,2,2,2,1,,24,4.0,7.9,0.9,2,6,Happy,,19,Medical,Male,3.77,2,1,3,Good,Moderate,Average,Moderate,Single,Never,Never,No,No,4,Low,20,On-Campus
+S1992,3,5,0,0,5,3,2,2,0,2,1,0,2,4,2,1,1,2,3,4,2,,18,7.4,6.9,4.1,88,7,Stressed,,19,Law,Male,4.0,2,1,1,Good,Moderate,Average,High,Single,Never,Never,No,No,1,Low,16,On-Campus
+S1993,17,14,1,20,5,3,1,5,3,2,1,2,1,3,2,4,1,4,5,5,2,,17,11.3,4.8,5.5,48,7,Neutral,,25,Business,Male,3.55,3,3,2,Good,Moderate,Average,Moderate,In a Relationship,Never,Occasionally,No,No,3,Moderate,26,Off-Campus
+S1994,0,25,0,2,1,2,5,1,2,4,5,5,5,2,4,1,3,1,1,1,0,,20,9.0,4.8,4.8,45,7,Neutral,,21,Others,Female,2.94,3,0,0,Good,Moderate,Average,Low,Single,Never,Occasionally,No,No,2,Moderate,21,Off-Campus
+S1995,9,23,0,11,2,1,3,4,3,2,3,2,2,2,2,3,2,2,3,3,1,,22,3.4,6.3,4.4,17,7,Happy,,19,Computer Science,Male,3.44,0,5,4,Poor,Moderate,Average,High,Married,Never,Occasionally,No,No,2,Low,29,With Family
+S1996,15,1,1,25,4,3,1,4,3,1,1,2,1,3,1,5,1,5,4,4,2,,21,8.2,6.0,2.2,32,9,Stressed,,18,Law,Female,4.0,5,1,4,Good,High,Good,High,In a Relationship,Never,Occasionally,No,No,1,Moderate,27,On-Campus
+S1997,6,27,0,2,1,2,5,2,1,3,5,5,5,2,5,1,3,2,2,1,0,,24,7.9,6.7,5.7,5,4,Neutral,,22,Computer Science,Male,3.38,4,5,0,Good,Moderate,Poor,Moderate,Single,Never,Occasionally,Yes,No,0,Low,23,Off-Campus
+S1998,5,29,0,8,1,2,5,2,1,4,5,4,4,2,4,1,3,1,1,1,0,,20,4.4,8.8,3.3,62,3,Neutral,,21,Medical,Male,3.71,2,0,0,Average,Low,Average,High,Single,Never,Never,No,No,2,Moderate,27,Off-Campus
+S1999,0,25,0,4,1,2,4,1,1,4,4,5,4,1,4,1,3,2,2,1,0,,16,8.7,5.0,3.3,90,8,Neutral,,18,Computer Science,Female,3.48,3,4,1,Average,High,Average,Moderate,Single,Never,Never,Yes,No,5,Moderate,16,On-Campus

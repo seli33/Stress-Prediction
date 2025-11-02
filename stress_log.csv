@@ -1,0 +1,21 @@
+date,day,prediction_value,prediction_label
+2025-10-19,Sun,1,Stressed
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,2,Highly prone
+2025-10-20,Mon,0,Normal
+2025-10-20,Mon,0,Normal
+2025-10-20,Mon,0,Normal
+2025-10-20,Mon,1,Stressed
+2025-10-20,Mon,2,Highly prone
